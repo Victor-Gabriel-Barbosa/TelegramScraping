@@ -1,443 +1,202 @@
 [
   {
+    "id": 22065,
+    "nome": "Apple Macbook Neo 13' 8GB RAM 256GB SSD Índigo",
+    "preco": "4.249,89",
+    "preco_parcelado": "4.822,11",
+    "link": "https://benchpromos.com.br/promocao/apple-macbook-neo-13-8gb-ram-256gb-ssd-indigo/cmpft7u472q2t9t0i6fsigqyy",
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imagens\\22065.jpg"
+  },
+  {
+    "id": 22064,
+    "nome": "Apple MacBook Neo 13' 8GB RAM 256GB SSD Amarelo-Cítrico",
+    "preco": "4.249,89",
+    "preco_parcelado": "4.822,11",
+    "link": "https://benchpromos.com.br/promocao/apple-macbook-neo-13-8gb-ram-256gb-ssd-amarelocitrico/cmpft9dob2q339t0id0rficvz",
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imagens\\22064.jpg"
+  },
+  {
+    "id": 22063,
+    "nome": "Apple MacBook Neo 13' 8GB RAM 256GB SSD Blush",
+    "preco": "4.299,00",
+    "preco_parcelado": "4.876,67",
+    "link": "https://benchpromos.com.br/promocao/apple-macbook-neo-13-8gb-ram-256gb-ssd-blush/cmpft9bsc2q2z9t0i6icb4ebk",
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imagens\\22063.jpg"
+  },
+  {
+    "id": 22062,
+    "nome": "Kit 3 Camisetas Masculina Dry Alpha Lobo Geométrico",
+    "preco": "66,29",
+    "preco_parcelado": "66,29",
+    "link": "https://benchpromos.com.br/promocao/kit-3-camisetas-masculina-dry-alpha-lobo-geometrico/cmpfsr9su2q2p9t0id7ll482t",
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imagens\\22062.jpg"
+  },
+  {
+    "id": 22061,
+    "nome": "Kit Microfone Condensador Fifine T732",
+    "preco": "159,99",
+    "preco_parcelado": "188,22",
+    "link": "https://benchpromos.com.br/promocao/kit-microfone-condensador-fifine-t732/cmpfrzuzs2q2d9t0ioohcocbg",
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imagens\\22061.jpg"
+  },
+  {
+    "id": 22060,
+    "nome": "Console Portátil Retrô BATLEXP G350",
+    "preco": "247,17",
+    "preco_parcelado": "274,32",
+    "link": "https://benchpromos.com.br/promocao/console-portatil-retro-batlexp-g350/cmpfpqja62q279t0iulofw2m9",
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imagens\\22060.jpg"
+  },
+  {
+    "id": 22059,
+    "nome": "Console Portátil Retrô ANBERNIC RG40XX H",
+    "preco": "388,64",
+    "preco_parcelado": "431,37",
+    "link": "https://benchpromos.com.br/promocao/console-portatil-retro-anbernic-rg40xx-h/cmpfnxyr42q0b9t0i4ru37v1p",
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imagens\\22059.jpg"
+  },
+  {
+    "id": 22058,
+    "nome": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3' - Preto",
+    "preco": "3.599,00",
+    "preco_parcelado": "4.349,00",
+    "link": "https://benchpromos.com.br/promocao/celular-samsung-galaxy-s26-5g-256gb-12gb-ram-camera-tripla-de-501210-tela-grande-de-63--preto/cmpfnqjjc2pzw9t0ik04uap5q",
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imagens\\22058.jpg"
+  },
+  {
+    "id": 22057,
+    "nome": "Moedas Aliexpress - Resgate diariamente no APP",
+    "preco": null,
+    "preco_parcelado": null,
+    "link": "https://benchpromos.com.br/promocao/moedas-aliexpress--resgate-diariamente-no-app/cmnxkbb3h0zp79t0id9oagolg",
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imagens\\22057.jpg"
+  },
+  {
+    "id": 22056,
+    "nome": "Notebook Lenovo Ideapad Slim 5 AMD Ryzen AI 5 330 16GB RAM 512GB SSD Windows 11",
+    "preco": "4.304,77",
+    "preco_parcelado": "4.783,08",
+    "link": "https://benchpromos.com.br/promocao/notebook-lenovo-ideapad-slim-5-amd-ryzen-ai-5-330-16gb-ram-512gb-ssd-windows-11/cmpfnm3ah2pzs9t0is3le4zf2",
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imagens\\22056.jpg"
+  },
+  {
+    "id": 22055,
+    "nome": "Notebook Avell STORM 560 i7-14650HX RTX 5060",
+    "preco": "8.349,00",
+    "preco_parcelado": "9.276,70",
+    "link": "https://benchpromos.com.br/promocao/notebook-avell-storm-560-i714650hx-rtx-5060/cmpfn4lqo2pzm9t0imq2vbz32",
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imagens\\22055.jpg"
+  },
+  {
+    "id": 22054,
+    "nome": "Camiseta Insider Tech Daily Masculino",
+    "preco": "56,00",
+    "preco_parcelado": "56,00",
+    "link": "https://benchpromos.com.br/promocao/camiseta-insider-tech-daily-masculino/cmpfmwx802pzi9t0i66zr7171",
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imagens\\22054.jpg"
+  },
+  {
+    "id": 22053,
+    "nome": "Cadeira Office Elements ROI, Até 120kg, Reclinável, Cilindro Classe 4, Nylon, Preto",
+    "preco": "703,91",
+    "preco_parcelado": "799,90",
+    "link": "https://benchpromos.com.br/promocao/cadeira-office-elements-roi-ate-120kg-reclinavel-cilindro-classe-4-nylon-preto/cmpfmodcn2pz79t0i4w4b9itw",
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imagens\\22053.jpg"
+  },
+  {
+    "id": 22052,
+    "nome": "Geladeira Side By Side Digital Inverter Samsung",
+    "preco": "6.262,42",
+    "preco_parcelado": "6.262,42",
+    "link": "https://benchpromos.com.br/promocao/geladeira-side-by-side-digital-inverter-samsung/cmpfmalhf2pyt9t0ibt0w97hc",
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imagens\\22052.jpg"
+  },
+  {
+    "id": 22051,
+    "nome": "Notebook Lenovo LOQ 15IRX9 I5-13450HX RTX 4050 6GB 16GB RAM 512GB SSD Linux",
+    "preco": "5.349,00",
+    "preco_parcelado": "5.993,33",
+    "link": "https://benchpromos.com.br/promocao/notebook-lenovo-loq-15irx9-i513450hx-rtx-4050-6gb-16gb-ram-512gb-ssd-linux/cmpflzqsj2pyi9t0i1hjhriwy",
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imagens\\22051.jpg"
+  },
+  {
+    "id": 22050,
+    "nome": "Microfone Condensador Fifine AmpliGame AM6",
+    "preco": "175,99",
+    "preco_parcelado": "207,05",
+    "link": "https://benchpromos.com.br/promocao/microfone-condensador-fifine-ampligame-am6/cmpfll5ps2py19t0irgn4p8x2",
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imagens\\22050.jpg"
+  },
+  {
+    "id": 22049,
+    "nome": "Monitor Asus ROG Strix XG27ACDMS 27' OLED QHD 280Hz",
+    "preco": "3.859,49",
+    "preco_parcelado": "4.288,32",
+    "link": "https://benchpromos.com.br/promocao/monitor-asus-rog-strix-xg27acdms-27-oled-qhd-280hz/cmpflkboz2pxx9t0idpwqtelj",
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imagens\\22049.jpg"
+  },
+  {
+    "id": 22048,
+    "nome": "Monitor Asus TUF VG27AQ5A 27' IPS QHD 210Hz",
+    "preco": "1.162,49",
+    "preco_parcelado": "1.321,01",
+    "link": "https://benchpromos.com.br/promocao/monitor-asus-tuf-vg27aq5a-27-ips-qhd-210hz/cmpfliigv2pxt9t0i0cciohs3",
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imagens\\22048.jpg"
+  },
+  {
+    "id": 22047,
+    "nome": "Microfone Condensador Fifine Ampligame A6NEO",
+    "preco": "99,90",
+    "preco_parcelado": "117,53",
+    "link": "https://benchpromos.com.br/promocao/microfone-condensador-fifine-ampligame-a6neo/cmpflag0q2pxp9t0iai6k80yg",
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imagens\\22047.jpg"
+  },
+  {
     "id": 22046,
     "nome": "Cupom Amazon",
     "preco": null,
     "preco_parcelado": null,
     "link": "https://benchpromos.com.br/promocao/cupom-amazon-r-100-off-em-r-999/cmpem6abn2mm79t0ial5wcazq",
     "valor_cupom": "100",
-    "limite_minimo": "999"
-  },
-  {
-    "id": 22045,
-    "nome": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3' - Violeta",
-    "preco": "3.599,00",
-    "preco_parcelado": "3.599,00",
-    "link": "https://benchpromos.com.br/promocao/celular-samsung-galaxy-s26-5g-256gb-12gb-ram-camera-tripla-de-501210-tela-grande-de-63--violeta/cmpem4c812mm59t0i8xezk1sz",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22044,
-    "nome": "Smartphone Samsung Galaxy S26 Ultra 5G 256GB, Preto",
-    "preco": "4.948,00",
-    "preco_parcelado": "4.948,00",
-    "link": "https://benchpromos.com.br/promocao/smartphone-samsung-galaxy-s26-ultra-5g-256gb-preto/cmpeju4pd2mlx9t0i5k8bisin",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22043,
-    "nome": "Notebook Predator Helios Neo PHN16-72-75TX i7-14700HX RTX 4070 32GB RAM 512GB SSD Windows 11",
-    "preco": "9.409,10",
-    "preco_parcelado": "9.409,10",
-    "link": "https://benchpromos.com.br/promocao/notebook-predator-helios-neo-phn167275tx-i714700hx-rtx-4070-32gb-ram-512gb-ssd-windows-11/cmpej5z9e2mlf9t0i8f3mhjib",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22042,
-    "nome": "Monitor Gamer Curvo Asus TUF Gaming 34' VA WQHD 180Hz 125%sRGB - VG34VQL3A",
-    "preco": "1.754,99",
-    "preco_parcelado": "1.949,99",
-    "link": "https://benchpromos.com.br/promocao/monitor-gamer-curvo-asus-tuf-gaming-34-va-wqhd-180hz-125srgb--vg34vql3a/cmpei9hj72mlb9t0i53v7rz06",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22041,
-    "nome": "Notebook ASUS TUF Gaming F16 RTX 5050 Intel Core i5 14450HX 16GB RAM 512GB SSD Windows 11",
-    "preco": "7.919,12",
-    "preco_parcelado": "8.279,08",
-    "link": "https://benchpromos.com.br/promocao/notebook-asus-tuf-gaming-f16-rtx-5050-intel-core-i5-14450hx-16gb-ram-512gb-ssd-windows-11/cmpbc0r7s2f4i9t0ie76kcvnr",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22040,
-    "nome": "Monitor Gamer Gigabyte GS27QA-AS 27' IPS QHD 180Hz",
-    "preco": "899,99",
-    "preco_parcelado": "1.022,70",
-    "link": "https://benchpromos.com.br/promocao/monitor-gamer-gigabyte-gs27qaas-27-ips-qhd-180hz/cmpehp2un2ml79t0iuc8gyx03",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22038,
-    "nome": "Monitor Gamer ASUS ROG Strix XG27ACS 27' IPS QHD 180Hz, Preto",
-    "preco": "1.331,99",
-    "preco_parcelado": "1.513,63",
-    "link": "https://benchpromos.com.br/promocao/monitor-gamer-asus-rog-strix-xg27acs-27-ips-qhd-180hz-preto/cmpehme8o2ml39t0i30c8gpn1",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22037,
-    "nome": "Smart TV TCL 65 Polegadas QLED Mini LED 4K C7K",
-    "preco": "4.413,69",
-    "preco_parcelado": "4.904,10",
-    "link": "https://benchpromos.com.br/promocao/smart-tv-tcl-65-polegadas-qled-mini-led-4k-c7k/cmpegx2xw2mkx9t0i97nhljgv",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22036,
-    "nome": "Teclado Mecânico Sem Fio AULA F99 Pro Silent",
-    "preco": "367,24",
-    "preco_parcelado": "416,51",
-    "link": "https://benchpromos.com.br/promocao/teclado-mecanico-sem-fio-aula-f99-pro-silent/cmpegjaai2mkp9t0i8fcnpbmj",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22035,
-    "nome": "Headset Sem Fio JBL Quantum 950",
-    "preco": "1.319,99",
-    "preco_parcelado": "1.466,66",
-    "link": "https://benchpromos.com.br/promocao/headset-sem-fio-jbl-quantum-950/cmpefv2au2mkc9t0iq9dbzqmd",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22034,
-    "nome": "Smart TV 4K 75' LG QNED734K 4K",
-    "preco": "4.841,10",
-    "preco_parcelado": "4.841,10",
-    "link": "https://benchpromos.com.br/promocao/smart-tv-4k-75-lg-qned734k-4k/cmpefpw6k2mka9t0i4qir1h5x",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22033,
-    "nome": "Smartphone Samsung Galaxy S26 Ultra 5G 256GB, Branco",
-    "preco": "5.075,30",
-    "preco_parcelado": "5.075,30",
-    "link": "https://benchpromos.com.br/promocao/smartphone-samsung-galaxy-s26-ultra-5g-256gb-branco/cmpef9ibe2mk19t0i5vpv7psc",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22032,
-    "nome": "Headset Sem Fio AKKO Verge S9 Ultra",
-    "preco": "229,20",
-    "preco_parcelado": "251,89",
-    "link": "https://benchpromos.com.br/promocao/headset-sem-fio-akko-verge-s9-ultra/cmpef6i192mjz9t0ierilz3sa",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22031,
-    "nome": "Monitor MSI MAG 274F 27' FHD IPS 200Hz",
-    "preco": "669,59",
-    "preco_parcelado": "743,99",
-    "link": "https://benchpromos.com.br/promocao/monitor-msi-mag-274f-27-fhd-ips-200hz/cmpeew9j32mju9t0iql7d28vs",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22030,
-    "nome": "Cupons Evento Aliexpress Orgulho Geek",
-    "preco": null,
-    "preco_parcelado": null,
-    "link": "https://benchpromos.com.br/promocao/evento-aliexpress-orgulho-geek/cmp71o7af24u59t0i2zdtfvlj",
-    "valor_cupom": "12",
-    "limite_minimo": "90"
-  },
-  {
-    "id": 22029,
-    "nome": "Moedas Aliexpress - Resgate diariamente no APP",
-    "preco": null,
-    "preco_parcelado": null,
-    "link": "https://benchpromos.com.br/promocao/moedas-aliexpress--resgate-diariamente-no-app/cmnxkbb3h0zp79t0id9oagolg",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22028,
-    "nome": "Teclado Magnético Com Fio AULA HERO 68 HE",
-    "preco": "269,76",
-    "preco_parcelado": "298,31",
-    "link": "https://benchpromos.com.br/promocao/teclado-magnetico-com-fio-aula-hero-68-he/cmpeek1ip2mjs9t0i1iglaek5",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22027,
-    "nome": "Monitor Gamer LG UltraGear 27' Full HD, IPS, 180Hz",
-    "preco": "871,19",
-    "preco_parcelado": "871,19",
-    "link": "https://benchpromos.com.br/promocao/monitor-gamer-lg-ultragear-27-full-hd-ips-180hz/cmpeec9432mjm9t0idxqi6tq7",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22026,
-    "nome": "Monitor Asus ROG Strix XG27ACDMS 27' OLED QHD 280Hz",
-    "preco": "3.682,79",
-    "preco_parcelado": "4.091,99",
-    "link": "https://benchpromos.com.br/promocao/monitor-asus-rog-strix-xg27acdms-27-oled-qhd-280hz/cmpedjak82mj89t0ia0r9xqo6",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22025,
-    "nome": "Notebook Gamer ASUS ROG Strix G16 G615 I9 14900HX RTX 5060",
-    "preco": "500",
-    "preco_parcelado": "10.499,90",
-    "link": "https://benchpromos.com.br/promocao/notebook-gamer-asus-rog-strix-g16-g615-i9-14900hx-rtx-5060/cmpec8ktf2miz9t0ivqhdjy6f",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22024,
-    "nome": "Lava Louças 14 Serviços Preta Midea",
-    "preco": "1.377,00",
-    "preco_parcelado": "1.377,00",
-    "link": "https://benchpromos.com.br/promocao/lava-loucas-14-servicos-preta-midea/cmpeaxemj2miv9t0ibydjvow9",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22023,
-    "nome": "Frigobar 93 Litros Black Edition Inverter Bivolt Midea",
-    "preco": "450,78",
-    "preco_parcelado": "450,78",
-    "link": "https://benchpromos.com.br/promocao/frigobar-93-litros-black-edition-inverter-bivolt-midea/cmpear7ze2mit9t0is17jfxv5",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22022,
-    "nome": "Cervejeira Preta Frost Free 82 Litros Midea",
-    "preco": "854,00",
-    "preco_parcelado": "1500",
-    "link": "https://benchpromos.com.br/promocao/cervejeira-preta-frost-free-82-litros-midea/cmpeaoexz2mir9t0i925r7mat",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22021,
-    "nome": "Notebook Lenovo LOQ 15IRX9 I5-13450HX RTX 4050 6GB 16GB RAM 512GB SSD Linux",
-    "preco": "5.299,99",
-    "preco_parcelado": "5.938,88",
-    "link": "https://benchpromos.com.br/promocao/notebook-lenovo-loq-15irx9-i513450hx-rtx-4050-6gb-16gb-ram-512gb-ssd-linux/cmpe6wctk2mhs9t0iyecnanyw",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22020,
-    "nome": "Geladeira Electrolux Frost Free Inverter 531l Efficient Auto Cor Preto",
-    "preco": "4.383,00",
-    "preco_parcelado": "4.383,00",
-    "link": "https://benchpromos.com.br/promocao/geladeira-electrolux-frost-free-inverter-531l-efficient-auto-cor-preto/cmpe4yrq02mh59t0iepqhpgmd",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22019,
-    "nome": "Controle Sem Fio 8BitDo Pro 3",
-    "preco": "262,63",
-    "preco_parcelado": "288,89",
-    "link": "https://benchpromos.com.br/promocao/controle-sem-fio-8bitdo-pro-3/cmpdievji2mfa9t0ijt05yvd6",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22018,
-    "nome": "Controle Sem Fio 8BitDo Ultimate 2, Branco",
-    "preco": "258,06",
-    "preco_parcelado": "281,27",
-    "link": "https://benchpromos.com.br/promocao/controle-sem-fio-8bitdo-ultimate-2-branco/cmpdid7h42mf69t0ivuopuu9o",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22017,
-    "nome": "Teclado Mecânico Sem Fio MCHOSE X Unbox Therapy UT98, Retro Therapy",
-    "preco": "399,99",
-    "preco_parcelado": "470,58",
-    "link": "https://benchpromos.com.br/promocao/teclado-mecanico-sem-fio-mchose-x-unbox-therapy-ut98-retro-therapy/cmpdiba7d2mf49t0ickokvg64",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22016,
-    "nome": "Apple MacBook Air M5 13' 16GB RAM 512GB SSD Azul-céu",
-    "preco": "7.270,40",
-    "preco_parcelado": "7.919,99",
-    "link": "https://benchpromos.com.br/promocao/apple-macbook-air-m5-13-16gb-ram-512gb-ssd-azulceu/cmpdi33id2mey9t0ivfnuoxud",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22015,
-    "nome": "Monitor Curvo LG UltraGear G6 34G600A-B 34' VA QHD 160Hz",
-    "preco": "1.676,48",
-    "preco_parcelado": "1.849,02",
-    "link": "https://benchpromos.com.br/promocao/monitor-curvo-lg-ultragear-g6-34g600ab-34-va-qhd-160hz/cmpdhy0ql2men9t0iyfajpz3q",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22014,
-    "nome": "Apple iPhone 17 (256 GB)",
-    "preco": "5.135,08",
-    "preco_parcelado": "5.599,00",
-    "link": "https://benchpromos.com.br/promocao/apple-iphone-17-256-gb/cmpdhw1ex2mel9t0i63lpd6gv",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22013,
-    "nome": "Smartphone Samsung Galaxy A56 5G 128GB",
-    "preco": "1.454,00",
-    "preco_parcelado": "1.603,20",
-    "link": "https://benchpromos.com.br/promocao/smartphone-samsung-galaxy-a56-5g-128gb/cmpdhtfee2mej9t0iqo3nnqxk",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22012,
-    "nome": "Monitor Pichau Quantum 27' Mini LED QHD 360Hz",
-    "preco": "2.297,04",
-    "preco_parcelado": "2.514,17",
-    "link": "https://benchpromos.com.br/promocao/monitor-pichau-quantum-27-mini-led-qhd-360hz/cmpdhougi2mef9t0ia0hzw5oa",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22011,
-    "nome": "Console Portátil ROG Ally AMD Z1 Extreme",
-    "preco": "4.215,08",
-    "preco_parcelado": "4.599,00",
-    "link": "https://benchpromos.com.br/promocao/console-portatil-rog-ally-amd-z1-extreme/cmpdhlx692me99t0i83wf76ss",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22010,
-    "nome": "Volante Logitech G923 para Xbox Series XS, Xbox One e PC com Force Feedback TRUEFORCE",
-    "preco": "1.759,51",
-    "preco_parcelado": "1.929,90",
-    "link": "https://benchpromos.com.br/promocao/volante-logitech-g923-para-xbox-series-xs-xbox-one-e-pc-com-force-feedback-trueforce/cmpdhkcgt2me59t0ixnr1nqef",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22009,
-    "nome": "Apple Macbook Neo 13' 8GB RAM 256GB SSD Índigo",
-    "preco": "4.299,72",
-    "preco_parcelado": "4.691,00",
-    "link": "https://benchpromos.com.br/promocao/apple-macbook-neo-13-8gb-ram-256gb-ssd-indigo/cmpdhgqo32mdz9t0itlkle4g7",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22008,
-    "nome": "Monitor Samsung Odyssey G5 27' OLED QHD 180Hz",
-    "preco": "2.762,40",
-    "preco_parcelado": "3.020,00",
-    "link": "https://benchpromos.com.br/promocao/monitor-samsung-odyssey-g5-27-oled-qhd-180hz/cmpdhepa02mdv9t0i6ns4onqx",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22007,
-    "nome": "Monitor Pichau Quantum 27' Mini LED QHD 180Hz",
-    "preco": "1.640,09",
-    "preco_parcelado": "1.800,09",
-    "link": "https://benchpromos.com.br/promocao/monitor-pichau-quantum-27-mini-led-qhd-180hz/cmpdhdaq12mdr9t0i4yb1z1z2",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22005,
-    "nome": "O LOQ HX i5 + RTX 4050 é o MAIS BARATO e COMPLETO da categoria! Mas comete o MESMO ERRO de novo...",
-    "preco": null,
-    "preco_parcelado": null,
-    "link": "https://youtu.be/A2T4LWAHA5c",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22004,
-    "nome": "8% OFF no Xbox Game Pass Ultimate",
-    "preco": null,
-    "preco_parcelado": null,
-    "link": "https://benchpromos.com.br/promocao/8-off-no-xbox-game-pass-ultimate/cmpd6r7182j399t0iucmxwvs5",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22003,
-    "nome": "Volante Logitech G29 Driving Force e Pedais com Force Feedback para PS5, PS4, PS3 e PC",
-    "preco": "1.599,00",
-    "preco_parcelado": "1.599,00",
-    "link": "https://benchpromos.com.br/promocao/volante-logitech-g29-driving-force-e-pedais-com-force-feedback-para-ps5-ps4-ps3-e-pc/cmpd6vcz12j3f9t0ibnrmbf8i",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22002,
-    "nome": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3' - Violeta",
-    "preco": "3.599,00",
-    "preco_parcelado": "3.599,00",
-    "link": "https://benchpromos.com.br/promocao/celular-samsung-galaxy-s26-5g-256gb-12gb-ram-camera-tripla-de-501210-tela-grande-de-63--violeta/cmpd6j1sa2j379t0ikd3g8mjy",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22001,
-    "nome": "Samsung Smart TV 58' Crystal UHD 4K U8500F 2025 + Soundbar Samsung HW-B400F",
-    "preco": "2.754,05",
-    "preco_parcelado": "2.754,05",
-    "link": "https://benchpromos.com.br/promocao/samsung-smart-tv-58-crystal-uhd-4k-u8500f-2025--soundbar-samsung-hwb400f/cmpd1meu22j2r9t0i6pcvifwg",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 22000,
-    "nome": "Notebook Lenovo LOQ 15IRX9 I5-13450HX RTX 4050 6GB 16GB RAM 512GB SSD Linux",
-    "preco": "5.399,00",
-    "preco_parcelado": "6.048,89",
-    "link": "https://benchpromos.com.br/promocao/notebook-lenovo-loq-15irx9-i513450hx-rtx-4050-6gb-16gb-ram-512gb-ssd-linux/cmpd16pzt2j2l9t0i4lagbagc",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 21999,
-    "nome": "Teclado Magnético Com Fio AKKO TAC75 HE",
-    "preco": "235,20",
-    "preco_parcelado": "259,24",
-    "link": "https://benchpromos.com.br/promocao/teclado-magnetico-com-fio-akko-tac75-he/cmpd150mz2j2f9t0ij9wd2bjt",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 21998,
-    "nome": "Na compra de Notebooks Avell ganhe um Lego Batman: Legacy of the Dark Knight!",
-    "preco": null,
-    "preco_parcelado": null,
-    "link": "https://benchpromos.com.br/promocao/na-compra-de-notebooks-avell-ganhe-um-lego-batman-legacy-of-the-dark-knight/cmpd0hyh12j299t0if2psh1y3",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 21997,
-    "nome": "Monitor Asus ROG Strix XG27ACDMS 27' OLED QHD 280Hz",
-    "preco": "3.869,99",
-    "preco_parcelado": "4.299,99",
-    "link": "https://benchpromos.com.br/promocao/monitor-asus-rog-strix-xg27acdms-27-oled-qhd-280hz/cmpd04lp82j1y9t0i36dfkvrg",
-    "valor_cupom": null,
-    "limite_minimo": null
-  },
-  {
-    "id": 21996,
-    "nome": "Mouse Gamer SuperFrame Flick Pro, Wireless/Bluetooth, Sensor Pixart PAW3395, 26.000 DPI, 5 Botões, White",
-    "preco": "149,99",
-    "preco_parcelado": "176,46",
-    "link": "https://benchpromos.com.br/promocao/mouse-gamer-superframe-flick-pro-wirelessbluetooth-sensor-pixart-paw3395-26000-dpi-5-botoes-white/cmpcyb4hg2j1g9t0igdw5xrz9",
-    "valor_cupom": null,
-    "limite_minimo": null
+    "limite_minimo": "999",
+    "imagem": "imagens\\22046.jpg"
   }
 ]

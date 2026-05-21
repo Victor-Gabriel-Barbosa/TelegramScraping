@@ -16,16 +16,16 @@ GRUPOS = [
 ]
 
 # Extrai informações de promoção de uma mensagem
-def extrair_promocao(msg_id, texto):
+def extrair_promocao(msg_id, texto, imagem):
   # Ignora mensagens sem texto
   if not texto:
     return None
-    
+
   # Remove linhas vazias e espaços extras
   linhas = [linha.strip() for linha in texto.split('\n') if linha.strip()]
   nome = None
   alertas_ignorados = ["PARCELADO!", "BAIXOU!", "PREÇO HISTÓRICO!", "VÍDEO NOVO"]
-  
+
   # Filtra linhas que contenham alertas ou links, e pega a primeira linha válida como nome
   for linha in linhas:
     linha_upper = linha.upper()
@@ -33,11 +33,11 @@ def extrair_promocao(msg_id, texto):
       continue
     nome = linha
     break
-     
+
   # Ignora mensagens que não tenham um nome válido
   if not nome:
     return None
-    
+
   is_cupom = 'cupom' in nome.lower() or 'cupons' in nome.lower()
 
   # Limpa o nome do produto, removendo hashtags, preços e caracteres especiais
@@ -47,7 +47,7 @@ def extrair_promocao(msg_id, texto):
   nome = nome.replace('"', "'")
   nome = nome.strip(' -')
   precos = re.findall(r'R\$\s*([\d.,]+)', texto)
-  
+
   preco = None
   preco_parcelado = None
   valor_cupom = None
@@ -57,24 +57,23 @@ def extrair_promocao(msg_id, texto):
   if is_cupom:
     if len(precos) >= 1:
       valor_cupom = precos[0]
-    
+
     if len(precos) >= 2:
       limite_minimo = precos[1]
-        
+
     match_porcentagem = re.search(r'(\d+)%\s*(?:off|OFF)?', texto)
     if match_porcentagem and not valor_cupom:
-      valor_cupom = f"{match_porcentagem.group(1)}%"
-        
-  # Se não for cupom, o valor é o preço do produto  
-  else:
-    if len(precos) == 1:
-      preco = precos[0]
-    elif len(precos) == 2:
-      preco = precos[0]
-      preco_parcelado = precos[1]
-    elif len(precos) >= 3:
-      preco = precos[1] 
-      preco_parcelado = precos[2]
+      valor_cupom = f"{match_porcentagem[1]}%"
+
+  # Se não for cupom, o valor é o preço do produto
+  elif len(precos) == 1:
+    preco = precos[0]
+  elif len(precos) == 2:
+    preco = precos[0]
+    preco_parcelado = precos[1]
+  elif len(precos) >= 3:
+    preco = precos[1] 
+    preco_parcelado = precos[2]
 
   # Extrai o primeiro link encontrado na mensagem
   link_match = re.search(r'https?://\S+', texto)
@@ -91,7 +90,8 @@ def extrair_promocao(msg_id, texto):
     'preco_parcelado': preco_parcelado,
     'link': link,
     'valor_cupom': valor_cupom,
-    'limite_minimo': limite_minimo
+    'limite_minimo': limite_minimo,
+    'imagem': imagem
   }
   
 # Inicializa o cliente do Telegram
@@ -104,9 +104,12 @@ async def main():
   for group in GRUPOS:
     print(f"-> Coletando mensagens de: {group}")
     try:
-      async for message in client.iter_messages(group, limit=50):
-        promo = extrair_promocao(message.id, message.text)
-        if promo:
+      async for message in client.iter_messages(group, limit=20):
+        imagem = None
+        if message.media:
+          imagem = await message.download_media(file=f'imagens/{message.id}.jpg')
+
+        if promo := extrair_promocao(message.id, message.text, imagem):
           mensagens.append(promo)
     except Exception as e:
       print(f"Erro ao acessar o grupo {group}: {e}")
