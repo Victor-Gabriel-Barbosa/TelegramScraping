@@ -111,7 +111,7 @@
 
     async function carregarPromocoes() {
       try {
-        const response = await fetch('../data/promocoes.json');
+        const response = await fetch('./data/promocoes.json');
 
         if (!response.ok) {
           throw new Error('Erro ao carregar JSON');
