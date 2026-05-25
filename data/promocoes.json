@@ -1,0 +1,242 @@
+[
+  {
+    "id": 97800,
+    "nome": "Correeee",
+    "preco": null,
+    "preco_parcelado": null,
+    "link": null,
+    "codigos_cupom": [],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": null
+  },
+  {
+    "id": 97799,
+    "nome": "Cupom Amazon",
+    "preco": null,
+    "preco_parcelado": null,
+    "link": "https://amzn.to/45u11bi",
+    "codigos_cupom": [],
+    "valor_cupom": "80,",
+    "limite_minimo": "50",
+    "imagem": "imgs\\97799.jpg"
+  },
+  {
+    "id": 97798,
+    "nome": "Cupom Mercado Livre",
+    "preco": null,
+    "preco_parcelado": null,
+    "link": "https://mercadolivre.com/sec/2QHVXjk",
+    "codigos_cupom": [],
+    "valor_cupom": "60",
+    "limite_minimo": null,
+    "imagem": "imgs\\97798.jpg"
+  },
+  {
+    "id": 97797,
+    "nome": "Cupom Amazon",
+    "preco": null,
+    "preco_parcelado": null,
+    "link": "https://amzn.to/45u11bi",
+    "codigos_cupom": [],
+    "valor_cupom": "100",
+    "limite_minimo": "999",
+    "imagem": "imgs\\97797.jpg"
+  },
+  {
+    "id": 97796,
+    "nome": "Grandes Marcas Shopee - Começa Meia Noite",
+    "preco": "100",
+    "preco_parcelado": null,
+    "link": "https://s.shopee.com.br/40dcrPln0A",
+    "codigos_cupom": [],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imgs\\97796.jpg"
+  },
+  {
+    "id": 97795,
+    "nome": "Powerbank Coibeu 20000mAh",
+    "preco": "61",
+    "preco_parcelado": null,
+    "link": "https://s.click.aliexpress.com/e/_c2IfOEHF",
+    "codigos_cupom": [
+      ""
+    ],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imgs\\97795.jpg"
+  },
+  {
+    "id": 97794,
+    "nome": "Borracha Dust Free, Faber-Castell, 187138, Multicor, pacote de 24",
+    "preco": "14",
+    "preco_parcelado": null,
+    "link": "https://amzn.to/4uYRy5S",
+    "codigos_cupom": [],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imgs\\97794.jpg"
+  },
+  {
+    "id": 97793,
+    "nome": "Headset Mchose V9 Pro Gaming Headset, Over-Ear Quad-Mode (Versão Preta)",
+    "preco": "209",
+    "preco_parcelado": null,
+    "link": "https://s.click.aliexpress.com/e/_c3noCtaD",
+    "codigos_cupom": [
+      ""
+    ],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imgs\\97793.jpg"
+  },
+  {
+    "id": 97792,
+    "nome": "Kit 3 und Hidratante Labial Carmed Coca-Cola 10g",
+    "preco": "29",
+    "preco_parcelado": null,
+    "link": "https://s.shopee.com.br/8ATBfGdwTn",
+    "codigos_cupom": [],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imgs\\97792.jpg"
+  },
+  {
+    "id": 97791,
+    "nome": "Hellmann's Maionese Supreme 330G",
+    "preco": "3",
+    "preco_parcelado": null,
+    "link": "https://amzn.to/4dD3gfr",
+    "codigos_cupom": [],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imgs\\97791.jpg"
+  },
+  {
+    "id": 22143,
+    "nome": "Monitor LG UltraGear 27GX704A-B 27' OLED QHD 240Hz",
+    "preco": "3.599,10",
+    "preco_parcelado": "3.788,52",
+    "link": "https://benchpromos.com.br/promocao/monitor-lg-ultragear-27gx704ab-27-oled-qhd-240hz/cmpiog04n2x7i9t0i0mej339c",
+    "codigos_cupom": [
+      "Resgate"
+    ],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imgs\\22143.jpg"
+  },
+  {
+    "id": 22142,
+    "nome": "Monitor LG UltraGear 32GX850A-B 32' OLED Dual Mode 4K 165Hz / FHD 330Hz",
+    "preco": "5.837,80",
+    "preco_parcelado": "5.837,80",
+    "link": "https://benchpromos.com.br/promocao/monitor-lg-ultragear-32gx850ab-32-oled-dual-mode-4k-165hz--fhd-330hz/cmpio7osr2x779t0im2grpfnv",
+    "codigos_cupom": [],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imgs\\22142.jpg"
+  },
+  {
+    "id": 22141,
+    "nome": "Mouse Sem Fio Logitech G PRO X2 Superstrike",
+    "preco": "1.115,99",
+    "preco_parcelado": "1.239,99",
+    "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-logitech-g-pro-x2-superstrike/cmpildof72x5v9t0i1twdw8al",
+    "codigos_cupom": [
+      "DISCORDAPP"
+    ],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imgs\\22141.jpg"
+  },
+  {
+    "id": 22140,
+    "nome": "Controle Sem Fio GameSir G7 Pro",
+    "preco": "388,62",
+    "preco_parcelado": "427,98",
+    "link": "https://benchpromos.com.br/promocao/controle-sem-fio-gamesir-g7-pro/cmpiin1v92x4y9t0i67a1kslc",
+    "codigos_cupom": [
+      "NAMR3"
+    ],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imgs\\22140.jpg"
+  },
+  {
+    "id": 22139,
+    "nome": "Headset Sem Fio MCHOSE X9, Preto",
+    "preco": "312,99",
+    "preco_parcelado": "345,79",
+    "link": "https://benchpromos.com.br/promocao/headset-sem-fio-mchose-x9-preto/cmpii9gta2x4r9t0ifu8b6asn",
+    "codigos_cupom": [
+      "NAMR2"
+    ],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imgs\\22139.jpg"
+  },
+  {
+    "id": 22138,
+    "nome": "Controle Sem Fio Flydigi Vader 5 Pro - Dragon Ball Z Limited Edition",
+    "preco": "597,87",
+    "preco_parcelado": "661,37",
+    "link": "https://benchpromos.com.br/promocao/controle-sem-fio-flydigi-vader-5-pro--dragon-ball-z-limited-edition/cmpii03k92x4l9t0ipb26v6z1",
+    "codigos_cupom": [
+      "NAMR4"
+    ],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imgs\\22138.jpg"
+  },
+  {
+    "id": 22137,
+    "nome": "Moedas Aliexpress - Resgate diariamente no APP",
+    "preco": null,
+    "preco_parcelado": null,
+    "link": "https://benchpromos.com.br/promocao/moedas-aliexpress--resgate-diariamente-no-app/cmnxkbb3h0zp79t0id9oagolg",
+    "codigos_cupom": [],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imgs\\22137.jpg"
+  },
+  {
+    "id": 22136,
+    "nome": "Controle Sem Fio Flydigi Vader 5 Pro",
+    "preco": "442,40",
+    "preco_parcelado": "489,19",
+    "link": "https://benchpromos.com.br/promocao/controle-sem-fio-flydigi-vader-5-pro/cmpihvp1f2x4b9t0idlhg94g0",
+    "codigos_cupom": [
+      "NAMR3"
+    ],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imgs\\22136.jpg"
+  },
+  {
+    "id": 22135,
+    "nome": "Controle Sem Fio Flydigi Direwolf 4",
+    "preco": "207,08",
+    "preco_parcelado": "229,06",
+    "link": "https://benchpromos.com.br/promocao/controle-sem-fio-flydigi-direwolf-4/cmpihq80z2x439t0ipw436x0g",
+    "codigos_cupom": [
+      "NAMR1"
+    ],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imgs\\22135.jpg"
+  },
+  {
+    "id": 22134,
+    "nome": "Teclado Magnético Com Fio AULA HERO 68 HE",
+    "preco": "279,70",
+    "preco_parcelado": "310,30",
+    "link": "https://benchpromos.com.br/promocao/teclado-magnetico-com-fio-aula-hero-68-he/cmpihl2sx2x3t9t0im3ovs8w4",
+    "codigos_cupom": [
+      "NAMR3"
+    ],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imgs\\22134.jpg"
+  }
+]

@@ -13,7 +13,7 @@ async def main():
   for group in GRUPOS:
     print(f"-> Coletando mensagens de: {group}")
     try:
-      async for message in client.iter_messages(group, limit=20):
+      async for message in client.iter_messages(group, limit=10):
         imagem = None
         if message.media:
           imagem = await message.download_media(file=f'{IMGS_DIR}/{message.id}.jpg')
