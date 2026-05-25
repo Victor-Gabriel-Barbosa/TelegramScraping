@@ -135,7 +135,7 @@
     // Trata o caminho da imagem (trocando \ por /)
     function formatImagePath(path) {
       if (!path) return '';
-      return '../' + path.replace(/\\/g, '/');
+      return path.replace(/\\/g, '/');
     }
 
     // Renderiza os cards de promoções
@@ -225,7 +225,7 @@
             <!-- Imagem -->
             <div class="aspect-[4/3] bg-slate-100 relative overflow-hidden flex-shrink-0">
               <img
-                src="./${imagePath}" 
+                src="${imagePath}" 
                 alt="${item.nome}" 
                 onerror="this.onerror=null; this.src='${placeholder}';"
                 class="w-full h-full object-contain p-2 mix-blend-multiply"
