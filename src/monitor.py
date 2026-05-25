@@ -2,8 +2,8 @@ from telethon.sync import TelegramClient
 from telethon import events
 import os
 import json
-from .utils import extrair_promocao
-from .config import API_ID, API_HASH, GRUPOS, PROMOCOES_DIR, IMGS_DIR
+from utils import extrair_promocao
+from config import API_ID, API_HASH, GRUPOS, PROMOCOES_DIR, IMGS_DIR
 
 # Inicializa o cliente do Telegram
 client = TelegramClient('sessao_scraper', API_ID, API_HASH)

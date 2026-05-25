@@ -238,5 +238,44 @@
     "valor_cupom": null,
     "limite_minimo": null,
     "imagem": "imgs\\22134.jpg"
+  },
+  {
+    "id": 97986,
+    "nome": "Memória RAM Para Notebook Kingston Fury Impact, 8GB, 3200MHz, DDR4, CL20 - KF432S20IB/8",
+    "preco": "319",
+    "preco_parcelado": null,
+    "link": "https://tidd.ly/4abToYj",
+    "codigos_cupom": [
+      ""
+    ],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imgs\\97986.jpg"
+  },
+  {
+    "id": 97987,
+    "nome": "Xbox Wireless Controller Pulse Red",
+    "preco": "291",
+    "preco_parcelado": null,
+    "link": "https://amzn.to/3PqUR74",
+    "codigos_cupom": [
+      ""
+    ],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imgs\\97987.jpg"
+  },
+  {
+    "id": 22162,
+    "nome": "Mouse Sem Fio Ajazz AJ139 V2 MC",
+    "preco": "90,29",
+    "preco_parcelado": "100,90",
+    "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-ajazz-aj139-v2-mc/cmpljwps033yk9t0if994z1ug",
+    "codigos_cupom": [
+      "NAMR1"
+    ],
+    "valor_cupom": null,
+    "limite_minimo": null,
+    "imagem": "imgs\\22162.jpg"
   }
 ]
