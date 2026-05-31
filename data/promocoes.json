@@ -1,281 +1,5280 @@
-[
-  {
-    "id": 97800,
-    "nome": "Correeee",
-    "preco": null,
-    "preco_parcelado": null,
-    "link": null,
-    "codigos_cupom": [],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": null
-  },
-  {
-    "id": 97799,
-    "nome": "Cupom Amazon",
-    "preco": null,
-    "preco_parcelado": null,
-    "link": "https://amzn.to/45u11bi",
-    "codigos_cupom": [],
-    "valor_cupom": "80,",
-    "limite_minimo": "50",
-    "imagem": "imgs\\97799.jpg"
-  },
-  {
-    "id": 97798,
-    "nome": "Cupom Mercado Livre",
-    "preco": null,
-    "preco_parcelado": null,
-    "link": "https://mercadolivre.com/sec/2QHVXjk",
-    "codigos_cupom": [],
-    "valor_cupom": "60",
-    "limite_minimo": null,
-    "imagem": "imgs\\97798.jpg"
-  },
-  {
-    "id": 97797,
-    "nome": "Cupom Amazon",
-    "preco": null,
-    "preco_parcelado": null,
-    "link": "https://amzn.to/45u11bi",
-    "codigos_cupom": [],
-    "valor_cupom": "100",
-    "limite_minimo": "999",
-    "imagem": "imgs\\97797.jpg"
-  },
-  {
-    "id": 97796,
-    "nome": "Grandes Marcas Shopee - Começa Meia Noite",
-    "preco": "100",
-    "preco_parcelado": null,
-    "link": "https://s.shopee.com.br/40dcrPln0A",
-    "codigos_cupom": [],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": "imgs\\97796.jpg"
-  },
-  {
-    "id": 97795,
-    "nome": "Powerbank Coibeu 20000mAh",
-    "preco": "61",
-    "preco_parcelado": null,
-    "link": "https://s.click.aliexpress.com/e/_c2IfOEHF",
-    "codigos_cupom": [
-      ""
-    ],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": "imgs\\97795.jpg"
-  },
-  {
-    "id": 97794,
-    "nome": "Borracha Dust Free, Faber-Castell, 187138, Multicor, pacote de 24",
-    "preco": "14",
-    "preco_parcelado": null,
-    "link": "https://amzn.to/4uYRy5S",
-    "codigos_cupom": [],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": "imgs\\97794.jpg"
-  },
-  {
-    "id": 97793,
-    "nome": "Headset Mchose V9 Pro Gaming Headset, Over-Ear Quad-Mode (Versão Preta)",
-    "preco": "209",
-    "preco_parcelado": null,
-    "link": "https://s.click.aliexpress.com/e/_c3noCtaD",
-    "codigos_cupom": [
-      ""
-    ],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": "imgs\\97793.jpg"
-  },
-  {
-    "id": 97792,
-    "nome": "Kit 3 und Hidratante Labial Carmed Coca-Cola 10g",
-    "preco": "29",
-    "preco_parcelado": null,
-    "link": "https://s.shopee.com.br/8ATBfGdwTn",
-    "codigos_cupom": [],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": "imgs\\97792.jpg"
-  },
-  {
-    "id": 97791,
-    "nome": "Hellmann's Maionese Supreme 330G",
-    "preco": "3",
-    "preco_parcelado": null,
-    "link": "https://amzn.to/4dD3gfr",
-    "codigos_cupom": [],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": "imgs\\97791.jpg"
-  },
-  {
-    "id": 22143,
-    "nome": "Monitor LG UltraGear 27GX704A-B 27' OLED QHD 240Hz",
-    "preco": "3.599,10",
-    "preco_parcelado": "3.788,52",
-    "link": "https://benchpromos.com.br/promocao/monitor-lg-ultragear-27gx704ab-27-oled-qhd-240hz/cmpiog04n2x7i9t0i0mej339c",
-    "codigos_cupom": [
-      "Resgate"
-    ],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": "imgs\\22143.jpg"
-  },
-  {
-    "id": 22142,
-    "nome": "Monitor LG UltraGear 32GX850A-B 32' OLED Dual Mode 4K 165Hz / FHD 330Hz",
-    "preco": "5.837,80",
-    "preco_parcelado": "5.837,80",
-    "link": "https://benchpromos.com.br/promocao/monitor-lg-ultragear-32gx850ab-32-oled-dual-mode-4k-165hz--fhd-330hz/cmpio7osr2x779t0im2grpfnv",
-    "codigos_cupom": [],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": "imgs\\22142.jpg"
-  },
-  {
-    "id": 22141,
-    "nome": "Mouse Sem Fio Logitech G PRO X2 Superstrike",
-    "preco": "1.115,99",
-    "preco_parcelado": "1.239,99",
-    "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-logitech-g-pro-x2-superstrike/cmpildof72x5v9t0i1twdw8al",
-    "codigos_cupom": [
-      "DISCORDAPP"
-    ],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": "imgs\\22141.jpg"
-  },
-  {
-    "id": 22140,
-    "nome": "Controle Sem Fio GameSir G7 Pro",
-    "preco": "388,62",
-    "preco_parcelado": "427,98",
-    "link": "https://benchpromos.com.br/promocao/controle-sem-fio-gamesir-g7-pro/cmpiin1v92x4y9t0i67a1kslc",
-    "codigos_cupom": [
-      "NAMR3"
-    ],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": "imgs\\22140.jpg"
-  },
-  {
-    "id": 22139,
-    "nome": "Headset Sem Fio MCHOSE X9, Preto",
-    "preco": "312,99",
-    "preco_parcelado": "345,79",
-    "link": "https://benchpromos.com.br/promocao/headset-sem-fio-mchose-x9-preto/cmpii9gta2x4r9t0ifu8b6asn",
-    "codigos_cupom": [
-      "NAMR2"
-    ],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": "imgs\\22139.jpg"
-  },
-  {
-    "id": 22138,
-    "nome": "Controle Sem Fio Flydigi Vader 5 Pro - Dragon Ball Z Limited Edition",
-    "preco": "597,87",
-    "preco_parcelado": "661,37",
-    "link": "https://benchpromos.com.br/promocao/controle-sem-fio-flydigi-vader-5-pro--dragon-ball-z-limited-edition/cmpii03k92x4l9t0ipb26v6z1",
-    "codigos_cupom": [
-      "NAMR4"
-    ],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": "imgs\\22138.jpg"
-  },
-  {
-    "id": 22137,
-    "nome": "Moedas Aliexpress - Resgate diariamente no APP",
-    "preco": null,
-    "preco_parcelado": null,
-    "link": "https://benchpromos.com.br/promocao/moedas-aliexpress--resgate-diariamente-no-app/cmnxkbb3h0zp79t0id9oagolg",
-    "codigos_cupom": [],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": "imgs\\22137.jpg"
-  },
-  {
-    "id": 22136,
-    "nome": "Controle Sem Fio Flydigi Vader 5 Pro",
-    "preco": "442,40",
-    "preco_parcelado": "489,19",
-    "link": "https://benchpromos.com.br/promocao/controle-sem-fio-flydigi-vader-5-pro/cmpihvp1f2x4b9t0idlhg94g0",
-    "codigos_cupom": [
-      "NAMR3"
-    ],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": "imgs\\22136.jpg"
-  },
-  {
-    "id": 22135,
-    "nome": "Controle Sem Fio Flydigi Direwolf 4",
-    "preco": "207,08",
-    "preco_parcelado": "229,06",
-    "link": "https://benchpromos.com.br/promocao/controle-sem-fio-flydigi-direwolf-4/cmpihq80z2x439t0ipw436x0g",
-    "codigos_cupom": [
-      "NAMR1"
-    ],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": "imgs\\22135.jpg"
-  },
-  {
-    "id": 22134,
-    "nome": "Teclado Magnético Com Fio AULA HERO 68 HE",
-    "preco": "279,70",
-    "preco_parcelado": "310,30",
-    "link": "https://benchpromos.com.br/promocao/teclado-magnetico-com-fio-aula-hero-68-he/cmpihl2sx2x3t9t0im3ovs8w4",
-    "codigos_cupom": [
-      "NAMR3"
-    ],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": "imgs\\22134.jpg"
-  },
-  {
-    "id": 97986,
-    "nome": "Memória RAM Para Notebook Kingston Fury Impact, 8GB, 3200MHz, DDR4, CL20 - KF432S20IB/8",
-    "preco": "319",
-    "preco_parcelado": null,
-    "link": "https://tidd.ly/4abToYj",
-    "codigos_cupom": [
-      ""
-    ],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": "imgs\\97986.jpg"
-  },
-  {
-    "id": 97987,
-    "nome": "Xbox Wireless Controller Pulse Red",
-    "preco": "291",
-    "preco_parcelado": null,
-    "link": "https://amzn.to/3PqUR74",
-    "codigos_cupom": [
-      ""
-    ],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": "imgs\\97987.jpg"
-  },
-  {
-    "id": 22162,
-    "nome": "Mouse Sem Fio Ajazz AJ139 V2 MC",
-    "preco": "90,29",
-    "preco_parcelado": "100,90",
-    "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-ajazz-aj139-v2-mc/cmpljwps033yk9t0if994z1ug",
-    "codigos_cupom": [
-      "NAMR1"
-    ],
-    "valor_cupom": null,
-    "limite_minimo": null,
-    "imagem": "imgs\\22162.jpg"
-  }
-]
+{
+  "produtos": [
+    {
+      "id": 98892,
+      "nome": "Bom Ar Difusor Elétrico Lavanda e Gerânio Refil 2 unidades 16ml",
+      "preco": "9",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4aiq9E2",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98891,
+      "nome": "Geladeira Ideal+ Panasonic BT41 Frost Free Tecnologia Antibactéria 391L Branca - NR-BT41PD2WA",
+      "preco": "1766",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4ut9mX9",
+      "cupom": "SABADAO + Pix",
+      "imagem": null
+    },
+    {
+      "id": 98890,
+      "nome": "Tênis Nike Revolution 7 Masculino 42",
+      "preco": "160",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1sRT3tw",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 98889,
+      "nome": "Monitor 21,5 Philips Led 221v8lbw3 Widescreen 120hz 1ms",
+      "preco": "329",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2Gebbjh",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 98888,
+      "nome": "Notebook Gamer Acer Nitro V15 RTX 4050, Windows 11",
+      "preco": "4864",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4fOExHM",
+      "cupom": "SABADAO + Pix",
+      "imagem": null
+    },
+    {
+      "id": 98887,
+      "nome": "Monitor Gamer Alienware 25 Full HD (1920 x 1080) 320Hz Fast IPS 0,5ms com AMD FreeSync Premium e NVIDIA G-SYNC",
+      "preco": "1477",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4dubSVZ",
+      "cupom": "SABADAO",
+      "imagem": null
+    },
+    {
+      "id": 98886,
+      "nome": "Volante e Pedais Logitech G29 Driving Force com Force Feedback para PS5, PS4, PS3 e PC",
+      "preco": "1579",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/43RWJtq",
+      "cupom": "SABADAO",
+      "imagem": null
+    },
+    {
+      "id": 98885,
+      "nome": "Ar Condicionado Split Inverter 12.000 Btus LG Dual Compact +IA Frio S3-Q12JAQAL - 220 Volts",
+      "preco": "1694",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4ulUdGz",
+      "cupom": "SABADAO",
+      "imagem": null
+    },
+    {
+      "id": 98884,
+      "nome": "Smart TV 50 Roku Multi 4K Compatível com Alexa e Google Home",
+      "preco": "1559",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4nsHkrg",
+      "cupom": "SABADAO",
+      "imagem": null
+    },
+    {
+      "id": 98882,
+      "nome": "Apple iPhone 17 256GB",
+      "preco": "4937",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/AKXpyPGhrx",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98880,
+      "nome": "Mega Saldão AliExpress, começa dia 01/06 meia noite",
+      "preco": "90",
+      "preco_parcelado": "35",
+      "link": "https://s.click.aliexpress.com/e/c3khaewh",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98878,
+      "nome": "Apple iPhone 15 (128 GB)",
+      "preco": "3649",
+      "preco_parcelado": "850",
+      "link": "https://amzn.to/3LgqYnb",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98877,
+      "nome": "Apple iPhone 16 (128 GB) Preto",
+      "preco": "4048",
+      "preco_parcelado": "850",
+      "link": "https://amzn.to/4gZiHjo",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98876,
+      "nome": "Samsung Galaxy A07 256gb 8gb Câmera 50mp Verde",
+      "preco": "677",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2DuC8Q4",
+      "cupom": "RECEBIDOS + Pix",
+      "imagem": null
+    },
+    {
+      "id": 98875,
+      "nome": "Notebook Gamer Acer Nitro V15 RTX 4050, Windows 11",
+      "preco": "4964",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4fOExHM",
+      "cupom": "CANARINHO",
+      "imagem": null
+    },
+    {
+      "id": 98871,
+      "nome": "Kit de memória Corsair Vengeance Lpx C16 PC4-21300, DDR4, 16GB (2 x 8GB), 2666 MHz",
+      "preco": "618",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4dt9q2X",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98870,
+      "nome": "Furadeira Parafusadeira Sem Fio A Bateria 10mm Com Maleta e Acessórios The Black Tools",
+      "preco": "79",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1MEMGjX",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 98869,
+      "nome": "Power Bank Baseus Turbo Bipow2 Pro 20000mAh 22.5W Cor Preto",
+      "preco": "179",
+      "preco_parcelado": null,
+      "link": "https://meli.la/28734rT",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 98868,
+      "nome": "(Parcelado) Placa de Vídeo INNO3D RTX 5050 TWIN X2 8GB",
+      "preco": "1849",
+      "preco_parcelado": null,
+      "link": "https://meli.la/26zH2De",
+      "cupom": "RECEBIDOS",
+      "imagem": null
+    },
+    {
+      "id": 98867,
+      "nome": "Monitor Gamer Samsung Odyssey G40 27''",
+      "preco": "1186",
+      "preco_parcelado": "1222",
+      "link": "https://meli.la/19qMfva",
+      "cupom": "RECEBIDOS",
+      "imagem": null
+    },
+    {
+      "id": 98862,
+      "nome": "Tênis Sandrini Masculino Aero Run Sport Academia Conforto",
+      "preco": "40",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/2g8OPFbMQ9",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98861,
+      "nome": "Chuteira Futebol Society Umbro Cannon Jr Infantil Original",
+      "preco": "30",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/30lEno0rvl",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98860,
+      "nome": "Monitor Gamer Aoc 21.5'' Full Hd Gaming 120hz 1ms 22b30hm23 Cor Preto",
+      "preco": "328",
+      "preco_parcelado": null,
+      "link": "https://meli.la/21Ysiuo",
+      "cupom": "INVERNOMELI15",
+      "imagem": null
+    },
+    {
+      "id": 98859,
+      "nome": "Roleta Shopee x Flamengo",
+      "preco": "100",
+      "preco_parcelado": null,
+      "link": "https://flapremios.com.br/check-in/arquibancada/roleta",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98857,
+      "nome": "Geladeira Ideal+ Panasonic BT41 Frost Free Tecnologia Antibactéria 391L Branca - NR-BT41PD2WA",
+      "preco": "1866",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4ut9mX9",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98856,
+      "nome": "Fone de Ouvido Galaxy Buds Core Cancelamento de Ruído",
+      "preco": "185",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1uvByTy",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 98855,
+      "nome": "Frigobar Hisense 115 Litros Porta Reversível Branco 1 Porta RR157NW3A/RR157NW2A",
+      "preco": "592",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/3B4emc0WPL",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98854,
+      "nome": "Tênis Adidas Masculino Advantage Base 2.0",
+      "preco": "143",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1vEfWWW",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98853,
+      "nome": "Watercooler Deepcool Le360 V2 Argb Preto 360mm Preto",
+      "preco": "326",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2wU1iRb",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 98852,
+      "nome": "Ofertas Caixas de Som",
+      "preco": "629",
+      "preco_parcelado": "650",
+      "link": "https://meli.la/1m7WUz2",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98851,
+      "nome": "Principia Kit Completo Para Pele Sensível Com Fps 60",
+      "preco": "68",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2w2qq5G",
+      "cupom": "MELIBELEZA",
+      "imagem": null
+    },
+    {
+      "id": 98850,
+      "nome": "Kit Body Splash Masculino Barbarius + Enigma + Midtown 200ml",
+      "preco": "68",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2vuA1E6",
+      "cupom": "MELIBELEZA",
+      "imagem": null
+    },
+    {
+      "id": 98849,
+      "nome": "Suporte Articulado Para Monitor e Tv Zinnia Nimbo 110, 13 Pol. A 32 Pol",
+      "preco": "60",
+      "preco_parcelado": "56",
+      "link": "https://s.shopee.com.br/8KmTLSCZYu",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 98848,
+      "nome": "Gabinete Gamer Aquário Acegeek Ori Rainbow Mini-Tower Lateral e Vidro Com 3 Fans",
+      "preco": "95",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/5q59MJMx2R",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 98847,
+      "nome": "Teclado Mecanico TGT Sherman Compacto V2, Rainbow, ABNT2,Switch Huano Azul, Branco",
+      "preco": "62",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/1gFji68zvP",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 98846,
+      "nome": "Kit Ventoinhas Acegeek Neon, ARGB, 3x120mm, Preto, AG-NEON3X1-BK -- Fluxo de Ar: 5610% Cfm",
+      "preco": "55",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/6fePd2FiYQ",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 98845,
+      "nome": "Power Bank Pro 20000mAh Elg PB200BK",
+      "preco": "89",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/2VoiG2GoRY",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 98844,
+      "nome": "Whey Protein One Refil 900g Dark Lab - Proteina com BCAA, Glutamina, Arginina",
+      "preco": "54",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/70HNKF3sS3",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 98843,
+      "nome": "1KG Creatina Suplemento Monohidratada em Pó 100% Pura Importada - Soldiers Nutrition",
+      "preco": "44",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/2qRoMYFBWo",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 98842,
+      "nome": "Kit com 8 Energético Red Bull 250ml",
+      "preco": "53",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/W3ryUkoAV",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 98841,
+      "nome": "Kit 3 Camisetas Dry Alpha Masculina",
+      "preco": "50",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/7Aam2Q8Zld",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 98840,
+      "nome": "Teclado Mecanico TGT Sherman V3 C1, Rainbow, ABNT2, Switch Vermelho, Preto",
+      "preco": "52",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/902B6K8yjg",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 98838,
+      "nome": "Suporte Articulado Para Monitor e Tv Zinnia Nimbo 110, 13 Pol. A 32 Pol",
+      "preco": "56",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/4Ax3HvcZzq",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 98837,
+      "nome": "iCLAMPER Eletro 5 Filtro de linha com DPS Bivolt 10A Branco",
+      "preco": "44",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/1qZFgeATP3",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 98836,
+      "nome": "Figurinhas Copa 2026 FIFA Envelopes Pronta Entrega - 10 Pacotes",
+      "preco": "51",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/5VSXvpFL4q",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 98834,
+      "nome": "Monitor Gamer Aoc 21.5'' Full Hd Gaming 120hz 1ms 22b30hm23 Cor Preto",
+      "preco": "357",
+      "preco_parcelado": null,
+      "link": "https://meli.la/21Ysiuo",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98832,
+      "nome": "Amazon Fire Stick 4k Wi-fi 6 Alexa Por Voz Inteligente C",
+      "preco": "237",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1uouYE5",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 98830,
+      "nome": "Controle Joystick Sem Fio Sony PlayStation 5 DualSense Midnight Black",
+      "preco": "297",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1HfZTSP",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 98827,
+      "nome": "Havit Fone de Ouvido Gamer Five-Mode Fuxi-H7 Black, Sem fio",
+      "preco": "157",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4uDXlhw",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98826,
+      "nome": "Memória Desktop Gamer Adata XPG Gammix D35 16GB DDR4 3200 Mhz - Branco - AX4U320016G16A-SWHD35",
+      "preco": "594",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/43DMYOU",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98825,
+      "nome": "Brilhante Lava-Roupas Em Pó Roupas Brancas E Coloridas Limpeza Total Pacote Tamanho Família 4 Kg (Pacote De 1)",
+      "preco": "28",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4tQOpV4",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98824,
+      "nome": "Mouse Gamer Sem Fio Logitech G PRO X2 SUPERSTRIKE LIGHTSPEED",
+      "preco": "1122",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4ewut5E",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98822,
+      "nome": "(Diminuíram a taxa de importação)",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://onelink.shein.com/36/5qzw16x5e68g",
+      "cupom": "https://onelink.shein.com/36/5qzw16x5e68g",
+      "imagem": null
+    },
+    {
+      "id": 98821,
+      "nome": "Caixa De Som Bluetooth Tax5000/78, 1800w, Philips, Preto, Party Speaker",
+      "preco": "650",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2iSPgZE",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98820,
+      "nome": "Caixa De Som Philips Boombeat / Boombox 200w Ip66 Bluetooth Power Bank Cor Preto",
+      "preco": "629",
+      "preco_parcelado": null,
+      "link": "https://mercadolivre.com/sec/2QHVXjk",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98819,
+      "nome": "Caixa de som Boombox Philco Extreme Bluetooth V.5.4 300W PBX01",
+      "preco": "629",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1m7WUz2",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98818,
+      "nome": "Bauleto Baú para Moto Protork 45 litros Universal Smart Box",
+      "preco": "113",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/3qKKtdcmOG",
+      "cupom": "PEC4S0B9AF",
+      "imagem": null
+    },
+    {
+      "id": 98817,
+      "nome": "Par De Auto Falantes 6 Polegadas 140w + Radio Bluetooth Usb",
+      "preco": "85",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/qgjKgE400",
+      "cupom": "PEC4S0B9AF",
+      "imagem": null
+    },
+    {
+      "id": 98816,
+      "nome": "Bateria Moura MA5D 5Ah CB 300F Twister",
+      "preco": "104",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/2LVX7Eig43",
+      "cupom": "PEC4S0B9AF",
+      "imagem": null
+    },
+    {
+      "id": 98815,
+      "nome": "Par de lâmpada farol Osram Original",
+      "preco": "80",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/5q5PHbF5xj",
+      "cupom": "PEC4S0B9AF",
+      "imagem": null
+    },
+    {
+      "id": 98814,
+      "nome": "Par Alto Falante Pioneer 6 Polegadas 200W Triaxial TS1760BR 100W RMS 4 Ohms Potencia Original",
+      "preco": "95",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/7VDdFrSwop",
+      "cupom": "PEC4S0B9AF",
+      "imagem": null
+    },
+    {
+      "id": 98813,
+      "nome": "Som Automotivo Taramps em Oferta",
+      "preco": "149",
+      "preco_parcelado": "222",
+      "link": "https://s.shopee.com.br/4qCs4mGBM1",
+      "cupom": "PEC4S0B9AF",
+      "imagem": null
+    },
+    {
+      "id": 98812,
+      "nome": "WD-40 Desengripante Lubrificante Spray 300ml - Kit 3 Unidades",
+      "preco": "75",
+      "preco_parcelado": "25",
+      "link": "https://s.shopee.com.br/2LVX5ZXDFI",
+      "cupom": "PEC4S0B9AF",
+      "imagem": null
+    },
+    {
+      "id": 98811,
+      "nome": "Cadeira Ergonômica de Escritório Giratória Malha Mesh Respirável C310 Best",
+      "preco": "249",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/2VocXWl7x7",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98810,
+      "nome": "Par De Alto Falantes 5 Jbl Selenium Flex4 5trfx55 110wrms",
+      "preco": "97",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/2g8NTwGHMh",
+      "cupom": "PEC4S0B9AF",
+      "imagem": null
+    },
+    {
+      "id": 98809,
+      "nome": "Mini Compressor de Ar Automotivo Elétrico 12V 90W Vonder",
+      "preco": "83",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/5q5PFmBNks",
+      "cupom": "PEC4S0B9AF",
+      "imagem": null
+    },
+    {
+      "id": 98808,
+      "nome": "Processador Ryzen 5 5500",
+      "preco": "498",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/2VocXWl7x7",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98806,
+      "nome": "Kit Lavagem Automotiva Completa Vonixx Cera Carnauba Tok Final V-Floc Revitalizador de Plasticos intense Sintra fast",
+      "preco": "79",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/BR2V6DddC",
+      "cupom": "PEC4S0B9AF",
+      "imagem": null
+    },
+    {
+      "id": 98805,
+      "nome": "Bauleto Moto 28L Smart Box 2 Pro Tork com Base, Chaves e Refletor Traseiro",
+      "preco": "79",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/AKXMjOVH0T",
+      "cupom": "PEC4S0B9AF",
+      "imagem": null
+    },
+    {
+      "id": 98804,
+      "nome": "Aerofólio para meu Palio",
+      "preco": "149",
+      "preco_parcelado": "160",
+      "link": "https://s.shopee.com.br/1LcY2IpB8Z",
+      "cupom": "PEC4S0B9AF",
+      "imagem": null
+    },
+    {
+      "id": 98802,
+      "nome": "Apple 2025 iPad Air de 13 polegadas (Wi-Fi, 128 GB) - Luz das estrelas (M3)",
+      "preco": "3999",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/3R1eMJX",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98800,
+      "nome": "Monitor Portátil 15,6 Tomate MTM-1506 Full HD IPS Ultra Slim USB-C/HDMI.",
+      "preco": "322",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2EAzZ69",
+      "cupom": "4646637575",
+      "imagem": null
+    },
+    {
+      "id": 98799,
+      "nome": "Water Cooler 240mm Deepcool Lt240 Preto",
+      "preco": "322",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2ArKRjV",
+      "cupom": "4646637575",
+      "imagem": null
+    },
+    {
+      "id": 98798,
+      "nome": "Fritadeira Elétrica Wap Air Fryer Oven Digital Black Inox 12 Litros com Revestimento Antiaderente",
+      "preco": "389",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2G8K7tQ",
+      "cupom": "4646637575",
+      "imagem": null
+    },
+    {
+      "id": 98797,
+      "nome": "Controle Joystick Sem Fio Sony PlayStation 5 DualSense Midnight Black",
+      "preco": "279",
+      "preco_parcelado": null,
+      "link": "https://meli.la/13EiFBw",
+      "cupom": "4646637575 + Pix",
+      "imagem": null
+    },
+    {
+      "id": 98796,
+      "nome": "Extratora de Sujeira Portátil WAP Spot Cleaner W3 Borrifa Esfrega e Extrai 1450W de Potência e Bico de Autolimpeza",
+      "preco": "389",
+      "preco_parcelado": null,
+      "link": "https://meli.la/144Cqxp",
+      "cupom": "4646637575",
+      "imagem": null
+    },
+    {
+      "id": 98795,
+      "nome": "Controle Xbox Wireless Series Xs Carbon blackg",
+      "preco": "281",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2dgAnmx",
+      "cupom": "4646637575",
+      "imagem": null
+    },
+    {
+      "id": 98794,
+      "nome": "Mouse Gamer Sem Fio Fire Phoenix 24000dpi Paw3311 Branco",
+      "preco": "109",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2pKRTzs",
+      "cupom": "4646637575",
+      "imagem": null
+    },
+    {
+      "id": 98793,
+      "nome": "Teclado Gamer Mecânico Sem Fio Bluetooth Tri Mode 75% Free Wolf",
+      "preco": "254",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2pT5waN",
+      "cupom": "4646637575",
+      "imagem": null
+    },
+    {
+      "id": 98792,
+      "nome": "Mouse Gamer Sem Fio 18000dpi Paw3311 Fire Phoenix Bk-r6x",
+      "preco": "84",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2dEC1MN",
+      "cupom": "4646637575",
+      "imagem": null
+    },
+    {
+      "id": 98791,
+      "nome": "Natura Kaiak Aero Deo-colônia 100ml",
+      "preco": "86",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2WCgGvs",
+      "cupom": "4646637575",
+      "imagem": null
+    },
+    {
+      "id": 98790,
+      "nome": "Micro-ondas 25l Philco Função Tira Odor 1100w Pm27",
+      "preco": "374",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2UFcmLD",
+      "cupom": "4646637575",
+      "imagem": null
+    },
+    {
+      "id": 98789,
+      "nome": "Kit 10 Pote De Vidro Marmita Hermético 640ml Freezer Fitness Rishon",
+      "preco": "76",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1aYnwas",
+      "cupom": "4646637575",
+      "imagem": null
+    },
+    {
+      "id": 98788,
+      "nome": "Monitor Alltek 21.5 Full HD VA 100Hz",
+      "preco": "321",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1mxgY1J",
+      "cupom": "4646637575",
+      "imagem": null
+    },
+    {
+      "id": 98787,
+      "nome": "Smart Tv 43 Britânia Hdr10 Dolby Áudio Roku Tv B43kra",
+      "preco": "1176",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2c1NhYk",
+      "cupom": "4646637575",
+      "imagem": null
+    },
+    {
+      "id": 98786,
+      "nome": "Tênis Masculino Casual Aramis Daily Slip Confortável Moderno",
+      "preco": "118",
+      "preco_parcelado": null,
+      "link": "https://meli.la/13nP5KJ",
+      "cupom": "4646637575",
+      "imagem": null
+    },
+    {
+      "id": 98785,
+      "nome": "Combo Presente Dia Dos Namorados Portinari: Body Spray 100ml",
+      "preco": "62",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2yNxXM4",
+      "cupom": "4646637575",
+      "imagem": null
+    },
+    {
+      "id": 98782,
+      "nome": "Notebook Positivo Vision R15M com Minitela",
+      "preco": "2230",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/3Rs4gM6",
+      "cupom": "PAISDOFUT + Pix",
+      "imagem": null
+    },
+    {
+      "id": 98781,
+      "nome": "Processadores Ryzen em Oferta na Amazon",
+      "preco": "999",
+      "preco_parcelado": "1099",
+      "link": "https://amzn.to/4ejF97K",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98779,
+      "nome": "Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9",
+      "preco": "5262",
+      "preco_parcelado": "5994",
+      "link": "https://meli.la/1KocVQQ",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98778,
+      "nome": "Ar-Condicionado LG DUAL Inverter +AI 12.000 BTU Frio 220V",
+      "preco": "1644",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4bSvOAU",
+      "cupom": "PAISDOFUT + Pix",
+      "imagem": null
+    },
+    {
+      "id": 98777,
+      "nome": "Apple iPhone 16 (128 GB) Preto",
+      "preco": "4048",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4gZiHjo",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98776,
+      "nome": "Geladeira Refrigerador HQ Frost Free Side By Side 460 Litros Cinza HQ-460SBSFF",
+      "preco": "2658",
+      "preco_parcelado": "2798",
+      "link": "https://amzn.to/403tCRJ",
+      "cupom": "PAISDOFUT + Pix",
+      "imagem": null
+    },
+    {
+      "id": 98774,
+      "nome": "Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE, Galaxy AI, Titânio Aeroespacial, Titânio Cinza",
+      "preco": "1799",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4b0lVk2",
+      "cupom": "PAISDOFUT",
+      "imagem": null
+    },
+    {
+      "id": 98773,
+      "nome": "LG TV HOTEL 50 4K UHD PROFISSIONAL SMART 50AU801C, ULTRAFINO, HDMI/USB, THINQ AI WEBOS 24, GOOGLE ASSISTENTE ALEXA",
+      "preco": "1649",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4fgsUct",
+      "cupom": "PAISDOFUT + Pix",
+      "imagem": null
+    },
+    {
+      "id": 98771,
+      "nome": "(Parcelado) Placa de Vídeo INNO3D RTX 5050 TWIN X2 8GB",
+      "preco": "1849",
+      "preco_parcelado": null,
+      "link": "https://meli.la/26zH2De",
+      "cupom": "CUPOMDEHOJE",
+      "imagem": null
+    },
+    {
+      "id": 98770,
+      "nome": "Samsung Galaxy S25 FE 5G - 128GB 8GB RAM - Câmera Tripla - Azul Marinho",
+      "preco": "2173",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4o0cFT9",
+      "cupom": "PAISDOFUT + Pix",
+      "imagem": null
+    },
+    {
+      "id": 98769,
+      "nome": "(Parcelada) Placa de Video RTX 5060 8GB GDDR7 Gainward Ghost",
+      "preco": "2199",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/47yWVid",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98768,
+      "nome": "Oakley Tênis Masculino Fade Padrão",
+      "preco": "107",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2sAaxj8",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98767,
+      "nome": "Smart TV LG UHD AI UA75 50 polegadas HDR10 Pro Processador α7 AI Ger 8 webOS 25",
+      "preco": "1823",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4viLC8b",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98765,
+      "nome": "Ventilador De Mesa 40cm Elgin Breeze Air",
+      "preco": "69",
+      "preco_parcelado": null,
+      "link": "https://meli.la/18ZKSVh",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98764,
+      "nome": "Fritadeira Elétrica Cube Fry Elgin 4,2 L Airfryer",
+      "preco": "125",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2u2KxpN",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98763,
+      "nome": "Watercooler Redragon X Lian Li Galahad II Lite 240 RGB INTEL LGA 1851/1700 AMD AM5/AM5 GA2L24RB-RD BLACK",
+      "preco": "380",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1oXYANt",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98762,
+      "nome": "Fone De Ouvido Headphone Neymar Jr. Aiwa AWS-HP-NJ-01-WG Bluetooth Branco/dourado EDIÇÃO LIMITADA",
+      "preco": "502",
+      "preco_parcelado": null,
+      "link": "https://meli.la/13cCB8g",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98761,
+      "nome": "Fechadura Digital De Sobrepor Fr 101 V Preta Intelbras",
+      "preco": "163",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2aBzMHt",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98760,
+      "nome": "Caixa De Som Boombox Mondial Xsound- Bx-100-bl - 100w Cor Preto",
+      "preco": "319",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1CUqafd",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98759,
+      "nome": "Liquidificador Super Force Elgin - Jarra De Vidro 1,9l, 900w",
+      "preco": "83",
+      "preco_parcelado": null,
+      "link": "https://meli.la/25Ax4cv",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98758,
+      "nome": "Placa de vídeo Pny Geforce Rtx 5060 com ventilador duplo com overclock",
+      "preco": "2090",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2muGmvP",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98757,
+      "nome": "Gabinete Gamer Mancer CV100, Mid-Tower, Lateral De Vidro",
+      "preco": "89",
+      "preco_parcelado": null,
+      "link": "https://cutt.ly/d4Mvmo8-pichau",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98756,
+      "nome": "Suporte Articulado Para Monitor Zinnia Rust 200, 17 Pol a 32 Pol",
+      "preco": "101",
+      "preco_parcelado": null,
+      "link": "https://cutt.ly/MEbBBq0-pichau",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98755,
+      "nome": "Controle sem fio PlayStation DualSense Midnight Black",
+      "preco": "301",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4feEBQV",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98754,
+      "nome": "SSD M.2 NVME Netac 500GB Gen3 3500MB/s",
+      "preco": "307",
+      "preco_parcelado": null,
+      "link": "https://s.click.aliexpress.com/e/c4N17dLn",
+      "cupom": "TAXABR2 + 648 Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 98752,
+      "nome": "Mouse Sem Fio Dragonfly R1 Se PAW3395 Se 500mAh",
+      "preco": "95",
+      "preco_parcelado": null,
+      "link": "https://s.click.aliexpress.com/e/c3ASLDE9",
+      "cupom": "TAXABR1 + 297 Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 98751,
+      "nome": "Controle Sem Fio GameSir G7 Pro, Xbox Series X , Pc, Tmr, Gatilhos de Efeito HALL, Placas Frontais Magnéticas, Giroscópio, Base de Carregamento Inteligente",
+      "preco": "323",
+      "preco_parcelado": null,
+      "link": "https://s.click.aliexpress.com/e/c3toIoXb",
+      "cupom": "TAXABR2 + 370 Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 98750,
+      "nome": "Fone Kz Eldar 1dd In-Ear Monitor, Custom Dynamic Driver, Balanced Sound Fast Transient, HiFi Earphone",
+      "preco": "20",
+      "preco_parcelado": null,
+      "link": "https://s.click.aliexpress.com/e/c3Bp2nFP",
+      "cupom": "TAXABR1 + Resgate cupom da loja/siga a loja + 804 Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 98749,
+      "nome": "Desodorante Antitranspirante Above Men Elements Hurricane 48h Aerossol Jato Seco 150ml",
+      "preco": "1",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/3POhpic",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98748,
+      "nome": "Copo Térmico Stanley Sem Tampa Matte Black 473ml",
+      "preco": "18",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/4vd199q",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98747,
+      "nome": "Perfume Adidas UEFA Best Of The Best Eau de Toilette Masculino 100ml",
+      "preco": "7",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/4wYVjKA",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98746,
+      "nome": "Garrafa Térmica Stanley Flip Straw Polar 650ml",
+      "preco": "65",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/4340dby",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98744,
+      "nome": "Fralda Pampers Confort Sec Xg Com 54 Unidades",
+      "preco": "10",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/4uyoFxI",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98743,
+      "nome": "Copo Térmico Stanley Sem Tampa Polar 473ml",
+      "preco": "35",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/49pbgQc",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98742,
+      "nome": "Placa Mãe Gigabyte B550M AORUS Elite, Chipset B550, AMD AM4, mATX, DDR4",
+      "preco": "599",
+      "preco_parcelado": null,
+      "link": "https://cutt.ly/mhHPCDY-terabyte",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98741,
+      "nome": "Gabinete Gamer TGT Legion, Mini-Tower, Lateral de Vidro",
+      "preco": "59",
+      "preco_parcelado": null,
+      "link": "https://cutt.ly/GXtrEC5-pichau",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98740,
+      "nome": "SSD Sata Netac 512GB - Case de Alumínio",
+      "preco": "266",
+      "preco_parcelado": null,
+      "link": "https://s.click.aliexpress.com/e/c3UeaWip",
+      "cupom": "TAXABR2 + 911 Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 98739,
+      "nome": "Ryzen 3 Pro 2200g - Vídeo Integrado",
+      "preco": "153",
+      "preco_parcelado": null,
+      "link": "https://s.click.aliexpress.com/e/c3wWRYWD",
+      "cupom": "TAXABR1 + 25 Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 98738,
+      "nome": "Placa Mãe Biostar B650MT, Chipset B650, AMD AM5, MATX, DDR5",
+      "preco": "299",
+      "preco_parcelado": null,
+      "link": "https://cutt.ly/qv7dJqo-terabyte",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98736,
+      "nome": "Cadeira Gamer Ninja Yurei, Reclinável, 2D, Tecido",
+      "preco": "499",
+      "preco_parcelado": null,
+      "link": "https://cutt.ly/mMxCNl3-terabyte",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98735,
+      "nome": "PC Gamer Mancer Fenrir II, AMD Ryzen 5 5500, Radeon RX 580 8GB, 16GB DDR4, SSD 480GB",
+      "preco": "999",
+      "preco_parcelado": null,
+      "link": "https://cutt.ly/8dogfsn-pichau",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98733,
+      "nome": "Placa de Vídeo ASRock AMD Radeon RX 9070 XT Challenger, 16GB, GDDR6, FSR, Ray Tracing, 90-GA61ZZ-00UANF",
+      "preco": "4199",
+      "preco_parcelado": null,
+      "link": "https://cutt.ly/4Qs5zVg-terabyte",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98732,
+      "nome": "KIT VENTOINHAS PICHAU WAVE P1, ARGB, 3X120MM + CONTROLADORA, PRETO, PG-WPRGB-BK01",
+      "preco": "1",
+      "preco_parcelado": null,
+      "link": "https://cutt.ly/iczAdRx-pichau",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98731,
+      "nome": "Estoque oscilando",
+      "preco": "4862",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1KocVQQ",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98730,
+      "nome": "Promo da live, poucas unidades!",
+      "preco": "99",
+      "preco_parcelado": null,
+      "link": "https://cutt.ly/jyGxK1A-pichau",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98729,
+      "nome": "Placa Mãe Maxsun iCraft B850 AIGA, Chipset B850, AMD AM5, ATX, WiFi, DDR5",
+      "preco": "1449",
+      "preco_parcelado": null,
+      "link": "https://cutt.ly/eXlB5zS-terabyte",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98728,
+      "nome": "Controles Sem Fio Xbox Series, Sem Juros",
+      "preco": "291",
+      "preco_parcelado": "291",
+      "link": "https://amzn.to/4dviIeT",
+      "cupom": "GOLEADA",
+      "imagem": null
+    },
+    {
+      "id": 98727,
+      "nome": "Placa Mãe Msi A520M-A Pro (AM4/2xDDR4/HDMI/DVI-D/M.2/USB 3.2)",
+      "preco": "338",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4oxmM0t",
+      "cupom": "GOLEADA",
+      "imagem": null
+    },
+    {
+      "id": 98726,
+      "nome": "Water Cooler Geometric Future Eskimo Pro 36 RGB",
+      "preco": "334",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4fP31Re",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 98725,
+      "nome": "Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE, Galaxy AI, Titânio Aeroespacial, Titânio",
+      "preco": "1899",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4b0lVk2",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 98724,
+      "nome": "JBL, Caixa de Som, Boombox 3, Bluetooth, À Prova D'água e Poeira",
+      "preco": "1669",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/3J2N2ky",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 98723,
+      "nome": "Teclado Magnetico Onyx, RGB, Preto, MCR-ONYP-BL01",
+      "preco": "119",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/9fHrtrOXsA",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 98722,
+      "nome": "Teclado Magnetico Mancer Amethyst, RGB, Preto e Roxo",
+      "preco": "136",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/3LO3d63ySi",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 98720,
+      "nome": "Fogão Cooktop 4 Bocas Bivolt Itatiaia Essencial Preto",
+      "preco": "207",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/6VL5FTiSkb",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 98719,
+      "nome": "Suporte Articulado Pistão A Gás P/ 2 Monitores Zinnia Nimbo 210, 13 A 32",
+      "preco": "110",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/8pijwO76RP",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 98718,
+      "nome": "Gabinete Gamer Aquário Acegeek Ori Rainbow Mini-Tower Lateral e Vidro Com 3 Fans",
+      "preco": "90",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/5q59MJMx2R",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 98717,
+      "nome": "Water Cooler TGT Spartel V3, Rainbow, 120mm",
+      "preco": "93",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/8ATJEAU9a4",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 98715,
+      "nome": "MONITOR GAMER MANCER HORIZON Z3B, 21.5 POL, VA, FHD, 1MS, 100HZ",
+      "preco": "49",
+      "preco_parcelado": null,
+      "link": "https://cutt.ly/Ufaeem5-pichau",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98714,
+      "nome": "Celular Samsung Galaxy A07 (Versão 256GB)",
+      "preco": "694",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/3RBE41M",
+      "cupom": "TORCIDA + Pix",
+      "imagem": null
+    },
+    {
+      "id": 98713,
+      "nome": "Perfume Árabe Al Wataniah Sabah Al Ward EDP 100ml",
+      "preco": "116",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1UKACFU",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98712,
+      "nome": "Memória RAM Rise Mode 16GB, 5600Mhz, DDR5, CL46, Zeus Series Branco - RM-D5-16G-5600ZE-W",
+      "preco": "899",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/4ahxV10",
+      "cupom": "MEGA100",
+      "imagem": null
+    },
+    {
+      "id": 98711,
+      "nome": "Samsung Galaxy S25 Fe 5g, 128GB, 8GB",
+      "preco": "2273",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4rWAxbc",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 98710,
+      "nome": "Notebook Positivo Vision R15m",
+      "preco": "2330",
+      "preco_parcelado": "2759",
+      "link": "https://amzn.to/3Rs4gM6",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 98709,
+      "nome": "(Parcelada) Placa-Mãe Asus Tuf Gaming A520M-Plus II, AMD AM4",
+      "preco": "502",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4lgY4Sb",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 98708,
+      "nome": "Processador AMD Ryzen 7 5700X",
+      "preco": "984",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4vdf27B",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 98706,
+      "nome": "Kit Fan Com 3 Unidades SuperFrame Swift, ARGB, 120mm, White, Com Controladora SF-03",
+      "preco": "39",
+      "preco_parcelado": null,
+      "link": "https://cutt.ly/oqkGL86-terabyte",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98704,
+      "nome": "Suporte Articulado Para Monitor e Tv Zinnia Nimbo 110, 13 Pol. A 32 Pol",
+      "preco": "56",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/4Ax3HvcZzq",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 98702,
+      "nome": "Teclado Mecanico TGT Sherman V3 C1, Rainbow, ABNT2, Switch Vermelho, Preto",
+      "preco": "53",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/902B6K8yjg",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 98701,
+      "nome": "Fogão Cooktop 4 Bocas Bivolt Itatiaia Essencial Preto",
+      "preco": "207",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/6VL5FTiSkb",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 98699,
+      "nome": "iCLAMPER Eletro 5 Filtro de linha com DPS Bivolt 10A Branco",
+      "preco": "44",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/1qZFgeATP3",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 98698,
+      "nome": "Kit 3 Camisetas Dry Alpha Masculina",
+      "preco": "50",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/7Aam2Q8Zld",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 98697,
+      "nome": "Teclado Magnetico Pichau Virgo Pro, RGB, Switch Vermelho",
+      "preco": "160",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/7VBg5UbOy4",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 98696,
+      "nome": "Teclado Magnetico Onyx, RGB, Preto, MCR-ONYP-BL01",
+      "preco": "119",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/9fHrtrOXsA",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 98695,
+      "nome": "Combo Gamer Mancer ORC V2,MRC-ORC2-RBW01",
+      "preco": "86",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/AKXno9pjzI",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 98694,
+      "nome": "Water Cooler TGT Spartel V3, Rainbow, 120mm, Preto, TGT-SPLV120-BK01",
+      "preco": "93",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/8ATJEAU9a4",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 98693,
+      "nome": "Teclado Mecanico Mancer Tharix, Rainbow, ABNT2, Switch Vermelho, Preto, MCR-THX-RBW01",
+      "preco": "84",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/4LGaf41cMm",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 98692,
+      "nome": "Gabinete Gamer Mancer Cv700m, Lateral De Vidro, Com 2 Fans",
+      "preco": "103",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/3VhTfWaKsV",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 98691,
+      "nome": "Gabinete Gamer Aquário Acegeek Ori Rainbow Mini-Tower Lateral e Vidro Com 3 Fans",
+      "preco": "90",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/5q59MJMx2R",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 98690,
+      "nome": "Gabinete Gamer Aquário Aigo Luna A275 Rainbow Mini-Tower, Com 3 Fans",
+      "preco": "89",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/50WHSFIEZm",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 98689,
+      "nome": "Suporte Articulado Pistão A Gás P/ 2 Monitores Zinnia Nimbo 210, 13 A 32",
+      "preco": "110",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/8pijwO76RP",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 98688,
+      "nome": "Gabinete Gamer Aquário Mancer CV500L, Mid Tower, Lateral De Vidro, Preto, MCR-CV500L-BK",
+      "preco": "160",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/8fPZosjjpi",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 98686,
+      "nome": "Havit Fone de Ouvido Gamer Five-Mode Fuxi-H7 Black, Sem fio",
+      "preco": "157",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/3Pw7H41",
+      "cupom": "PRIME10",
+      "imagem": null
+    },
+    {
+      "id": 98685,
+      "nome": "Processador Ryzen 7 5700X",
+      "preco": "993",
+      "preco_parcelado": "100",
+      "link": "https://s.shopee.com.br/2g8MdgluiR",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 98684,
+      "nome": "HENELL Tônico Capilar Primavera 100ml + 5ml + Brinde",
+      "preco": "44",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/gNICEEth0",
+      "cupom": "5L0K135AF",
+      "imagem": null
+    },
+    {
+      "id": 98682,
+      "nome": "Figurinhas Copa 2026 FIFA Envelopes Pronta Entrega - 10 Pacotes",
+      "preco": "51",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/5VSXvpFL4q",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 22363,
+      "nome": "Notebook Acer Nitro V15 ANV15-52-56PD i5 13420H RTX 4050 8GB RAM 512GB SSD Windows 11",
+      "preco": "4.864,14",
+      "preco_parcelado": "5.799,00",
+      "link": "https://benchpromos.com.br/promocao/notebook-acer-nitro-v15-anv155256pd-i5-13420h-rtx-4050-8gb-ram-512gb-ssd-windows-11/cmpt3jbb53lxf9t0ixd6j525r",
+      "cupom": "SABADAO",
+      "imagem": null
+    },
+    {
+      "id": 22362,
+      "nome": "Monitor Gamer TCL 25G64 25 QD-Mini LED FHD 300Hz",
+      "preco": "1.464,05",
+      "preco_parcelado": "1.549,00",
+      "link": "https://benchpromos.com.br/promocao/monitor-gamer-tcl-25g64-25-qdmini-led-fhd-300hz/cmpt1e6u13lwz9t0it0nlnlds",
+      "cupom": "SABADAO",
+      "imagem": null
+    },
+    {
+      "id": 22361,
+      "nome": "Monitor Gamer Alienware AW2525HM 25 IPS FHD 320Hz",
+      "preco": "1.477,00",
+      "preco_parcelado": "1.477,00",
+      "link": "https://benchpromos.com.br/promocao/monitor-gamer-alienware-aw2525hm-25-ips-fhd-320hz/cmpt1d29a3lwv9t0irgwbpbr0",
+      "cupom": "SABADAO",
+      "imagem": null
+    },
+    {
+      "id": 22360,
+      "nome": "Monitor Samsung Odyssey G5 27 OLED QHD 180Hz",
+      "preco": "2.615,44",
+      "preco_parcelado": "2.753,10",
+      "link": "https://benchpromos.com.br/promocao/monitor-samsung-odyssey-g5-27-oled-qhd-180hz/cmpswnsce3lw89t0i8jc4ewz0",
+      "cupom": "LIVESHOP",
+      "imagem": null
+    },
+    {
+      "id": 22359,
+      "nome": "Notebook Acer Nitro V15 ANV15-52-56PD i5 13420H RTX 4050 8GB RAM 512GB SSD Windows 11",
+      "preco": "4.964,14",
+      "preco_parcelado": "5.899,00",
+      "link": "https://benchpromos.com.br/promocao/notebook-acer-nitro-v15-anv155256pd-i5-13420h-rtx-4050-8gb-ram-512gb-ssd-windows-11/cmpsw1q4d3lw09t0i6k6fs715",
+      "cupom": "CANARINHO",
+      "imagem": null
+    },
+    {
+      "id": 22358,
+      "nome": "Mousepad SuperFrame Pro Player, Estendido, Control, 900x420x4mm, Preto, SF-MP-PPCEB",
+      "preco": "149,99",
+      "preco_parcelado": "176,46",
+      "link": "https://benchpromos.com.br/promocao/mousepad-superframe-pro-player-estendido-control-900x420x4mm-preto-sfmpppceb/cmprotww23ij59t0ij7r3k7of",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22357,
+      "nome": "Notebook ASUS TUF Gaming F16 FX608JMR-RV261 Intel Core i5 14450HX RTX 5060 8GB RAM 512GB SSD Linux",
+      "preco": "7.528,51",
+      "preco_parcelado": "8.459,00",
+      "link": "https://benchpromos.com.br/promocao/notebook-asus-tuf-gaming-f16-fx608jmrrv261-intel-core-i5-14450hx-rtx-5060-8gb-ram-512gb-ssd-linux/cmprnr64b3iiz9t0ito6v3dfh",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22356,
+      "nome": "Apple 2025 iPad Air de 13 polegadas (Wi-Fi, 128 GB) - Luz das estrelas (M3)",
+      "preco": "3.999,90",
+      "preco_parcelado": "3.999,90",
+      "link": "https://benchpromos.com.br/promocao/apple-2025-ipad-air-de-13-polegadas-wifi-128-gb--luz-das-estrelas-m3/cmprnped13iix9t0ik3sqspbx",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22355,
+      "nome": "Notebook Asus Vivobook S 14 S5406SA-QD299W Intel Core Ultra 7 256V 16GB RAM 512GB SSD Windows 11",
+      "preco": "6.578,15",
+      "preco_parcelado": "6.965,15",
+      "link": "https://benchpromos.com.br/promocao/notebook-asus-vivobook-s-14-s5406saqd299w-intel-core-ultra-7-256v-16gb-ram-512gb-ssd-windows-11/cmprklyp63ihl9t0izq3y8cui",
+      "cupom": "6DO6",
+      "imagem": null
+    },
+    {
+      "id": 22354,
+      "nome": "Notebook Positivo Vision R15M AMD Ryzen 5-5625U 8GB RAM 256GB SSD Linux",
+      "preco": "2.230,15",
+      "preco_parcelado": "2.659,00",
+      "link": "https://benchpromos.com.br/promocao/notebook-positivo-vision-r15m-amd-ryzen-55625u-8gb-ram-256gb-ssd-linux/cmprjcmmm3iha9t0iqoyzpxg2",
+      "cupom": "PAISDOFUT",
+      "imagem": null
+    },
+    {
+      "id": 22353,
+      "nome": "Apple iPhone 16 (128GB)",
+      "preco": "4.048,70",
+      "preco_parcelado": "4.593,00",
+      "link": "https://benchpromos.com.br/promocao/apple-iphone-16-128gb/cmpriqeid3ih29t0ik4vnh0i3",
+      "cupom": "SMART500",
+      "imagem": null
+    },
+    {
+      "id": 22352,
+      "nome": "Smartphone Samsung Galaxy S25 FE 8/128GB",
+      "preco": "2.173,10",
+      "preco_parcelado": "2.436,78",
+      "link": "https://benchpromos.com.br/promocao/smartphone-samsung-galaxy-s25-fe-8128gb/cmprinz5x3igt9t0ievn0iuwx",
+      "cupom": "PAISDOFUT",
+      "imagem": null
+    },
+    {
+      "id": 22350,
+      "nome": "Controle Sem Fio GameSir G7 Pro",
+      "preco": "334,57",
+      "preco_parcelado": "368,05",
+      "link": "https://benchpromos.com.br/promocao/controle-sem-fio-gamesir-g7-pro/cmprbriqq3ifq9t0i011p9szp",
+      "cupom": "TAXABR2 + 136 Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 22349,
+      "nome": "Notebook Acer Nitro V15 ANV15-52-737P i7 13620H RTX 4050 16GB RAM 512GB SSD Linux",
+      "preco": "600",
+      "preco_parcelado": "5.799,00",
+      "link": "https://benchpromos.com.br/promocao/notebook-acer-nitro-v15-anv1552737p-i7-13620h-rtx-4050-16gb-ram-512gb-ssd-linux/cmprb5ahk3ife9t0igf804z1e",
+      "cupom": "Resgate o cupom de R$ 600 OFF no Anúncio",
+      "imagem": null
+    },
+    {
+      "id": 22348,
+      "nome": "Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE, Galaxy AI, Titânio Aeroespacial, Titânio Cinza",
+      "preco": "1.899,00",
+      "preco_parcelado": "1.899,00",
+      "link": "https://benchpromos.com.br/promocao/samsung-galaxy-watch-ultra-2025-smartwatch-47mm-lte-galaxy-ai-titanio-aeroespacial-titanio-cinza/cmpr7fn2w3ieh9t0iwylxjkkq",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 22347,
+      "nome": "Smartphone Samsung Galaxy S25 FE 8/128GB",
+      "preco": "2.273,10",
+      "preco_parcelado": "2.536,78",
+      "link": "https://benchpromos.com.br/promocao/smartphone-samsung-galaxy-s25-fe-8128gb/cmpr6x1353ie49t0i4bxal8zh",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 22346,
+      "nome": "Smartphone Motorola Signature 5G - 512GB 24GB (12GB RAM + 12GB RAM Boost), 3 cameras 50MP Sony Lytia e Zoom 100x, Tela 1.5K extreme Amoled 165hz - Preto",
+      "preco": "4.749,00",
+      "preco_parcelado": "4.749,00",
+      "link": "https://benchpromos.com.br/promocao/smartphone-motorola-signature-5g--512gb-24gb-12gb-ram--12gb-ram-boost-3-cameras-50mp-sony-lytia-e-zoom-100x-tela-15k-extreme-amoled-165hz--preto/cmpr6u6ws3ie09t0iwoi3z43h",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22345,
+      "nome": "(BUG?) Monitor Gamer Mancer Horizon Z3B, 21.5 Pol, VA, FHD, 1ms, 100Hz, HDMI/VGA, MCR-HZ3BN21-BL2",
+      "preco": "49",
+      "preco_parcelado": null,
+      "link": "https://www.pichau.com.br/monitor-gamer-mancer-horizon-z3b-21-5-pol-va-fhd-1ms-100hz-hdmi-vga-mcr-hz3bn21-bl2",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22344,
+      "nome": "LANÇAMENTO!",
+      "preco": "8.380,79",
+      "preco_parcelado": "9.312,00",
+      "link": "https://benchpromos.com.br/promocao/notebook-lenovo-loqe-15irx11-intel-core-i713650hx-rtx-5050-16gb-ram-512gb-ssd-linux/cmpr2t20p3ibl9t0ivgjpqkok",
+      "cupom": "AMIGOLENOVO",
+      "imagem": null
+    },
+    {
+      "id": 22343,
+      "nome": "LANÇAMENTO!",
+      "preco": "8.031,59",
+      "preco_parcelado": "8.923,92",
+      "link": "https://benchpromos.com.br/promocao/notebook-lenovo-loqe-15irx11-intel-core-i513450hx-rtx-5050-16gb-ram-512gb-ssd-linux/cmpr2rige3ibf9t0iiv6sxdve",
+      "cupom": "AMIGOLENOVO",
+      "imagem": null
+    },
+    {
+      "id": 22342,
+      "nome": "Notebook Acer Aspire 16 A16-71MT-75Z5 Touch Intel Core Ultra 7 155U 16GB RAM 512GB SSD Windows 11",
+      "preco": "200",
+      "preco_parcelado": "4.549,05",
+      "link": "https://benchpromos.com.br/promocao/notebook-acer-aspire-16-a1671mt75z5-touch-intel-core-ultra-7-155u-16gb-ram-512gb-ssd-windows-11/cmpr20bwi3iai9t0i9w11b60t",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22341,
+      "nome": "Headphone Sem Fio AKG N9 Hybrid, Preto",
+      "preco": "749,10",
+      "preco_parcelado": "839,00",
+      "link": "https://benchpromos.com.br/promocao/headphone-sem-fio-akg-n9-hybrid-preto/cmpr19ldr3iac9t0inicr4kx3",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 22340,
+      "nome": "Headset Gamer Sem Fio Havit Fuxi H7, Wireless, Bluetooth, RGB, Drivers de 40mm, Preto",
+      "preco": "157,41",
+      "preco_parcelado": "157,41",
+      "link": "https://benchpromos.com.br/promocao/headset-gamer-sem-fio-havit-fuxi-h7-wireless-bluetooth-rgb-drivers-de-40mm-preto/cmpr13yud3ia19t0itzpaatb7",
+      "cupom": "PRIME10",
+      "imagem": null
+    },
+    {
+      "id": 22339,
+      "nome": "Headset Sem Fio JBL Quantum 910",
+      "preco": "594,99",
+      "preco_parcelado": "699,99",
+      "link": "https://benchpromos.com.br/promocao/headset-sem-fio-jbl-quantum-910/cmpr11y0i3i9v9t0ihqmhvexs",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22338,
+      "nome": "Notebook ASUS TUF Gaming F16 FX608JHR RTX 5050 Intel Core i5 14450HX 16GB RAM 512GB SSD Linux",
+      "preco": "7.528,51",
+      "preco_parcelado": "7.528,51",
+      "link": "https://benchpromos.com.br/promocao/notebook-asus-tuf-gaming-f16-fx608jhr-rtx-5050-intel-core-i5-14450hx-16gb-ram-512gb-ssd-linux/cmpr0z9x03i9r9t0izxwif4qc",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22337,
+      "nome": "Notebook Predator Helios Neo 16 AI PHN16-73-76H8 Intel Core Ultra 7 255HX RTX 5070 32GB RAM 512GB SSD Windows 11",
+      "preco": "10.229,07",
+      "preco_parcelado": "11.623,94",
+      "link": "https://benchpromos.com.br/promocao/notebook-predator-helios-neo-16-ai-phn167376h8-intel-core-ultra-7-255hx-rtx-5070-32gb-ram-512gb-ssd-windows-11/cmpqzwq9b3i9a9t0iidnwdlm4",
+      "cupom": "GEEKWEEK7OFF",
+      "imagem": null
+    },
+    {
+      "id": 22336,
+      "nome": "Notebook Predator Helios Neo 16 AI Intel Core Ultra 7 255HX RTX 5070 16GB RAM 512GB SSD Windows 11",
+      "preco": "9.857,07",
+      "preco_parcelado": "11.201,22",
+      "link": "https://benchpromos.com.br/promocao/notebook-predator-helios-neo-16-ai-intel-core-ultra-7-255hx-rtx-5070-16gb-ram-512gb-ssd-windows-11/cmpqzw6vs3i969t0i870jt99m",
+      "cupom": "GEEKWEEK7OFF",
+      "imagem": null
+    },
+    {
+      "id": 22335,
+      "nome": "Pessoal, criamos um grupo novo focado em ofertas gerais!",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://t.me/BenchPromosGerais",
+      "cupom": "https://t.me/BenchPromosGerais",
+      "imagem": null
+    },
+    {
+      "id": 22334,
+      "nome": "Headset Com Fio Drop + EPOS H3X, Preto",
+      "preco": "199,00",
+      "preco_parcelado": "199,00",
+      "link": "https://benchpromos.com.br/promocao/headset-com-fio-drop--epos-h3x-preto/cmpq74ifv3eyp9t0i7cuv6g6c",
+      "cupom": "LIVE28DROP",
+      "imagem": null
+    },
+    {
+      "id": 22333,
+      "nome": "Volante Logitech G29 Driving Force e Pedais com Force Feedback para PS5, PS4, PS3 e PC",
+      "preco": "1.556,09",
+      "preco_parcelado": "1.629,00",
+      "link": "https://benchpromos.com.br/promocao/volante-logitech-g29-driving-force-e-pedais-com-force-feedback-para-ps5-ps4-ps3-e-pc/cmpq38mct3exk9t0i2pkn93qs",
+      "cupom": "ATACANTE",
+      "imagem": null
+    },
+    {
+      "id": 22332,
+      "nome": "Ar Condicionado Split Hi Wall TCL T-Pro 2.0 Inverter 9.000 Btus Quente e Frio R-32",
+      "preco": "1.698,00",
+      "preco_parcelado": "1.698,00",
+      "link": "https://amzn.to/4vme893",
+      "cupom": "ATACANTE",
+      "imagem": null
+    },
+    {
+      "id": 22331,
+      "nome": "Controle Sem Fio GameSir G7 Pro",
+      "preco": "357,93",
+      "preco_parcelado": "390,14",
+      "link": "https://benchpromos.com.br/promocao/controle-sem-fio-gamesir-g7-pro/cmpq2hpcb3exg9t0i525uccxr",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22330,
+      "nome": "Notebook Positivo Vision R15M AMD Ryzen 5-5625U 8GB RAM 256GB SSD Linux",
+      "preco": "2.320,00",
+      "preco_parcelado": "2.759,00",
+      "link": "https://benchpromos.com.br/promocao/notebook-positivo-vision-r15m-amd-ryzen-55625u-8gb-ram-256gb-ssd-linux/cmpq1mkz83exa9t0i2q284yx0",
+      "cupom": "ATACANTE",
+      "imagem": null
+    },
+    {
+      "id": 22328,
+      "nome": "Smartphone Samsung Galaxy S26 Ultra 5G 512GB, Branco",
+      "preco": "4.862,98",
+      "preco_parcelado": "5.403,31",
+      "link": "https://benchpromos.com.br/promocao/smartphone-samsung-galaxy-s26-ultra-5g-512gb-branco/cmppz5xlx3ewk9t0izwa3rib0",
+      "cupom": "Resgate o cupom de 40% OFF no Anúncio",
+      "imagem": null
+    },
+    {
+      "id": 22327,
+      "nome": "Smartphone Samsung Galaxy S26 Ultra 5G 512GB, Preto",
+      "preco": "4.862,98",
+      "preco_parcelado": "5.403,31",
+      "link": "https://benchpromos.com.br/promocao/smartphone-samsung-galaxy-s26-ultra-5g-512gb-preto/cmppz54wg3ewc9t0inv7zfuab",
+      "cupom": "Resgate o cupom de 40% OFF no Anúncio",
+      "imagem": null
+    },
+    {
+      "id": 22326,
+      "nome": "Notebook Lenovo IdeaPad Slim 3 AMD Ryzen 7 7735HS 16GB RAM 512GB SSD Linux",
+      "preco": "3.699,00",
+      "preco_parcelado": "4.110,00",
+      "link": "https://benchpromos.com.br/promocao/notebook-lenovo-ideapad-slim-3-amd-ryzen-7-7735hs-16gb-ram-512gb-ssd-linux/cmppr7i4u3eun9t0iefmy4m2i",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22325,
+      "nome": "Placa De Vídeo Nvidia Geforce Palit Rtx5060 8gb Infinity2 Oc",
+      "preco": "2.249,00",
+      "preco_parcelado": "2.249,00",
+      "link": "https://benchpromos.com.br/promocao/placa-de-video-nvidia-geforce-palit-rtx5060-8gb-infinity2-oc/cmpppwllh3euf9t0ie5qzmj0p",
+      "cupom": "APROVEITAESSA",
+      "imagem": null
+    },
+    {
+      "id": 22324,
+      "nome": "Projetor Hy300 4K HD Android 11 Wi-Fi Bluetooth Portátil 150''",
+      "preco": "144,49",
+      "preco_parcelado": "144,49",
+      "link": "https://meli.la/1B4gxGp",
+      "cupom": "PARAVC",
+      "imagem": null
+    },
+    {
+      "id": 22323,
+      "nome": "Notebook ASUS TUF Gaming F16 FX608JHR RTX 5050 Intel Core i7 14650HX 8GB RAM 512GB SSD Linux",
+      "preco": "7.006,76",
+      "preco_parcelado": "7.629,08",
+      "link": "https://benchpromos.com.br/promocao/notebook-asus-tuf-gaming-f16-fx608jhr-rtx-5050-intel-core-i7-14650hx-8gb-ram-512gb-ssd-linux/cmppm6gef3etb9t0ii73gus9d",
+      "cupom": "G0L45H0",
+      "imagem": null
+    },
+    {
+      "id": 22322,
+      "nome": "Notebook ASUS TUF Gaming F16 FX608JHR RTX 5050 Intel Core i7 14650HX 8GB RAM 512GB SSD Linux",
+      "preco": "400",
+      "preco_parcelado": "7.208,61",
+      "link": "https://benchpromos.com.br/promocao/notebook-asus-tuf-gaming-f16-fx608jhr-rtx-5050-intel-core-i7-14650hx-8gb-ram-512gb-ssd-linux/cmppkzdr83esz9t0ixe1ujq97",
+      "cupom": "Resgate o cupom de R$ 400 OFF no Anúncio",
+      "imagem": null
+    },
+    {
+      "id": 22321,
+      "nome": "Notebook Lenovo IdeaPad Slim 3 AMD Ryzen 7 7735HS 8GB 512GB SSD 15.3 WUXGA Windows 11 Home",
+      "preco": "3.492,19",
+      "preco_parcelado": "3.803,68",
+      "link": "https://s.shopee.com.br/1gFRVAjVck",
+      "cupom": "Resgate os cupons aqui: https://s.shopee.com.br/1gFRVAjVck",
+      "imagem": null
+    },
+    {
+      "id": 22320,
+      "nome": "Ar-condicionado Split Inverter 9000 Btus Samsung Windfree Ai Wi-fi High Wall Só Frio 220v",
+      "preco": "1.519,20",
+      "preco_parcelado": "1.899,00",
+      "link": "https://amzn.to/4visqrd",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22319,
+      "nome": "Monitor Gigabyte GS24F14 24 IPS FHD 144Hz",
+      "preco": "549,99",
+      "preco_parcelado": "647,04",
+      "link": "https://benchpromos.com.br/promocao/monitor-gigabyte-gs24f14-24-ips-fhd-144hz/cmppj99o13es49t0i6t5ueovo",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22318,
+      "nome": "Controle Sem Fio GameSir G7 Pro",
+      "preco": "350,77",
+      "preco_parcelado": "382,98",
+      "link": "https://benchpromos.com.br/promocao/controle-sem-fio-gamesir-g7-pro/cmppj7jzy3es09t0iqsk04mzt",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22317,
+      "nome": "Pessoal, criamos um grupo novo focado em ofertas gerais!",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://t.me/BenchPromosGerais",
+      "cupom": "https://t.me/BenchPromosGerais",
+      "imagem": null
+    },
+    {
+      "id": 22316,
+      "nome": "Mouse Sem Fio MCHOSE A7 V2 Pro, Branco",
+      "preco": "226,99",
+      "preco_parcelado": "267,05",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-mchose-a7-v2-pro-branco/cmpovb7o63bhr9t0iz3r77ebj",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22315,
+      "nome": "Mouse Sem Fio MCHOSE L7 Pro, Branco",
+      "preco": "242,99",
+      "preco_parcelado": "285,87",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-mchose-l7-pro-branco/cmpovbnqk3bhv9t0im2p25vou",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22314,
+      "nome": "Teclado Mecânico Sem Fio MCHOSE X Unbox Therapy UT98, Retro Therapy",
+      "preco": "348,99",
+      "preco_parcelado": "410,58",
+      "link": "https://benchpromos.com.br/promocao/teclado-mecanico-sem-fio-mchose-x-unbox-therapy-ut98-retro-therapy/cmpova8743bhp9t0i694gkvig",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22313,
+      "nome": "Teclado Mecânico Sem Fio MCHOSE GX87S, Preto",
+      "preco": "378,99",
+      "preco_parcelado": "445,87",
+      "link": "https://benchpromos.com.br/promocao/teclado-mecanico-sem-fio-mchose-gx87s-preto/cmpov8zjt3bhn9t0iwfp7dgtn",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22312,
+      "nome": "Teclado Mecânico Sem Fio MCHOSE GX87 Ultra, Branco",
+      "preco": "379,99",
+      "preco_parcelado": "447,05",
+      "link": "https://benchpromos.com.br/promocao/teclado-mecanico-sem-fio-mchose-gx87-ultra-branco/cmpov3r0l3bhj9t0ibfwmj9xl",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22311,
+      "nome": "Notebook Acer Nitro V15 ANV15-52-52VN i5 13420H RTX 4060 16GB RAM 512GB SSD Linux",
+      "preco": "600",
+      "preco_parcelado": "5.899,00",
+      "link": "https://benchpromos.com.br/promocao/notebook-acer-nitro-v15-anv155252vn-i5-13420h-rtx-4060-16gb-ram-512gb-ssd-linux/cmpoumwqt3bha9t0igyrmoo3c",
+      "cupom": "Resgate o cupom de R$ 600 OFF no Anúncio",
+      "imagem": null
+    },
+    {
+      "id": 22310,
+      "nome": "Monitor Curvo Alienware AW3425DW 34 OLED QHD 240Hz",
+      "preco": "6.619,00",
+      "preco_parcelado": "6.619,00",
+      "link": "https://benchpromos.com.br/promocao/monitor-curvo-alienware-aw3425dw-34-oled-qhd-240hz/cmponshri3bfv9t0ibktzcjhe",
+      "cupom": "TITULAR",
+      "imagem": null
+    },
+    {
+      "id": 22309,
+      "nome": "Notebook ASUS TUF Gaming F16 RTX 5050 Intel Core i5 14450HX 16GB RAM 512GB SSD Windows 11",
+      "preco": "7.904,15",
+      "preco_parcelado": "7.904,15",
+      "link": "https://benchpromos.com.br/promocao/notebook-asus-tuf-gaming-f16-rtx-5050-intel-core-i5-14450hx-16gb-ram-512gb-ssd-windows-11/cmponen2i3bfq9t0i8b9e81rk",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 22308,
+      "nome": "Notebook Avell STORM 570 i9 14900HX RTX 5070",
+      "preco": "10.339,60",
+      "preco_parcelado": "11.488,44",
+      "link": "https://benchpromos.com.br/promocao/notebook-avell-storm-570-i9-14900hx-rtx-5070/cmponay203bfo9t0i01upkh13",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22306,
+      "nome": "Notebook ASUS TUF Gaming F16 FX608JMR-RV261 Intel Core i5 14450HX RTX 5060 8GB RAM 512GB SSD Linux",
+      "preco": "7.309,15",
+      "preco_parcelado": "7.309,15",
+      "link": "https://benchpromos.com.br/promocao/notebook-asus-tuf-gaming-f16-fx608jmrrv261-intel-core-i5-14450hx-rtx-5060-8gb-ram-512gb-ssd-linux/cmplw8ula343j9t0iiyr92wfr",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 22305,
+      "nome": "Notebook Positivo Vision R15M AMD Ryzen 5-5625U 8GB RAM 256GB SSD Linux",
+      "preco": "2.280,15",
+      "preco_parcelado": "2.709,00",
+      "link": "https://benchpromos.com.br/promocao/notebook-positivo-vision-r15m-amd-ryzen-55625u-8gb-ram-256gb-ssd-linux/cmpomao9j3bfb9t0iia56dbsl",
+      "cupom": "TITULAR",
+      "imagem": null
+    },
+    {
+      "id": 22304,
+      "nome": "Volante Logitech G29 Driving Force e Pedais com Force Feedback para PS5, PS4, PS3 e PC",
+      "preco": "1.562,84",
+      "preco_parcelado": "1.579,00",
+      "link": "https://benchpromos.com.br/promocao/volante-logitech-g29-driving-force-e-pedais-com-force-feedback-para-ps5-ps4-ps3-e-pc/cmpom63su3bf59t0ic989aj2v",
+      "cupom": "TITULAR",
+      "imagem": null
+    },
+    {
+      "id": 22303,
+      "nome": "Notebook Yoga Slim 7i Intel Core Ultra 5, 16GB, 512GB SSD Intel Arc Graphics, 14 W11",
+      "preco": "4.898,12",
+      "preco_parcelado": "5.486,90",
+      "link": "https://benchpromos.com.br/promocao/notebook-yoga-slim-7i-intel-core-ultra-5-16gb-512gb-ssd-intel-arc-graphics-14-w11/cmpolztfw3bf19t0i41fchbla",
+      "cupom": "TITULAR",
+      "imagem": null
+    },
+    {
+      "id": 22302,
+      "nome": "Robô Aspirador e Passa Pano KaBuM! Smart 900, 127v, Branco",
+      "preco": "1.199,99",
+      "preco_parcelado": "1.411,75",
+      "link": "https://benchpromos.com.br/promocao/robo-aspirador-e-passa-pano-kabum-smart-900-127v-branco/cmpojfaqp3be59t0ikbkljgfx",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22301,
+      "nome": "Robô Aspirador e Passa Pano KaBuM! Smart 900, 127v, Preto",
+      "preco": "1.199,90",
+      "preco_parcelado": "1.411,65",
+      "link": "https://benchpromos.com.br/promocao/robo-aspirador-e-passa-pano-kabum-smart-900-127v-preto/cmpojdotk3be29t0i6cigt46d",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22300,
+      "nome": "Microfone Dinâmico Fifine AM8",
+      "preco": "167,00",
+      "preco_parcelado": "167,00",
+      "link": "https://benchpromos.com.br/promocao/microfone-dinamico-fifine-am8/cmpoj9iqt3bdy9t0i9gy9r8zm",
+      "cupom": "FFBR22 + NAMR2 + 522 Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 22299,
+      "nome": "Pessoal, criamos um grupo novo focado em ofertas gerais!",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://t.me/BenchPromosGerais",
+      "cupom": "https://t.me/BenchPromosGerais",
+      "imagem": null
+    },
+    {
+      "id": 22297,
+      "nome": "Teclado Magnético Com Fio Redragon Ucal",
+      "preco": "259,99",
+      "preco_parcelado": "305,87",
+      "link": "https://benchpromos.com.br/promocao/teclado-magnetico-com-fio-redragon-ucal/cmpogmjbl3bd49t0iie168pcp",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22296,
+      "nome": "Mouse Sem Fio Logitech G PRO X2 Superstrike",
+      "preco": "1.274,99",
+      "preco_parcelado": "1.416,66",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-logitech-g-pro-x2-superstrike/cmpogh4b73bd09t0itrq0qj2x",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22295,
+      "nome": "Notebook Predator Helios Neo i9-14900HX RTX 4070 16 QHD 240Hz 32GB RAM 1TB SSD W11 - PHN16-72-99MY",
+      "preco": "600",
+      "preco_parcelado": "9.594,04",
+      "link": "https://benchpromos.com.br/promocao/notebook-predator-helios-neo-i914900hx-rtx-4070-16-qhd-240hz-32gb-ram-1tb-ssd-w11--phn167299my/cmpog8p7f3bcw9t0ityuxc0tg",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22293,
+      "nome": "Teclado Magnético Com Fio MCHOSE Ace 60 Pro",
+      "preco": "237,99",
+      "preco_parcelado": "279,99",
+      "link": "https://benchpromos.com.br/promocao/teclado-magnetico-com-fio-mchose-ace-60-pro/cmpoen27d3bcj9t0i787y1aa0",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22292,
+      "nome": "Mouse Com Fio Endgame Gear XM2 8K V2, Preto",
+      "preco": "365,49",
+      "preco_parcelado": "406,10",
+      "link": "https://benchpromos.com.br/promocao/mouse-com-fio-endgame-gear-xm2-8k-v2-preto/cmpoel7pz3bc99t0i7ur9d76w",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22291,
+      "nome": "Mouse Com Fio Endgame Gear XM2 8K V2, Branco",
+      "preco": "365,49",
+      "preco_parcelado": "406,10",
+      "link": "https://benchpromos.com.br/promocao/mouse-com-fio-endgame-gear-xm2-8k-v2-branco/cmpoelicw3bcf9t0i2c3et7gr",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22290,
+      "nome": "Mouse Sem Fio Machenike L8 Pro, Branco",
+      "preco": "212,49",
+      "preco_parcelado": "241,47",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-machenike-l8-pro-branco/cmpoeifsf3bc59t0ihvtwb945",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22289,
+      "nome": "Mouse Sem Fio Machenike L8 Pro, Preto",
+      "preco": "212,49",
+      "preco_parcelado": "241,47",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-machenike-l8-pro-preto/cmpoehvwl3bbx9t0it3usyzce",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22288,
+      "nome": "PREÇÃO!",
+      "preco": "475,14",
+      "preco_parcelado": "527,94",
+      "link": "https://benchpromos.com.br/promocao/headset-sem-fio-jbl-quantum-650-preto/cmpoeemo63bbq9t0ivasdekc1",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22287,
+      "nome": "Volante Logitech PRO WHEEL para Xbox Series XS, Xbox One e PC",
+      "preco": "6.979,90",
+      "preco_parcelado": "7.811,00",
+      "link": "https://benchpromos.com.br/promocao/volante-logitech-pro-wheel-para-xbox-series-xs-xbox-one-e-pc/cmpoeayli3bbo9t0i7px1w2kg",
+      "cupom": "MEGA500",
+      "imagem": null
+    },
+    {
+      "id": 22286,
+      "nome": "Mouse Sem Fio Razer DeathAdder V3 Hyperspeed, Preto",
+      "preco": "569,42",
+      "preco_parcelado": "632,68",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-razer-deathadder-v3-hyperspeed-preto/cmpoe92qt3bbk9t0iw050kjym",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22285,
+      "nome": "Mouse Sem Fio Razer Viper V3 Pro SE",
+      "preco": "574,52",
+      "preco_parcelado": "638,35",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-razer-viper-v3-pro-se/cmpoe4yre3bbg9t0ijgx95cmb",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22284,
+      "nome": "Mouse Sem Fio Force One Hoku Pro - Branco",
+      "preco": "212,49",
+      "preco_parcelado": "241,47",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-force-one-hoku-pro--branco/cmpoe2lrp3bbc9t0iqluvercl",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22283,
+      "nome": "Microfone Condensador Fifine AmpliGame AM6",
+      "preco": "169,99",
+      "preco_parcelado": "199,99",
+      "link": "https://benchpromos.com.br/promocao/microfone-condensador-fifine-ampligame-am6/cmpoe1oeg3bb89t0ilr1fg25e",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22282,
+      "nome": "PREÇÃO!",
+      "preco": "99,99",
+      "preco_parcelado": "117,64",
+      "link": "https://benchpromos.com.br/promocao/microfone-gamer-fifine-ampligame-a8-plus-rgb-usb-black/cmpodynja3bb69t0ifq88dx84",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22281,
+      "nome": "Mouse Sem Fio Redragon Ebony Standard",
+      "preco": "135,92",
+      "preco_parcelado": "151,02",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-redragon-ebony-standard/cmpodxuq73bb29t0igr549ado",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22280,
+      "nome": "Headset Sem Fio JBL Quantum 950",
+      "preco": "1.257,99",
+      "preco_parcelado": "1.397,77",
+      "link": "https://benchpromos.com.br/promocao/headset-sem-fio-jbl-quantum-950/cmpodupsu3bau9t0i6yvnwfpb",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22279,
+      "nome": "Mouse Sem Fio Lamzu Maya X, Charcoal Black",
+      "preco": "637,49",
+      "preco_parcelado": "708,32",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-lamzu-maya-x-charcoal-black/cmpodsjr33bao9t0iawr1ld1i",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22278,
+      "nome": "Mouse Gamer Sem Fio Logitech G Pro X Superlight 2 - Preto",
+      "preco": "594,99",
+      "preco_parcelado": "626,31",
+      "link": "https://benchpromos.com.br/promocao/mouse-gamer-sem-fio-logitech-g-pro-x-superlight-2--preto/cmpodpaef3ba89t0ioidpkps8",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22277,
+      "nome": "Mouse Gamer Sem Fio Logitech G Pro X Superlight 2 - Ciano",
+      "preco": "594,99",
+      "preco_parcelado": "626,31",
+      "link": "https://benchpromos.com.br/promocao/mouse-gamer-sem-fio-logitech-g-pro-x-superlight-2--ciano/cmpodpjor3bac9t0i69wwkf5t",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22276,
+      "nome": "Mouse Gamer Sem Fio Logitech G Pro X Superlight 2 - Branco",
+      "preco": "577,99",
+      "preco_parcelado": "679,99",
+      "link": "https://benchpromos.com.br/promocao/mouse-gamer-sem-fio-logitech-g-pro-x-superlight-2--branco/cmpodq3c53bae9t0iue6cv9zw",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22275,
+      "nome": "Mouse Gamer Sem Fio Logitech G Pro X Superlight 2 - Rosa",
+      "preco": "577,99",
+      "preco_parcelado": "656,81",
+      "link": "https://benchpromos.com.br/promocao/mouse-gamer-sem-fio-logitech-g-pro-x-superlight-2--rosa/cmpodqjv73bai9t0iw5msljxi",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22274,
+      "nome": "Teclado Mecânico Com Fio Machenike K500B-B87, Switch Red, Abnt2, Branco e Azul",
+      "preco": "101,99",
+      "preco_parcelado": "101,99",
+      "link": "https://benchpromos.com.br/promocao/teclado-mecanico-com-fio-machenike-k500bb87-switch-red-abnt2-branco-e-azul/cmpodmjy33ba49t0i516prbcl",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22273,
+      "nome": "Headset Gamer Sem Fio Logitech G Pro X 2 Lightspeed - Preto",
+      "preco": "934,99",
+      "preco_parcelado": "1.099,97",
+      "link": "https://benchpromos.com.br/promocao/headset-gamer-sem-fio-logitech-g-pro-x-2-lightspeed--preto/cmpodl9nh3ba09t0i4zaod35l",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22272,
+      "nome": "Mouse Sem Fio Logitech MX Master 4 - Grafite",
+      "preco": "577,92",
+      "preco_parcelado": "679,90",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-logitech-mx-master-4--grafite/cmpodk0rk3b9u9t0itywmowak",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22271,
+      "nome": "Mouse Sem Fio Logitech MX Vertical",
+      "preco": "339,92",
+      "preco_parcelado": "377,68",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-logitech-mx-vertical/cmpodj6pi3b9o9t0ilpb4ghsj",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22270,
+      "nome": "Headset Sem Fio Logitech G Astro A20 X Lightspeed, Branco",
+      "preco": "849,99",
+      "preco_parcelado": "999,99",
+      "link": "https://benchpromos.com.br/promocao/headset-sem-fio-logitech-g-astro-a20-x-lightspeed-branco/cmpodhc6m3b9a9t0i6qnk9hs7",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22269,
+      "nome": "Headset Sem Fio Logitech G Astro A20 X Lightspeed, Preto",
+      "preco": "849,99",
+      "preco_parcelado": "999,99",
+      "link": "https://benchpromos.com.br/promocao/headset-sem-fio-logitech-g-astro-a20-x-lightspeed-preto/cmpodhiyh3b9e9t0iq7f3e5g6",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22268,
+      "nome": "Mouse Sem Fio Attack Shark R1 - Preto",
+      "preco": "101,99",
+      "preco_parcelado": "113,32",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-attack-shark-r1--preto/cmpodfs723b969t0i25xdxlog",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22266,
+      "nome": "PREÇÃO!",
+      "preco": "1.359,99",
+      "preco_parcelado": "1.599,99",
+      "link": "https://benchpromos.com.br/promocao/headset-gamer-sem-fio-logitech-g-astro-a50--base-station-gen-5-com-tecnologia-playsync-audio-bluetooth--preto/cmpoda6z03b8y9t0iv3d80eo4",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22265,
+      "nome": "Notebook Positivo Vision R15M AMD Ryzen 5-5625U 8GB RAM 256GB SSD Linux",
+      "preco": "2.330,15",
+      "preco_parcelado": "2.759,00",
+      "link": "https://benchpromos.com.br/promocao/notebook-positivo-vision-r15m-amd-ryzen-55625u-8gb-ram-256gb-ssd-linux/cmpod89e73b8u9t0iovix4urw",
+      "cupom": "TORCEDOR",
+      "imagem": null
+    },
+    {
+      "id": 22263,
+      "nome": "Mouse Sem Fio Logitech G PRO X Superlight - Preto",
+      "preco": "463,00",
+      "preco_parcelado": "463,00",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-logitech-g-pro-x-superlight--preto/cmpocbok63b8b9t0if8ni7epp",
+      "cupom": "Resgate os cupons do anúncio",
+      "imagem": null
+    },
+    {
+      "id": 22262,
+      "nome": "Monitor Curvo LG UltraGear 39GS95QE 39 OLED QHD 240Hz",
+      "preco": "6.374,15",
+      "preco_parcelado": "7.499,00",
+      "link": "https://benchpromos.com.br/promocao/monitor-curvo-lg-ultragear-39gs95qe-39-oled-qhd-240hz/cmpobscan3b7q9t0if3xv78ha",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22261,
+      "nome": "Monitor Dell SE2726HG 27 IPS FHD 240Hz",
+      "preco": "949,00",
+      "preco_parcelado": "949,00",
+      "link": "https://benchpromos.com.br/promocao/monitor-dell-se2726hg-27-ips-fhd-240hz/cmpobl17b3b7m9t0iqa2ld19q",
+      "cupom": "TORCEDOR + GAMER100OFF",
+      "imagem": null
+    },
+    {
+      "id": 22260,
+      "nome": "Microfone Condensador EPOS B20",
+      "preco": "245,79",
+      "preco_parcelado": "245,79",
+      "link": "https://benchpromos.com.br/promocao/microfone-condensador-epos-b20/cmpobj0lc3b7i9t0itwddch9w",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22259,
+      "nome": "PREÇÃO!",
+      "preco": "99,99",
+      "preco_parcelado": "117,64",
+      "link": "https://benchpromos.com.br/promocao/microfone-gamer-fifine-ampligame-a8-plus-rgb-usb-black/cmpobbkpd3b7e9t0i8btxa3sg",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22258,
+      "nome": "Teclado Magnético Com Fio AULA HERO 84 HE",
+      "preco": "256,64",
+      "preco_parcelado": "299,72",
+      "link": "https://benchpromos.com.br/promocao/teclado-magnetico-com-fio-aula-hero-84-he/cmpoatcgl3b729t0i9uohu85d",
+      "cupom": "NAMR3 + 3366 Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 22257,
+      "nome": "Monitor Gamer Curvo Corsair Xeneon 34 QD-OLED WQHD 240Hz CM-9030005-NA",
+      "preco": "6.274,31",
+      "preco_parcelado": "7.129,90",
+      "link": "https://benchpromos.com.br/promocao/monitor-gamer-curvo-corsair-xeneon-34-qdoled-wqhd-240hz-cm9030005na/cmpo9g00k3b4f9t0in4arzpqo",
+      "cupom": "MEGAMAIO",
+      "imagem": null
+    },
+    {
+      "id": 22255,
+      "nome": "Mouse Sem Fio Attack Shark X11, Branco",
+      "preco": "80,00",
+      "preco_parcelado": "80,00",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-attack-shark-x11-branco/cmpo967b93b499t0iif87qh4w",
+      "cupom": "CUPOMIMP50",
+      "imagem": null
+    },
+    {
+      "id": 22254,
+      "nome": "Notebook Acer Nitro V15 ANV15-41-R1P5 AMD Ryzen 7 7735HS RTX 4050 16GB RAM 1TB SSD Windows 11",
+      "preco": "5.439,62",
+      "preco_parcelado": "6.060,69",
+      "link": "https://benchpromos.com.br/promocao/notebook-acer-nitro-v15-anv1541r1p5-amd-ryzen-7-7735hs-rtx-4050-16gb-ram-1tb-ssd-windows-11/cmpo8wyt03b429t0i5ew6vojr",
+      "cupom": "OFERTASHOJE",
+      "imagem": null
+    },
+    {
+      "id": 22253,
+      "nome": "Smart TV LG OLED B5 55 4K 120Hz OLED55B5PSA",
+      "preco": "4.198,15",
+      "preco_parcelado": "4.198,15",
+      "link": "https://benchpromos.com.br/promocao/smart-tv-lg-oled-b5-55-4k-120hz-oled55b5psa/cmpo7q9dc3b3j9t0il166sa14",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22252,
+      "nome": "PREÇÃO!",
+      "preco": "1.143,99",
+      "preco_parcelado": "1.271,10",
+      "link": "https://benchpromos.com.br/promocao/caixa-de-som-portatil-harman-kardon-soundsticks-4-140w-rms/cmp43jtcg1xsg9t0i9u905d7m",
+      "cupom": "MEGAMAIO",
+      "imagem": null
+    },
+    {
+      "id": 22251,
+      "nome": "Ar Condicionado Split LG DUAL Inverter AI Voice 12000 BTUs Frio 220V",
+      "preco": "1.625,16",
+      "preco_parcelado": "1.779,52",
+      "link": "https://benchpromos.com.br/promocao/ar-condicionado-split-lg-dual-inverter-ai-voice-12000-btus-frio-220v/cmpo7ac273b389t0i7h9dpifa",
+      "cupom": "G0L45H0",
+      "imagem": null
+    },
+    {
+      "id": 22250,
+      "nome": "Apple iPhone 17e (256GB)",
+      "preco": "3.786,68",
+      "preco_parcelado": "4.129,00",
+      "link": "https://benchpromos.com.br/promocao/apple-iphone-17e-256gb/cmpo6mlsy3b2z9t0imit5qyen",
+      "cupom": "G0L45H0",
+      "imagem": null
+    },
+    {
+      "id": 22248,
+      "nome": "Volante Logitech G923 para Xbox Series XS, Xbox One e PC com Force Feedback TRUEFORCE",
+      "preco": "1.781,91",
+      "preco_parcelado": "1.949,90",
+      "link": "https://benchpromos.com.br/promocao/volante-logitech-g923-para-xbox-series-xs-xbox-one-e-pc-com-force-feedback-trueforce/cmpo6bknd3b2t9t0ib72tqjct",
+      "cupom": "G0L45H0",
+      "imagem": null
+    },
+    {
+      "id": 22247,
+      "nome": "Apple iPhone 17 (256 GB)",
+      "preco": "5.093,91",
+      "preco_parcelado": "5.549,90",
+      "link": "https://benchpromos.com.br/promocao/apple-iphone-17-256-gb/cmpo6a8vt3b2r9t0ilbpwabie",
+      "cupom": "G0L45H0",
+      "imagem": null
+    },
+    {
+      "id": 22246,
+      "nome": "Apple Macbook Neo 13 8GB RAM 256GB SSD Índigo",
+      "preco": "4.349,72",
+      "preco_parcelado": "4.741,00",
+      "link": "https://benchpromos.com.br/promocao/apple-macbook-neo-13-8gb-ram-256gb-ssd-indigo/cmpo68c6n3b2n9t0iq0k7phm6",
+      "cupom": "G0L45H0",
+      "imagem": null
+    },
+    {
+      "id": 22245,
+      "nome": "Apple MacBook Air M5 13 16GB RAM 512GB SSD Azul-céu",
+      "preco": "7.319,48",
+      "preco_parcelado": "7.969,00",
+      "link": "https://benchpromos.com.br/promocao/apple-macbook-air-m5-13-16gb-ram-512gb-ssd-azulceu/cmpo652po3b2d9t0iv6ra88ss",
+      "cupom": "G0L45H0",
+      "imagem": null
+    },
+    {
+      "id": 22244,
+      "nome": "Monitor Pichau Quantum 27 Mini LED QHD 360Hz",
+      "preco": "2.347,04",
+      "preco_parcelado": "2.564,17",
+      "link": "https://benchpromos.com.br/promocao/monitor-pichau-quantum-27-mini-led-qhd-360hz/cmpo61pd93b279t0i4fvdcd1f",
+      "cupom": "G0L45H0",
+      "imagem": null
+    },
+    {
+      "id": 22243,
+      "nome": "Monitor Pichau Quantum 27 Mini LED QHD 180Hz",
+      "preco": "1.526,51",
+      "preco_parcelado": "1.672,29",
+      "link": "https://benchpromos.com.br/promocao/monitor-pichau-quantum-27-mini-led-qhd-180hz/cmpo60ocl3b239t0ilhjyrv1a",
+      "cupom": "G0L45H0",
+      "imagem": null
+    },
+    {
+      "id": 22242,
+      "nome": "LANÇAMENTO!",
+      "preco": "53.999,10",
+      "preco_parcelado": "59.999,00",
+      "link": "https://benchpromos.com.br/promocao/notebooki-asus-rog-zephyrus-duo-gx651axsr077w/cmpo5q5pt3b1i9t0i1z3xv8qd",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22239,
+      "nome": "Pessoal, criamos um grupo novo focado em ofertas gerais!",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://t.me/BenchPromosGerais",
+      "cupom": "https://t.me/BenchPromosGerais",
+      "imagem": null
+    },
+    {
+      "id": 22238,
+      "nome": "Notebook ASUS TUF Gaming F16 FX608JMR-RV261 Intel Core i5 14450HX RTX 5060 8GB RAM 512GB SSD Linux",
+      "preco": "7.309,15",
+      "preco_parcelado": "7.309,15",
+      "link": "https://benchpromos.com.br/promocao/notebook-asus-tuf-gaming-f16-fx608jmrrv261-intel-core-i5-14450hx-rtx-5060-8gb-ram-512gb-ssd-linux/cmplw8ula343j9t0iiyr92wfr",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 22237,
+      "nome": "Óculos de Realidade Virtual para PS5 Oled Sony PlayStation VR2",
+      "preco": "1.799,00",
+      "preco_parcelado": "1.799,00",
+      "link": "https://benchpromos.com.br/promocao/oculos-de-realidade-virtual-para-ps5-oled-sony-playstation-vr2/cmpo2saj73b0q9t0is0juu99v",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22236,
+      "nome": "Notebook Acer Nitro V15 ANV15-41-R1P5 AMD Ryzen 7 7735HS RTX 4050 16GB RAM 1TB SSD Windows 11",
+      "preco": "5.589,62",
+      "preco_parcelado": "6.210,69",
+      "link": "https://benchpromos.com.br/promocao/notebook-acer-nitro-v15-anv1541r1p5-amd-ryzen-7-7735hs-rtx-4050-16gb-ram-1tb-ssd-windows-11/cmpo2rb4k3b0m9t0icbfqdd2v",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22235,
+      "nome": "Headset Gamer Sem Fio Corsair HS80 RGB, Dolby Atmos, Drivers 50mm, Wireless, Branco",
+      "preco": "577,99",
+      "preco_parcelado": "679,99",
+      "link": "https://benchpromos.com.br/promocao/headset-gamer-sem-fio-corsair-hs80-rgb-dolby-atmos-drivers-50mm-wireless-branco/cmpo2p3tb3b0i9t0idnbnpub2",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22234,
+      "nome": "Headset Sem Fio Corsair HS80, Preto",
+      "preco": "577,99",
+      "preco_parcelado": "679,99",
+      "link": "https://benchpromos.com.br/promocao/headset-sem-fio-corsair-hs80-preto/cmpo2obu03b0e9t0i3d6sfh2t",
+      "cupom": "QUINZOU",
+      "imagem": null
+    },
+    {
+      "id": 22233,
+      "nome": "Monitor Philips Evnia 24M2N3200L 24 IPS FHD 180Hz",
+      "preco": "583,91",
+      "preco_parcelado": "639,90",
+      "link": "https://benchpromos.com.br/promocao/monitor-philips-evnia-24m2n3200l-24-ips-fhd-180hz/cmpo2k37l3b049t0iqb4vvurt",
+      "cupom": "MELHORESOFERTAS",
+      "imagem": null
+    },
+    {
+      "id": 22232,
+      "nome": "Controle Sem Fio Sony Dualsense PS5 - Branco",
+      "preco": "278,10",
+      "preco_parcelado": "339,15",
+      "link": "https://benchpromos.com.br/promocao/controle-sem-fio-sony-dualsense-ps5--branco/cmpo2e3se3azw9t0ifpls1mgh",
+      "cupom": "MELHORESOFERTAS",
+      "imagem": null
+    },
+    {
+      "id": 22231,
+      "nome": "Monitor Gamer LG UltraGear 24 180Hz",
+      "preco": "638,10",
+      "preco_parcelado": "638,10",
+      "link": "https://benchpromos.com.br/promocao/monitor-gamer-lg-ultragear-24-180hz/cmpo2bq543azq9t0ihg6ycvz7",
+      "cupom": "GAMER10",
+      "imagem": null
+    },
+    {
+      "id": 22230,
+      "nome": "Notebook ASUS TUF Gaming F16 FX608JHR RTX 5050 Intel Core i5 14450HX 8GB RAM 512GB SSD Linux",
+      "preco": "6.862,90",
+      "preco_parcelado": "6.862,90",
+      "link": "https://benchpromos.com.br/promocao/notebook-asus-tuf-gaming-f16-fx608jhr-rtx-5050-intel-core-i5-14450hx-8gb-ram-512gb-ssd-linux/cmplvtub4343d9t0ieyn5ww50",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 22229,
+      "nome": "Monitor Samsung Odyssey G5 27 OLED QHD 180Hz",
+      "preco": "2.615,44",
+      "preco_parcelado": "2.753,10",
+      "link": "https://benchpromos.com.br/promocao/monitor-samsung-odyssey-g5-27-oled-qhd-180hz/cmpnfywsa37q09t0icvmw23o6",
+      "cupom": "LIVESHOP",
+      "imagem": null
+    },
+    {
+      "id": 22228,
+      "nome": "Controle Sem Fio Flydigi Direwolf 4",
+      "preco": "188,47",
+      "preco_parcelado": "208,31",
+      "link": "https://benchpromos.com.br/promocao/controle-sem-fio-flydigi-direwolf-4/cmpnatwt237p59t0i71xhytgb",
+      "cupom": "NAMR1 + 337 Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 22227,
+      "nome": "Teclado Mecânico Sem Fio LEOBOG Hi75C",
+      "preco": "376,50",
+      "preco_parcelado": "422,06",
+      "link": "https://benchpromos.com.br/promocao/teclado-mecanico-sem-fio-leobog-hi75c/cmpnaccbk37oi9t0io1klfvp5",
+      "cupom": "NAMR3 + Siga a loja e resgate o cupom + 835 Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 22226,
+      "nome": "Smartphone Samsung Galaxy S25 Ultra 5G 256GB",
+      "preco": "4.787,00",
+      "preco_parcelado": "5.366,70",
+      "link": "https://benchpromos.com.br/promocao/smartphone-samsung-galaxy-s25-ultra-5g-256gb/cmpn9pjm337nx9t0ibz5kfsz4",
+      "cupom": "400DOINFLU",
+      "imagem": null
+    },
+    {
+      "id": 22225,
+      "nome": "Smartphone Samsung Galaxy S25 FE 8/128GB",
+      "preco": "2.274,00",
+      "preco_parcelado": "2.526,67",
+      "link": "https://benchpromos.com.br/promocao/smartphone-samsung-galaxy-s25-fe-8128gb/cmpn9gplh37nm9t0igvey0kqw",
+      "cupom": "INFLUCOM250",
+      "imagem": null
+    },
+    {
+      "id": 22224,
+      "nome": "Mouse Gamer Sem Fio Logitech G Pro X Superlight 2 Dex - Preto",
+      "preco": "521,05",
+      "preco_parcelado": "521,05",
+      "link": "https://benchpromos.com.br/promocao/mouse-gamer-sem-fio-logitech-g-pro-x-superlight-2-dex--preto/cmpn8po9e37nd9t0i8z29rq35",
+      "cupom": "Resgate o cupom de 10% OFF no Anúncio",
+      "imagem": null
+    },
+    {
+      "id": 22223,
+      "nome": "Notebook Positivo Vision R15M AMD Ryzen 5-5625U 8GB RAM 256GB SSD Linux",
+      "preco": "2.330,15",
+      "preco_parcelado": "2.759,00",
+      "link": "https://benchpromos.com.br/promocao/notebook-positivo-vision-r15m-amd-ryzen-55625u-8gb-ram-256gb-ssd-linux/cmpn85rpc37mz9t0iki6e363f",
+      "cupom": "PAISDOFUT",
+      "imagem": null
+    },
+    {
+      "id": 22222,
+      "nome": "Monitor Dell SE2726HG 27 IPS FHD 240Hz",
+      "preco": "949,00",
+      "preco_parcelado": "949,00",
+      "link": "https://benchpromos.com.br/promocao/monitor-dell-se2726hg-27-ips-fhd-240hz/cmpn7fnll37mj9t0iqgiwn2ux",
+      "cupom": "PAISDOFUT + GAMER100OFF",
+      "imagem": null
+    },
+    {
+      "id": 22221,
+      "nome": "Notebook ASUS TUF Gaming F16 FX608JHR RTX 5050 Intel Core i5 14450HX 8GB RAM 512GB SSD Linux",
+      "preco": "6.862,90",
+      "preco_parcelado": "6.862,90",
+      "link": "https://benchpromos.com.br/promocao/notebook-asus-tuf-gaming-f16-fx608jhr-rtx-5050-intel-core-i5-14450hx-8gb-ram-512gb-ssd-linux/cmplvtub4343d9t0ieyn5ww50",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 22219,
+      "nome": "Powerbank Movespeed M25 Pro 140W 25000mAh",
+      "preco": "217,39",
+      "preco_parcelado": "241,24",
+      "link": "https://benchpromos.com.br/promocao/powerbank-movespeed-m25-pro-140w-250000mah/cmpn1uhgz37iw9t0iyhvlx5pq",
+      "cupom": "NAMR2 + M25281 + 952 Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 22217,
+      "nome": "Microfone Cardióide HyperX QuadCast 2 S",
+      "preco": "755,99",
+      "preco_parcelado": "755,99",
+      "link": "https://benchpromos.com.br/promocao/microfone-cardioide-hyperx-quadcast-2-s/cmpmzuzv637ia9t0i0c0hc0eo",
+      "cupom": "HYPERX10",
+      "imagem": null
+    },
+    {
+      "id": 22216,
+      "nome": "Headset Sem Fio Havit H2015YG, Branco e Roxo",
+      "preco": "206,01",
+      "preco_parcelado": "206,01",
+      "link": "https://benchpromos.com.br/promocao/headset-sem-fio-havit-h2015yg-branco-e-roxo/cmpmzorso37i29t0i5ag8d20g",
+      "cupom": "GERU10GAMING",
+      "imagem": null
+    },
+    {
+      "id": 22215,
+      "nome": "Teclado Mecânico Sem Fio MCHOSE GX87 Ultra, Branco",
+      "preco": "459,99",
+      "preco_parcelado": "541,16",
+      "link": "https://benchpromos.com.br/promocao/teclado-mecanico-sem-fio-mchose-gx87-ultra-branco/cmpmzejnh37ht9t0iko14vumu",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22214,
+      "nome": "Teclado Mecânico Sem Fio MCHOSE GX87S",
+      "preco": "409,99",
+      "preco_parcelado": "482,34",
+      "link": "https://benchpromos.com.br/promocao/teclado-mecanico-sem-fio-mchose-g87s/cmpmz966w37hp9t0isjfrl4fw",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22213,
+      "nome": "Mouse Sem Fio MCHOSE A7 V2 Pro, Branco",
+      "preco": "229,99",
+      "preco_parcelado": "270,58",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-mchose-a7-v2-pro-branco/cmpmz3cuf37hj9t0ik3n0c12b",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22212,
+      "nome": "Mouse Sem Fio MCHOSE L7 Pro, Branco",
+      "preco": "249,99",
+      "preco_parcelado": "294,11",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-mchose-l7-pro-branco/cmpmz0zq037hf9t0ieu47vn7p",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22211,
+      "nome": "Placa de Vídeo Asus AMD Radeon RX 9060 XT Prime OC, 16GB",
+      "preco": "2.499,98",
+      "preco_parcelado": "2.941,16",
+      "link": "https://benchpromos.com.br/promocao/placa-de-video-asus-prime-rx-9060-xt-oc-8gb/cmpmz0gzi37hd9t0iispiuafg",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22210,
+      "nome": "Mouse Sem Fio MCHOSE L7 Pro, Preto",
+      "preco": "249,99",
+      "preco_parcelado": "294,11",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-mchose-l7-pro-preto/cmpmz0bsj37h99t0iauscura1",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22209,
+      "nome": "Teclado Mecânico Sem Fio MCHOSE G87, Peach Gradient",
+      "preco": "264,99",
+      "preco_parcelado": "311,75",
+      "link": "https://benchpromos.com.br/promocao/teclado-mecanico-sem-fio-mchose-g87-peach-gradient/cmpmyysv237h59t0iulwhjnng",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22208,
+      "nome": "Monitor Gamer LG UltraGear 24 180Hz",
+      "preco": "647,10",
+      "preco_parcelado": "647,10",
+      "link": "https://benchpromos.com.br/promocao/monitor-gamer-lg-ultragear-24-180hz/cmpmyxin237h19t0i6bpqkk25",
+      "cupom": "GAMER10",
+      "imagem": null
+    },
+    {
+      "id": 22207,
+      "nome": "Smartwatch Samsung Galaxy Watch8 40mm Branco 32GB Bluetooth",
+      "preco": "1.259,00",
+      "preco_parcelado": "1.259,00",
+      "link": "https://benchpromos.com.br/promocao/smartwatch-samsung-galaxy-watch8-40mm-branco-32gb-bluetooth/cmpmycvkj37gv9t0i9byq3sbj",
+      "cupom": "100INFLU",
+      "imagem": null
+    },
+    {
+      "id": 22205,
+      "nome": "Notebook Asus Vivobook S 14 S5406SA-QD299W Intel Core Ultra 7 256V 16GB RAM 512GB SSD Windows 11",
+      "preco": "6.450,65",
+      "preco_parcelado": "6.450,65",
+      "link": "https://benchpromos.com.br/promocao/notebook-asus-vivobook-s-14-s5406saqd299w-intel-core-ultra-7-256v-16gb-ram-512gb-ssd-windows-11/cmpmwlcmx37ge9t0ifynepsjo",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 22204,
+      "nome": "Teclado Mecânico Com Fio Machenike K500B-B87, Switch Red, Abnt2, Branco e Azul",
+      "preco": "105,59",
+      "preco_parcelado": "105,59",
+      "link": "https://benchpromos.com.br/promocao/teclado-mecanico-com-fio-machenike-k500bb87-switch-red-abnt2-branco-e-azul/cmpmtwt5i37fk9t0i5cxutz01",
+      "cupom": "MEGAMAIO",
+      "imagem": null
+    },
+    {
+      "id": 22203,
+      "nome": "Controle Sem Fio GameSir G7 Pro",
+      "preco": "315,30",
+      "preco_parcelado": "347,93",
+      "link": "https://benchpromos.com.br/promocao/controle-sem-fio-gamesir-g7-pro/cmpmsucp137fc9t0i2zol4d48",
+      "cupom": "NAMR3 + 134 Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 22202,
+      "nome": "Monitor Asus ROG Strix XG27ACDMS 27 OLED QHD 280Hz",
+      "preco": "3.812,99",
+      "preco_parcelado": "4.236,65",
+      "link": "https://benchpromos.com.br/promocao/monitor-asus-rog-strix-xg27acdms-27-oled-qhd-280hz/cmpmslb8s37f29t0izhgo3of7",
+      "cupom": "DISCORDAPP",
+      "imagem": null
+    },
+    {
+      "id": 22201,
+      "nome": "Console Sony Playstation 5 Slim Edição Digital, PS5, 825GB",
+      "preco": "3.459,00",
+      "preco_parcelado": "3.459,00",
+      "link": "https://benchpromos.com.br/promocao/console-sony-playstation-5-slim-edicao-digital-ps5-825gb/cmpmrj3gu37et9t0iag2ywynn",
+      "cupom": "NAMR58",
+      "imagem": null
+    },
+    {
+      "id": 22200,
+      "nome": "Notebook Positivo Vision R15M AMD Ryzen 5-5625U 8GB RAM 256GB SSD Linux",
+      "preco": "2.430,15",
+      "preco_parcelado": "2.859,00",
+      "link": "https://benchpromos.com.br/promocao/notebook-positivo-vision-r15m-amd-ryzen-55625u-8gb-ram-256gb-ssd-linux/cmpmqxtpq37ef9t0i7fm7htd2",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22199,
+      "nome": "Smart TV TCL 50P7K 50 QLED 4K 60Hz",
+      "preco": "1.779,10",
+      "preco_parcelado": "2.001,00",
+      "link": "https://benchpromos.com.br/promocao/smart-tv-tcl-50p7k-50-qled-4k-60hz/cmpmpruqc37e09t0iqaa9nthd",
+      "cupom": "200INFLU",
+      "imagem": null
+    },
+    {
+      "id": 22198,
+      "nome": "Notebook Predator Helios Neo 16 AI PHN16-73-76H8 Intel Core Ultra 7 255HX RTX 5070 32GB RAM 512GB SSD Windows 11",
+      "preco": "10.229,07",
+      "preco_parcelado": "11.623,94",
+      "link": "https://benchpromos.com.br/promocao/notebook-predator-helios-neo-16-ai-phn167376h8-intel-core-ultra-7-255hx-rtx-5070-32gb-ram-512gb-ssd-windows-11/cmpllag8s33z69t0i9yby3gk4",
+      "cupom": "GEEKWEEK7OFF",
+      "imagem": null
+    },
+    {
+      "id": 22197,
+      "nome": "Notebook ASUS TUF Gaming F16 FX608JMR-RV261 Intel Core i5 14450HX RTX 5060 8GB RAM 512GB SSD Linux",
+      "preco": "7.309,15",
+      "preco_parcelado": "7.309,15",
+      "link": "https://benchpromos.com.br/promocao/notebook-asus-tuf-gaming-f16-fx608jmrrv261-intel-core-i5-14450hx-rtx-5060-8gb-ram-512gb-ssd-linux/cmplw8ula343j9t0iiyr92wfr",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 22196,
+      "nome": "Notebook ASUS TUF Gaming F16 FX608JHR RTX 5050 Intel Core i5 14450HX 8GB RAM 512GB SSD Linux",
+      "preco": "6.862,90",
+      "preco_parcelado": "6.862,90",
+      "link": "https://benchpromos.com.br/promocao/notebook-asus-tuf-gaming-f16-fx608jhr-rtx-5050-intel-core-i5-14450hx-8gb-ram-512gb-ssd-linux/cmplvtub4343d9t0ieyn5ww50",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 22195,
+      "nome": "Monitor Gamer TCL 27G64 27 QD-Mini LED QHD 180Hz",
+      "preco": "1.869,10",
+      "preco_parcelado": "2.099,00",
+      "link": "https://benchpromos.com.br/promocao/monitor-gamer-tcl-27g64-27-qdmini-led-qhd-180hz/cmpmpf6r437dq9t0iwrnudnma",
+      "cupom": "TECNO200",
+      "imagem": null
+    },
+    {
+      "id": 22194,
+      "nome": "Kit 2 Camisetas Dry Wolf Alpha",
+      "preco": "50,00",
+      "preco_parcelado": "50,00",
+      "link": "https://benchpromos.com.br/promocao/kit-2-camisetas-dry-wolf-alpha/cmpm1omxk34509t0iowshg046",
+      "cupom": "MODAMELI",
+      "imagem": null
+    },
+    {
+      "id": 22193,
+      "nome": "Notebook Acer Aspire 16 A16-71MT-75Z5 Touch Intel Core Ultra 7 155U 16GB RAM 512GB SSD Windows 11",
+      "preco": "200",
+      "preco_parcelado": "4.549,05",
+      "link": "https://benchpromos.com.br/promocao/notebook-acer-aspire-16-a1671mt75z5-touch-intel-core-ultra-7-155u-16gb-ram-512gb-ssd-windows-11/cmplx4v3c344l9t0i4gwt5cf7",
+      "cupom": "Resgate o cupom de R$ 200 OFF no Anúncio",
+      "imagem": null
+    },
+    {
+      "id": 22192,
+      "nome": "Notebook Acer Nitro V15 ANV15-41-R1P5 AMD Ryzen 7 7735HS RTX 4050 16GB RAM 1TB SSD Windows 11",
+      "preco": "5.669,10",
+      "preco_parcelado": "6.299,00",
+      "link": "https://benchpromos.com.br/promocao/notebook-acer-nitro-v15-anv1541r1p5-amd-ryzen-7-7735hs-rtx-4050-16gb-ram-1tb-ssd-windows-11/cmplks7tg33ys9t0i9cpf2dsy",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22191,
+      "nome": "Smart TV Samsung Vision AI S85F 55 OLED 4K 120Hz",
+      "preco": "4.398,72",
+      "preco_parcelado": "4.544,05",
+      "link": "https://benchpromos.com.br/promocao/smart-tv-samsung-vision-ai-s85f-55-oled-4k-120hz/cmplws1n034449t0i2y7l15f3",
+      "cupom": "TVCASASBAHIA",
+      "imagem": null
+    },
+    {
+      "id": 22190,
+      "nome": "Monitor SuperFrame Wing 27 Mini LED QHD 180Hz",
+      "preco": "100",
+      "preco_parcelado": "1.499,99",
+      "link": "https://benchpromos.com.br/promocao/monitor-superframe-wing-27-mini-led-qhd-180hz/cmplwl1an343p9t0i1c0xlfot",
+      "cupom": "Resgate o cupom de R$ 100 OFF no Anúncio",
+      "imagem": null
+    },
+    {
+      "id": 22189,
+      "nome": "Notebook ASUS TUF Gaming F16 FX608JMR-RV261 Intel Core i5 14450HX RTX 5060 8GB RAM 512GB SSD Linux",
+      "preco": "7.309,15",
+      "preco_parcelado": "7.309,15",
+      "link": "https://benchpromos.com.br/promocao/notebook-asus-tuf-gaming-f16-fx608jmrrv261-intel-core-i5-14450hx-rtx-5060-8gb-ram-512gb-ssd-linux/cmplw8ula343j9t0iiyr92wfr",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 22188,
+      "nome": "Notebook ASUS TUF Gaming F16 FX608JHR RTX 5050 Intel Core i5 14450HX 8GB RAM 512GB SSD Linux",
+      "preco": "6.862,90",
+      "preco_parcelado": "6.862,90",
+      "link": "https://benchpromos.com.br/promocao/notebook-asus-tuf-gaming-f16-fx608jhr-rtx-5050-intel-core-i5-14450hx-8gb-ram-512gb-ssd-linux/cmplvtub4343d9t0ieyn5ww50",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 22187,
+      "nome": "Teclado Magnético Com Fio AULA HERO 84 HE",
+      "preco": "264,85",
+      "preco_parcelado": "307,71",
+      "link": "https://benchpromos.com.br/promocao/teclado-magnetico-com-fio-aula-hero-84-he/cmplsqoe0342b9t0izirqvfku",
+      "cupom": "NAMR3",
+      "imagem": null
+    },
+    {
+      "id": 22186,
+      "nome": "Ar Condicionado Split Inverter 12.000 Btus LG Dual Compact +IA Frio S3-Q12JAQAL - 220 Volts",
+      "preco": "1.694,10",
+      "preco_parcelado": "1.899,00",
+      "link": "https://benchpromos.com.br/promocao/ar-condicionado-split-inverter-12000-btus-lg-dual-compact-ia-frio-s3q12jaqal--220-volts/cmplrjtzp34239t0igmw7i6ff",
+      "cupom": "JOGADORES",
+      "imagem": null
+    },
+    {
+      "id": 22185,
+      "nome": "Headset Sem Fio JBL Quantum 950",
+      "preco": "1.349,00",
+      "preco_parcelado": "1.349,00",
+      "link": "https://benchpromos.com.br/promocao/headset-sem-fio-jbl-quantum-950/cmplrbbf9341z9t0igdimp1e1",
+      "cupom": "JOGADORES",
+      "imagem": null
+    },
+    {
+      "id": 22184,
+      "nome": "Volante Logitech G29 Driving Force e Pedais com Force Feedback para PS5, PS4, PS3 e PC",
+      "preco": "1.556,09",
+      "preco_parcelado": "1.579,00",
+      "link": "https://benchpromos.com.br/promocao/volante-logitech-g29-driving-force-e-pedais-com-force-feedback-para-ps5-ps4-ps3-e-pc/cmplr8pk8341s9t0iaozblgsl",
+      "cupom": "JOGADORES",
+      "imagem": null
+    },
+    {
+      "id": 22183,
+      "nome": "Monitor Curvo Alienware AW3425DW 34 OLED QHD 240Hz",
+      "preco": "6.619,00",
+      "preco_parcelado": "6.619,00",
+      "link": "https://benchpromos.com.br/promocao/monitor-curvo-alienware-aw3425dw-34-oled-qhd-240hz/cmplr6bfm341k9t0i8dwug7pr",
+      "cupom": "JOGADORES",
+      "imagem": null
+    },
+    {
+      "id": 22182,
+      "nome": "Smartphone Samsung Galaxy S26 Ultra 5G 256GB, Azul",
+      "preco": "2100",
+      "preco_parcelado": "5.899,00",
+      "link": "https://benchpromos.com.br/promocao/smartphone-samsung-galaxy-s26-ultra-5g-256gb-azul/cmplqsw8e341c9t0ikgjkk99u",
+      "cupom": "Resgate o cupom de R$ 2100 OFF no Anúncio",
+      "imagem": null
+    },
+    {
+      "id": 22181,
+      "nome": "Smartphone Samsung Galaxy S26 Ultra 5G 256GB, Preto",
+      "preco": "2100",
+      "preco_parcelado": "5.899,00",
+      "link": "https://benchpromos.com.br/promocao/smartphone-samsung-galaxy-s26-ultra-5g-256gb-preto/cmplqty22341e9t0iu0ja7cxt",
+      "cupom": "Resgate o cupom de R$ 2100 OFF no Anúncio",
+      "imagem": null
+    },
+    {
+      "id": 22180,
+      "nome": "Smartphone Samsung Galaxy S26 Ultra 5G 256GB, Violeta",
+      "preco": "2100",
+      "preco_parcelado": "5.899,00",
+      "link": "https://benchpromos.com.br/promocao/smartphone-samsung-galaxy-s26-ultra-5g-256gb-violeta/cmplqukrf341g9t0i9hr2cfjb",
+      "cupom": "Resgate o cupom de R$ 2100 OFF no Anúncio",
+      "imagem": null
+    },
+    {
+      "id": 22179,
+      "nome": "Monitor Gamer Alienware AW2725DM 27 IPS QHD 180Hz",
+      "preco": "200",
+      "preco_parcelado": "1.863,67",
+      "link": "https://benchpromos.com.br/promocao/monitor-gamer-alienware-aw2725dm-27-ips-qhd-180hz/cmplpyje234189t0ip3pidggk",
+      "cupom": "Resgate o cupom de R$ 200 OFF no Anúncio",
+      "imagem": null
+    },
+    {
+      "id": 22178,
+      "nome": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3 - Branco",
+      "preco": "2.579,40",
+      "preco_parcelado": "2.579,40",
+      "link": "https://benchpromos.com.br/promocao/celular-samsung-galaxy-s26-5g-256gb-12gb-ram-camera-tripla-de-501210-tela-grande-de-63--branco/cmplpj7mf34149t0iyuisf9aq",
+      "cupom": "Resgate o Cupom de 40% no anúncio",
+      "imagem": null
+    },
+    {
+      "id": 22176,
+      "nome": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3 - Prata",
+      "preco": "2.579,40",
+      "preco_parcelado": "2.579,40",
+      "link": "https://benchpromos.com.br/promocao/celular-samsung-galaxy-s26-5g-256gb-12gb-ram-camera-tripla-de-501210-tela-grande-de-63--prata/cmplpfws434129t0iqix1kwwy",
+      "cupom": "Resgate o Cupom de 40% no anúncio",
+      "imagem": null
+    },
+    {
+      "id": 22175,
+      "nome": "Mouse Sem Fio Attack Shark R1 - Preto",
+      "preco": "105,59",
+      "preco_parcelado": "117,32",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-attack-shark-r1--preto/cmplp7luf340w9t0ij2ieqaqh",
+      "cupom": "MEGAMAIO",
+      "imagem": null
+    },
+    {
+      "id": 22173,
+      "nome": "Smart TV LG OLED B5 55 4K 120Hz OLED55B5PSA",
+      "preco": "4.589,10",
+      "preco_parcelado": "4.589,10",
+      "link": "https://benchpromos.com.br/promocao/smart-tv-lg-oled-b5-55-4k-120hz-oled55b5psa/cmplovrd1340k9t0in1zbvs02",
+      "cupom": "OPORTUNIDADE",
+      "imagem": null
+    },
+    {
+      "id": 22172,
+      "nome": "Headset Gamer Sem Fio Logitech G Astro A50 + Base Station Gen 5 Com Tecnologia PLAYSYNC AUDIO, Bluetooth - Preto",
+      "preco": "1.487,99",
+      "preco_parcelado": "1.750,58",
+      "link": "https://benchpromos.com.br/promocao/headset-gamer-sem-fio-logitech-g-astro-a50--base-station-gen-5-com-tecnologia-playsync-audio-bluetooth--preto/cmplokp8z34079t0i0rt1sgz5",
+      "cupom": "DISCORDAPP (Só no APP)",
+      "imagem": null
+    },
+    {
+      "id": 22171,
+      "nome": "Monitor Gamer Alienware 34 240Hz QD-OLED WQHD Curvo Ultrawide",
+      "preco": "6.769,00",
+      "preco_parcelado": "6.769,00",
+      "link": "https://benchpromos.com.br/promocao/monitor-gamer-alienware-34-240hz-qdoled-wqhd-curvo-ultrawide/cmplnxslx34059t0i93pk62tr",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22170,
+      "nome": "Headset Sem Fio Logitech G Astro A20 X Lightspeed, Preto",
+      "preco": "879,99",
+      "preco_parcelado": "1.035,28",
+      "link": "https://benchpromos.com.br/promocao/headset-sem-fio-logitech-g-astro-a20-x-lightspeed-preto/cmplm7nvl33zo9t0iv0jrc3rl",
+      "cupom": "MEGAMAIO",
+      "imagem": null
+    },
+    {
+      "id": 22169,
+      "nome": "Headset Sem Fio Logitech G Astro A20 X Lightspeed, Branco",
+      "preco": "879,99",
+      "preco_parcelado": "1.035,28",
+      "link": "https://benchpromos.com.br/promocao/headset-sem-fio-logitech-g-astro-a20-x-lightspeed-branco/cmplm7y3l33zu9t0islc90e84",
+      "cupom": "MEGAMAIO",
+      "imagem": null
+    },
+    {
+      "id": 22168,
+      "nome": "PLACA AMD BC-250 (PS5)",
+      "preco": "1.155,41",
+      "preco_parcelado": "1.277,15",
+      "link": "https://benchpromos.com.br/promocao/placa-amd-bc250-ps5/cmplm66ad33zm9t0ig4jpoa37",
+      "cupom": "NAMR5 ou NAMR4 + Siga a loja e resgate o cupom exclusivo + 1914 Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 22167,
+      "nome": "Controle Sem Fio GameSir Tarantula Pro",
+      "preco": "230,58",
+      "preco_parcelado": "254,00",
+      "link": "https://benchpromos.com.br/promocao/controle-sem-fio-gamesir-tarantula-pro/cmpllz3yj33ze9t0iin29u2sq",
+      "cupom": "NAMR2",
+      "imagem": null
+    },
+    {
+      "id": 22165,
+      "nome": "Notebook Predator Helios Neo 16 AI PHN16-73-76H8 Intel Core Ultra 7 255HX RTX 5070 32GB RAM 512GB SSD Windows 11",
+      "preco": "10.229,07",
+      "preco_parcelado": "11.623,94",
+      "link": "https://benchpromos.com.br/promocao/notebook-predator-helios-neo-16-ai-phn167376h8-intel-core-ultra-7-255hx-rtx-5070-32gb-ram-512gb-ssd-windows-11/cmpllag8s33z69t0i9yby3gk4",
+      "cupom": "GEEKWEEK7OFF",
+      "imagem": null
+    },
+    {
+      "id": 22164,
+      "nome": "Notebook ASUS TUF Gaming F16 RTX 5050 Intel Core i5 14450HX 16GB RAM 512GB SSD Windows 11",
+      "preco": "7.904,15",
+      "preco_parcelado": "7.904,15",
+      "link": "https://benchpromos.com.br/promocao/notebook-asus-tuf-gaming-f16-rtx-5050-intel-core-i5-14450hx-16gb-ram-512gb-ssd-windows-11/cmplkw1m833yz9t0ia4d5agjt",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 22163,
+      "nome": "Notebook Acer Nitro V15 ANV15-41-R1P5 AMD Ryzen 7 7735HS RTX 4050 16GB RAM 1TB SSD Windows 11",
+      "preco": "5.669,10",
+      "preco_parcelado": "6.299,00",
+      "link": "https://benchpromos.com.br/promocao/notebook-acer-nitro-v15-anv1541r1p5-amd-ryzen-7-7735hs-rtx-4050-16gb-ram-1tb-ssd-windows-11/cmplks7tg33ys9t0i9cpf2dsy",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 22162,
+      "nome": "Mouse Sem Fio Ajazz AJ139 V2 MC",
+      "preco": "90,29",
+      "preco_parcelado": "100,90",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-ajazz-aj139-v2-mc/cmpljwps033yk9t0if994z1ug",
+      "cupom": "NAMR1 + 266 Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 22161,
+      "nome": "Mouse Sem Fio Aula V9 Ultra Plus",
+      "preco": "269,70",
+      "preco_parcelado": "296,68",
+      "link": "https://benchpromos.com.br/promocao/mouse-sem-fio-aula-v9-ultra-plus/cmplh2s0r33xt9t0iqf7kzef9",
+      "cupom": "NAMR2",
+      "imagem": null
+    },
+    {
+      "id": 22160,
+      "nome": "Notebook ASUS TUF Gaming F16 FX608JHR RTX 5050 Intel Core i5 14450HX 8GB RAM 512GB SSD Linux",
+      "preco": "7.139,15",
+      "preco_parcelado": "7.139,15",
+      "link": "https://benchpromos.com.br/promocao/notebook-asus-tuf-gaming-f16-fx608jhr-rtx-5050-intel-core-i5-14450hx-8gb-ram-512gb-ssd-linux/cmph0gslv2tkw9t0icn1hn0k0",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 22159,
+      "nome": "Monitor Gamer TCL 25G64 25 QD-Mini LED FHD 300Hz",
+      "preco": "1.464,05",
+      "preco_parcelado": "1.549,00",
+      "link": "https://benchpromos.com.br/promocao/monitor-gamer-tcl-25g64-25-qdmini-led-fhd-300hz/cmplgu0n933xp9t0idxvk7ozx",
+      "cupom": "TIME2026",
+      "imagem": null
+    },
+    {
+      "id": 22158,
+      "nome": "Notebook Gigabyte AORUS MASTER 16 Intel Core Ultra 9 275HX RTX 5080 32GB RAM 1TB SSD Windows 11",
+      "preco": "27.049,00",
+      "preco_parcelado": "30.104,44",
+      "link": "https://benchpromos.com.br/promocao/notebook-gigabyte-aorus-master-16-intel-core-ultra-9-275hx-rtx-5080-32gb-ram-1tb-ssd-windows-11/cmplgn3xo33xl9t0iuhi3yy32",
+      "cupom": "MEGA500",
+      "imagem": null
+    },
+    {
+      "id": 22157,
+      "nome": "Volante Logitech G29 Driving Force e Pedais com Force Feedback para PS5, PS4, PS3 e PC",
+      "preco": "1.579,00",
+      "preco_parcelado": "1.579,00",
+      "link": "https://benchpromos.com.br/promocao/volante-logitech-g29-driving-force-e-pedais-com-force-feedback-para-ps5-ps4-ps3-e-pc/cmplgkiqr33xf9t0i9qrm7vqw",
+      "cupom": "TIME2026",
+      "imagem": null
+    },
+    {
+      "id": 81587,
+      "nome": "Placa Mãe Asus Prime A520m-r Am4 Ddr4 M.2 Chipset A520 Hdmi Preto",
+      "preco": "334,05",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1MFHCcz",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 81585,
+      "nome": "Notebook Gamer Acer Nitro V15 RTX 4050 -- VERSÃO COM WINDOWS 11",
+      "preco": "4.964",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4ecfNYS",
+      "cupom": "CANARINHO",
+      "imagem": null
+    },
+    {
+      "id": 81584,
+      "nome": "Internet Antenna Via Satellite Starlink Mini + 1 mês de Starlink grátis ( resgate no link )",
+      "preco": "729,00",
+      "preco_parcelado": "100",
+      "link": "https://meli.la/2KBVrZJ",
+      "cupom": "R$729,00 no pix",
+      "imagem": null
+    },
+    {
+      "id": 81583,
+      "nome": "Placa De Vídeo Nvidia Geforce Palit Rtx5060 8gb Infinity2 Oc",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://meli.la/1jaFXVP",
+      "cupom": "RECEBIDOS",
+      "imagem": null
+    },
+    {
+      "id": 81582,
+      "nome": "Monitor Gamer Samsung Odyssey G40 27''",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://meli.la/1mWb8US",
+      "cupom": "RECEBIDOS",
+      "imagem": null
+    },
+    {
+      "id": 81581,
+      "nome": "Placa de Vídeo INNO3D RTX 5050 TWIN X2 8GB",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://meli.la/2t7Yn9i",
+      "cupom": "RECEBIDOS",
+      "imagem": null
+    },
+    {
+      "id": 81580,
+      "nome": "Monitor Gamer 34 Curvo Branco 1ms 165hz Hq",
+      "preco": "1.219",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2kFUqvi",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 81579,
+      "nome": "Monitor Gamer AOC 21.5'' Full HD Gaming 120Hz 1ms 22B30HM23",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://meli.la/21hi3uk",
+      "cupom": "INVERNOMELI15",
+      "imagem": null
+    },
+    {
+      "id": 81578,
+      "nome": "Monitor Pc Gamer LG 24 Ips, Full Hd, 100hz, Hdmi - 24ms500-b Preto",
+      "preco": "439",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1GGn9tw",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 81577,
+      "nome": "Power Bank Baseus Turbo Bipow2 Pro 20000mah 22.5w Cor Preto",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://meli.la/2UaMAdJ",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 81576,
+      "nome": "Fonte Alimentação Gamemax 80 Plus Gold GX700",
+      "preco": "330,28",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2Em1YNn",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 81575,
+      "nome": "Fonte Alimentacao Preta 650w Gamemax",
+      "preco": "246,53",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2AmH1mR",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 81574,
+      "nome": "Placa Mãe Asus Prime A520m-r Am4 Ddr4",
+      "preco": "334,05",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1MFHCcz",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 81573,
+      "nome": "Roteador HUAWEI WiFi AX2S 5 GHz Wi-Fi 6 HarmonyOS Mesh",
+      "preco": "126",
+      "preco_parcelado": null,
+      "link": "https://meli.la/33ARokg",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 81572,
+      "nome": "Notebook Asus Vivobook 15 X1504va Intel Core I5 1334u 8gb Ram 512gb Ssd",
+      "preco": "2.980",
+      "preco_parcelado": "400",
+      "link": "https://meli.la/1KhjWJP",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81571,
+      "nome": "Monitor Portátil 15,6 MTM-1506 Full HD IPS Ultra Slim USB-C/HDMI",
+      "preco": "322",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2SB7vxA",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 81570,
+      "nome": "Fone de Ouvido Galaxy Buds Core Cancelamento de Ruído",
+      "preco": "185",
+      "preco_parcelado": null,
+      "link": "https://meli.la/26vD8Nh",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 81569,
+      "nome": "Teclado Mecânico Attack Shark Sem Fio X85 Pro Display 75% Tela",
+      "preco": "268",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1ukApt9",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 81568,
+      "nome": "Water Cooler 240mm Deepcool Lt240 Preto",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://meli.la/18jqQzn",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 81567,
+      "nome": "Fone De Ouvido Soundcore by Anker P20i (AZUL)",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://meli.la/1w1yzym",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 81566,
+      "nome": "Mouse Gamer Sem Fio Fire Phoenix 24000dpi Paw3311 Preto",
+      "preco": "118",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1Rfrgbt",
+      "cupom": "SOHOJE",
+      "imagem": null
+    },
+    {
+      "id": 81563,
+      "nome": "Controle Sem Fio Gamesir T4 Nova Lite",
+      "preco": "87",
+      "preco_parcelado": null,
+      "link": "https://s.click.aliexpress.com/e/c3qyqCeD",
+      "cupom": "TAXABR1 + moedas no app",
+      "imagem": null
+    },
+    {
+      "id": 81562,
+      "nome": "Havit headset Gamer Five-Mode Fuxi-H7 Black",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4dVjvVw",
+      "cupom": "PRIME10",
+      "imagem": null
+    },
+    {
+      "id": 81561,
+      "nome": "Smart TV TCL 65 Polegadas QLED Mini LED 4K C6K WiFi Bluetooth Google TV 4 HDMI 144Hz HDR10+ 65C6K",
+      "preco": "3749",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1174tft",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81560,
+      "nome": "Bettdow Monitor Portatil 15,6'', FHD 1080P Monitor Portátil Conectado Com USB C Dupla/HDMI, IPS Extensor De Tela para Notebook com VESA e Funda Inteligente magnético, Plug and Play",
+      "preco": "374,14",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4uFDEGf",
+      "cupom": "R$ 374,14 em 8x sem juros",
+      "imagem": null
+    },
+    {
+      "id": 81559,
+      "nome": "Cadeira De Escritório, Cadeira De Com Apoio Para Os Pés E Encosto AjustávelPreto",
+      "preco": "395,00",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/430f32L",
+      "cupom": "GOLEADA",
+      "imagem": null
+    },
+    {
+      "id": 81558,
+      "nome": "Placa-Mãe ASUS TUF GAMING A520M-PLUS II, AMD AM4, mATX, DDR4, Preto - 90MB17G0-M0EAY0",
+      "preco": "464",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/43Cbi3D",
+      "cupom": "DISCORDH7",
+      "imagem": null
+    },
+    {
+      "id": 81557,
+      "nome": "Impressora Multifuncional HP Smart Tank 584 - Preta",
+      "preco": "769",
+      "preco_parcelado": null,
+      "link": "https://meli.la/31JRrW7",
+      "cupom": "R$769",
+      "imagem": null
+    },
+    {
+      "id": 81556,
+      "nome": "Notebook Positivo Vision R15M",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4ebK6Pg",
+      "cupom": "PAISDOFUT",
+      "imagem": null
+    },
+    {
+      "id": 81555,
+      "nome": "Apple iPhone 16 (128 GB) Preto",
+      "preco": "4048",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4uJ2qFs",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81554,
+      "nome": "Ar Condicionado Split 12000 Btus Lg Dual Inverter Voice +ia Frio S3nq12ja31l.eb2gam1-220v",
+      "preco": "1.644,00",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4uEIrrn",
+      "cupom": "PAISDOFUT",
+      "imagem": null
+    },
+    {
+      "id": 81553,
+      "nome": "Placa De Vídeo Inno3d Rtx 5050 Twin X2 8gb Gddr6 Geforce Nvidia 4k",
+      "preco": "1849",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2t7Yn9i",
+      "cupom": "CUPOMDEHOJE",
+      "imagem": null
+    },
+    {
+      "id": 81552,
+      "nome": "Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE, Galaxy AI, Titânio Aeroespacial, Titânio Cinza",
+      "preco": "1.799",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4ecE691",
+      "cupom": "PAISDOFUT",
+      "imagem": null
+    },
+    {
+      "id": 81551,
+      "nome": "Smart TV 50 LG 50AU801C0SA 4K HDR10 UHD",
+      "preco": "1.649,00",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4352XW0",
+      "cupom": "PAISDOFUT",
+      "imagem": null
+    },
+    {
+      "id": 81550,
+      "nome": "Celular Samsung Galaxy S25 FE 5G, 128GB, 8GB, Câmera Tripla - Azul Marinho",
+      "preco": "2173",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/3QaPEjV",
+      "cupom": "PAISDOFUT",
+      "imagem": null
+    },
+    {
+      "id": 81549,
+      "nome": "Placa de Video RTX 5060 8GB GDDR7 Gainward Ghost",
+      "preco": "2199",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4wXkWez",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81548,
+      "nome": "Controle sem fio PlayStation DualSense Midnight Black",
+      "preco": "301",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4uGD3nO",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81547,
+      "nome": "SSD M.2 Nvme Netac 500GB Gen3 3500mb/s",
+      "preco": "307",
+      "preco_parcelado": null,
+      "link": "https://s.click.aliexpress.com/e/c3eSxSVJ",
+      "cupom": "TAXABR2 + moedas no app",
+      "imagem": null
+    },
+    {
+      "id": 81546,
+      "nome": "Controle sem fio GameSir G7 Pro,Xbox Series X , PC, TMR, Gatilhos de Efeito Hall, Placas Frontais Magnéticas, Giroscópio, Base de Carregamento Inteligente",
+      "preco": "323",
+      "preco_parcelado": null,
+      "link": "https://s.click.aliexpress.com/e/c4oEON3R",
+      "cupom": "TAXABR2 + 370 Moedas",
+      "imagem": null
+    },
+    {
+      "id": 81545,
+      "nome": "Xbox Wireless Controller Electric Volt for Xbox Series XS, Xbox One, and Windows 10 Devices",
+      "preco": "295",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4uEs3XT",
+      "cupom": "https://amzn.to/4uEs3XT",
+      "imagem": null
+    },
+    {
+      "id": 81544,
+      "nome": "Celular Samsung Galaxy S25+ 5G, 512GB, 12GB RAM",
+      "preco": "4.398,99",
+      "preco_parcelado": "100",
+      "link": "https://meli.la/23bNrKH",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81543,
+      "nome": "Rog Xbox Ally Asus Ryzen Z2 512 Gb",
+      "preco": "4.135",
+      "preco_parcelado": "100",
+      "link": "https://meli.la/2vURdhG",
+      "cupom": "Aplicar R$100 OFF no anúncio",
+      "imagem": null
+    },
+    {
+      "id": 81542,
+      "nome": "Monitor LG UltraFine - Tela IPS UHD 4K 27",
+      "preco": "1.087,15",
+      "preco_parcelado": "100",
+      "link": "https://meli.la/1yZ8EKy",
+      "cupom": "Aplicar R$100 OFF no anúncio",
+      "imagem": null
+    },
+    {
+      "id": 81541,
+      "nome": "SSD Sata Netac 512GB - Case de alumínio",
+      "preco": "269",
+      "preco_parcelado": null,
+      "link": "https://s.click.aliexpress.com/e/c3xt75sD",
+      "cupom": "TAXABR2 + 911 Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 81540,
+      "nome": "Câmera Ip A8 App Icsee Infravermelho Prova D'água Externa Wifi Hd 3 Cor Branco",
+      "preco": "65",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2mn6Cu8",
+      "cupom": "R$65",
+      "imagem": null
+    },
+    {
+      "id": 81539,
+      "nome": "Controle Gamesir T7 com Fio para Xbox One, Series S X, PC, Efeito Hall Anti Drift, Com fio",
+      "preco": "156",
+      "preco_parcelado": null,
+      "link": "https://s.click.aliexpress.com/e/c3grxfS5",
+      "cupom": "TAXABR1 + 382 MOEDAS",
+      "imagem": null
+    },
+    {
+      "id": 81538,
+      "nome": "Ryzen 3 PRO 2200G - Vídeo integrado",
+      "preco": "153",
+      "preco_parcelado": null,
+      "link": "https://s.click.aliexpress.com/e/c4F9wdLX",
+      "cupom": "TAXABR1 + 25 Moedas",
+      "imagem": null
+    },
+    {
+      "id": 81537,
+      "nome": "Fonte XPG Kyber II 850W",
+      "preco": "494",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4a2qbQp",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 81536,
+      "nome": "Notebook Gamer Acer Nitro V15 Intel Core i7-13620H 13ªG 16GB RAM 512GB SSD RTX4050",
+      "preco": "5.799",
+      "preco_parcelado": "600",
+      "link": "https://meli.la/2BXdNnh",
+      "cupom": "Aplicar R$600 OFF.",
+      "imagem": null
+    },
+    {
+      "id": 81535,
+      "nome": "Smartphone Motorola Edge 70 5g - 256gb",
+      "preco": "1.932,30",
+      "preco_parcelado": "1.000",
+      "link": "https://meli.la/2R5Kzrb",
+      "cupom": "Aplicar R$1.000 OFF no anúncio",
+      "imagem": null
+    },
+    {
+      "id": 81534,
+      "nome": "Kit Starlink MINI Internet via satélite",
+      "preco": "649,00",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/4uFmGb2",
+      "cupom": "150OFF",
+      "imagem": null
+    },
+    {
+      "id": 81533,
+      "nome": "HyperX Cloud Stinger 2 - Headset gamer",
+      "preco": "161,10",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/49q71Uy",
+      "cupom": "GERU10GAMING",
+      "imagem": null
+    },
+    {
+      "id": 81532,
+      "nome": "Processador AMD Ryzen 7 8700F",
+      "preco": "999",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4u8MEmj",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81531,
+      "nome": "GIGABYTE Placa-mãe B550M Gaming X WIFI6",
+      "preco": "789,00",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4vnPgxH",
+      "cupom": "GOLEADA",
+      "imagem": null
+    },
+    {
+      "id": 81530,
+      "nome": "Celular Samsung Galaxy S26 Ultra 5G, 256GB Branco",
+      "preco": "4900",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1pUbjUj",
+      "cupom": "R$4900 - Só No Pix",
+      "imagem": null
+    },
+    {
+      "id": 81529,
+      "nome": "Monitor AOC 21 22B30HM23 FHD, 120Hz, 1MS, Preto",
+      "preco": "383",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4dSQoSH",
+      "cupom": "GOLEADA",
+      "imagem": null
+    },
+    {
+      "id": 81528,
+      "nome": "Microsoft Xbox Wireless Controller + USB-C Cable - Xbox",
+      "preco": "282",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4nTMBsN",
+      "cupom": "GOLEADA",
+      "imagem": null
+    },
+    {
+      "id": 81527,
+      "nome": "Placa Mãe MSI A520M-A PRO (AM4/2xDDR4/HDMI/DVI-D/M.2/USB 3.2)",
+      "preco": "338",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/49vQQVB",
+      "cupom": "GOLEADA",
+      "imagem": null
+    },
+    {
+      "id": 81526,
+      "nome": "Placa-Mãe MSI B550M PRO-VDH WIFI AM4 mATX",
+      "preco": "665,91",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/3RUFN2d",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 81525,
+      "nome": "Bettdow Monitor Portátil 15,6'', FHD 1080P Monitor Portátil",
+      "preco": "374,14",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4ffUTsO",
+      "cupom": "GOLEADA",
+      "imagem": null
+    },
+    {
+      "id": 81524,
+      "nome": "Samsung Galaxy S25 Fe 5g, 128GB, 8GB",
+      "preco": "2273",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/3PT6ljR",
+      "cupom": "R$2273 Só No Pix",
+      "imagem": null
+    },
+    {
+      "id": 81523,
+      "nome": "Placa Mãe MSI B840M GAMING WIFI6E (AM5/2xDDR5/HDMI/DisplayPort/M.2/USB 3.2)",
+      "preco": "790",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/43DLIv8",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 81522,
+      "nome": "Monitor Gamer TCL 25 Polegadas QD-Mini LED 300Hz 1ms",
+      "preco": "1.514",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4uMxRyQ",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 81521,
+      "nome": "Water Cooler Geometric Future Eskimo Pro 36 RGB Preto",
+      "preco": "334",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/43BxVoR",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 81520,
+      "nome": "Celular Samsung Galaxy A07 256GB",
+      "preco": "694",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/49twCvN",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 81519,
+      "nome": "Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE, Galaxy AI, Titânio Aeroespacial, Titânio",
+      "preco": "1899",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4u4cgk6",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 81518,
+      "nome": "Monitor 24 HQ Pro, 100Hz, FullHD+ 1920x1080, Widescreen, HDMI, VGA",
+      "preco": "388",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/3PQVQgL",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 81517,
+      "nome": "JBL Boombox 3",
+      "preco": "1.669",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4dE4KaF",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 81516,
+      "nome": "Teclado Magnetico Mancer Amethyst, RGB, Preto e Roxo",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/4qCrQUIwfX",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 81515,
+      "nome": "Water Cooler TGT Spartel V3, Rainbow, 120mm, Preto, TGT",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/8Kmjat1PVC",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 81514,
+      "nome": "Gabinete Gamer Aquário Acegeek Ori Rainbow Mini-Tower Lateral e Vidro Com 3 Fans",
+      "preco": "90",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/6L1fCzRsYa",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 81513,
+      "nome": "Gabinete Gamer Mancer Cv700m, Lateral De Vidro, Com 2 Fans",
+      "preco": "103",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/6AiF0eL8ls",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 81512,
+      "nome": "Suporte Articulado Para Dois Monitores Zinnia Nimbo 210, 13 Pol. a 32 Pol. Branco",
+      "preco": "110",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/70HM05f9Wm",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 81510,
+      "nome": "Monitor Gamer AOC Destiny 24,5 Polegadas 25G3ZM",
+      "preco": "899",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/43AVkGX",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 81509,
+      "nome": "Processador AMD Ryzen 7 5700X, 3,4 GHz, 8 núcleos, 16 threads, cache de 32 MB, soquete AM4, OEM",
+      "preco": "984",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/3PTycAh",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 81508,
+      "nome": "Samsung Galaxy S25 FE 5G, 128GB, 8GB",
+      "preco": "2.273",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4dEldf6",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 81507,
+      "nome": "Placa Mãe Asus TUF GAMING A520M-PLUS II",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4u23cfm",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 81506,
+      "nome": "Notebook Positivo Vision R15M com Minitela",
+      "preco": "2330",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4dE33dj",
+      "cupom": "TORCIDA",
+      "imagem": null
+    },
+    {
+      "id": 81505,
+      "nome": "Water Cooler 240mm Deepcool Lt240 Preto",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://meli.la/18jqQzn",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81504,
+      "nome": "iCLAMPER Eletro 5 Filtro de linha com DPS Bivolt 10A Branco",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/7Aam2b0yCY",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 81503,
+      "nome": "Teclado Mecanico Mancer Tharix, Rainbow, ABNT2, Switch Vermelho, Preto, MCR-THX-RBW01",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/8ATJEOK6Aa",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 81502,
+      "nome": "Teclado Magnetico Mancer Onyx, RGB, Preto, MCR-ONYP-BL01",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/6L1f2z5t4T",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 81501,
+      "nome": "GABINETE GAMER AIGO LUNA A275, RAINBOW, MINI-TOWER, LATERAL DE VIDRO, COM 3 FANS, PRETO",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/qgiUqER0s",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 81500,
+      "nome": "GABINETE GAMER AIGO LUNA A275, RAINBOW, MINI-TOWER, LATERAL DE VIDRO, COM 3 FANS, PRETO",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/7pqSpfbfYk",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 81499,
+      "nome": "Gabinete Gamer Aquário Acegeek Ori Rainbow Mini-Tower Lateral e Vidro Com 3 Fans",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/8ATJEEBDJt",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 81498,
+      "nome": "Gabinete Gamer Mancer Cv700m, Lateral De Vidro, Com 2 Fans",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/7pqSpa7eaK",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 81497,
+      "nome": "Gabinete Gamer Aquário Mancer CV500L, Mid Tower, Lateral De Vidro, Preto",
+      "preco": "160",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/3qKK4AYXA1",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 81496,
+      "nome": "Gabinete Gamer Aquário Mancer CV500L, Mid Tower, Lateral De Vidro, Branco, MCR-CV500L-WH",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/3VhTfWZNEo",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 81495,
+      "nome": "Suporte Articulado Pistão a Gás p/ 2 Monitores Zinnia Nimbo 210, 13 a 32",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/6feVRIlUVD",
+      "cupom": "T0RC1D4",
+      "imagem": null
+    },
+    {
+      "id": 81493,
+      "nome": "Havit Fone de Ouvido Gamer Five-Mode Fuxi-H7 Black",
+      "preco": "157",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4dBwo8i",
+      "cupom": "https://amzn.to/4dBwo8i",
+      "imagem": null
+    },
+    {
+      "id": 81492,
+      "nome": "Water Cooler Redragon CCW-3017 Preto 360mm ARGB 2550 RPM com Display de Monitoramento Magnético USB Tipo-C Intel LGA 1851 AMD AM5",
+      "preco": "401,99",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4vchxac",
+      "cupom": "https://amzn.to/4vchxac",
+      "imagem": null
+    },
+    {
+      "id": 81491,
+      "nome": "Gabinete Gamer Gamdias Aura Gc5 Elite Preto Argb Com 3 Fans (VERSÃO COM TELA DE MONITORAMENTO)",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://meli.la/13QZEwU",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81490,
+      "nome": "Monitor LG UltraGear 27G411A-B 27,FHD, 144Hz, 1ms (MBR), NVIDIA G-SYNC, AMD FreeSync, HDR10",
+      "preco": "768",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1LW5Hf6",
+      "cupom": "https://meli.la/1LW5Hf6",
+      "imagem": null
+    },
+    {
+      "id": 81489,
+      "nome": "Headset Gamer Fuxi-H3 Gray Havit, Com Fio e Sem Fio, Wireless 2,4GHz, Bluetooth, Cabo USB-C, Cabo 3,5mm. Surround, Baixa Latência, Quad-Mode",
+      "preco": "140",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4fPSDZr",
+      "cupom": "PRIME10",
+      "imagem": null
+    },
+    {
+      "id": 81488,
+      "nome": "Kit 5 Camisetas Dry All Black Alpha",
+      "preco": "119",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/2g8MYqfVRA",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 81487,
+      "nome": "Creatina Monohidratada Pura 1Kg Refil Dark Lab",
+      "preco": "44,90",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/W3rynhX6T",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 81486,
+      "nome": "Caixa de Som Bluetooth Portátil Go 4 À Prova D'Água",
+      "preco": "48",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/6feVK444fC",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 81485,
+      "nome": "Teclado Mecanico TGT Sherman V3 C1, Rainbow, ABNT2, Switch Vermelho, Preto",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/7VDcJYRYAB",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 81484,
+      "nome": "Celular Samsung Galaxy S26 5G, 512GB, 12GB RAM, Galaxy AI, Câmera Tripla de 50+12+10, Tela de 6.3 Azul",
+      "preco": "4862",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1oZwptE",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81483,
+      "nome": "Water Cooler TGT Spartel V3, Rainbow, 120mm, Preto, TGT",
+      "preco": "98",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/4Va0jvWzwO",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 81482,
+      "nome": "Teclado Magnetico Pichau Virgo Pro, ARGB, Switch Vermelho, Preto",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/1108ZSP8Es",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 81481,
+      "nome": "Gabinete Gamer Mancer Cv700m, Lateral De Vidro, Com 2 Fans",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/809suHVjMy",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 81480,
+      "nome": "Teclado Mecanico Mancer Tharix, Rainbow, ABNT2, Switch Vermelho, Preto, MCR-THX-RBW01",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/qgiN4tQCb",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 81479,
+      "nome": "Gabinete Gamer Mancer Narok V2",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/1qZFYscwtF",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 81478,
+      "nome": "Gabinete Gamer Acegeek Stratus Mesh, Rainbow, Mid-Tower, Lateral de Vidro, Com 3 Fans, Preto",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/8V69V61B6q",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 81477,
+      "nome": "SUPORTE ARTICULADO PARA MONITOR ZINNIA RUST 100",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/5AphWuoxMa",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 81476,
+      "nome": "Gabinete Gamer Aquário Mancer CV500L, Mid Tower, Lateral De Vidro, Preto",
+      "preco": "165",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/5q5OK6MpNU",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 81475,
+      "nome": "Kit Ventoinhas Acegeek Neon, ARGB, 3x120mm, Preto, AG-NEON3X1-BK",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/7VDcJ7zgzC",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 81474,
+      "nome": "GABINETE GAMER AIGO LUNA A275, RAINBOW, MINI-TOWER, LATERAL DE VIDRO, COM 3 FANS, PRETO",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/3LO3LR2t8S",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 81473,
+      "nome": "Gabinete Gamer Aquário Acegeek Ori Rainbow Mini-Tower Lateral e Vidro Com 3 Fans",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/7AaluQuBHP",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 81472,
+      "nome": "Suporte Articulado Para Dois Monitores Zinnia Nimbo 210, 13 Pol. a 32 Pol. Branco",
+      "preco": "119",
+      "preco_parcelado": "115",
+      "link": "https://s.shopee.com.br/7pqShawQAp",
+      "cupom": "HOT25A4AF",
+      "imagem": null
+    },
+    {
+      "id": 81470,
+      "nome": "Fonte Alimentacao Preta 650w Gamemax Gp650 80 Plus",
+      "preco": "246",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2AmH1mR",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81469,
+      "nome": "Teclado Mecânico Sem Fio Classroom F99 Rgb 99 Teclas Azulroxobranco Espanhol América Latina",
+      "preco": "342",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2opx4FB",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81468,
+      "nome": "Gabinete Gamer Hayom Aquário Com 4 Fans",
+      "preco": "187",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2QdsyLJ",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81467,
+      "nome": "Teclado Mecânico Attack Shark Sem Fio X85 Pro Display 75% Tela",
+      "preco": "268",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1ukApt9",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81466,
+      "nome": "Water Cooler Led Deepcool Ls720s Zero Dark Bk Sem Rg",
+      "preco": "399",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1sdUHc4",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81465,
+      "nome": "Placa De Vídeo Nvidia Geforce Palit Rtx5060 8gb Infinity2 Oc",
+      "preco": "2249",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1jaFXVP",
+      "cupom": "CUPOMDEHOJE",
+      "imagem": null
+    },
+    {
+      "id": 81464,
+      "nome": "Monitor Gamer Aoc 21.5'' Full Hd Gaming 120hz 1ms 22b30hm23 Cor Preto",
+      "preco": "368",
+      "preco_parcelado": null,
+      "link": "https://meli.la/21hi3uk",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81463,
+      "nome": "Water Cooler Gamdias Aura Gl240 Lite Preto Argb Am5 Lga 1851",
+      "preco": "187",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2W4dir3",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81462,
+      "nome": "Power Bank Pro 20000mAH ELG PB200BK, Bateria Portátil",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://meli.la/2PPVfTQ",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81461,
+      "nome": "Placa Mãe Maxsun B450M MS-Challenger AM4 DDR4 M-ATX AMD",
+      "preco": "337",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2eeNNhb",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81460,
+      "nome": "Placa de Vídeo INNO3D RTX 5050 TWIN X2 8GB",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://meli.la/2t7Yn9i",
+      "cupom": "CUPOMDEHOJE",
+      "imagem": null
+    },
+    {
+      "id": 81459,
+      "nome": "Monitor Portátil 15,6 MTM-1506 Full HD IPS Ultra Slim USB-C/HDMI",
+      "preco": "318",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2SB7vxA",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81458,
+      "nome": "Mouse Gamer Sem Fio Fire Phoenix 24000dpi Paw3311 Branco",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://meli.la/1zq6hwf",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81457,
+      "nome": "Teclado Gamer Mecânico Sem Fio Bluetooth Tri Mode 75% Free Wolf",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://meli.la/214bZ4n",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81456,
+      "nome": "Kit De Internet Via Satelite Starlink Mini Branco",
+      "preco": "634",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2KBVrZJ",
+      "cupom": "CUPOMDEHOJE",
+      "imagem": null
+    },
+    {
+      "id": 81455,
+      "nome": "Watercooler Deepcool Le360 V2 Argb Preto 360mm Preto",
+      "preco": "326",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2iyPx2e",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81454,
+      "nome": "Kit Ventoinhas Pichau Ventus Nx Reverse, ARGB, 3x120mm Preto",
+      "preco": "84",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2baspfQ",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81453,
+      "nome": "Filtro De Linha Iclamper Energia 8 Transparente",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://meli.la/26Z3LJ4",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81452,
+      "nome": "Smart Tv Samsung Led 50 Led Crystal Processor 4k Uhd Tizen 110v/220v",
+      "preco": "1.954",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1dx9HQ1",
+      "cupom": "CORREPRAPROMO",
+      "imagem": null
+    },
+    {
+      "id": 81451,
+      "nome": "Mouse Gamer Sem Fio 18000dpi Paw3311 Fire Phoenix Bk-r6x",
+      "preco": "86",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2XSinQ7",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81450,
+      "nome": "Mouse Gamer Sem Fio 18000dpi Paw3311 Fire Phoenix Bk-r6x",
+      "preco": "84",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2X238gT",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81449,
+      "nome": "Controle Sony Dualsense Midnight Black",
+      "preco": "308",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1rA4JmT",
+      "cupom": "MELICUPOM",
+      "imagem": null
+    },
+    {
+      "id": 81448,
+      "nome": "Caixa de Som JBL Boombox 4 Bluetooth 210W Azul Bivolt",
+      "preco": "1999",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/AKXn2G2VHh",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81447,
+      "nome": "Monitor Gamer Arzopa M1RC 27 IPS, Quad HD, 180Hz, 1ms",
+      "preco": "909,52",
+      "preco_parcelado": null,
+      "link": "https://s.click.aliexpress.com/e/c3Nvd2D7",
+      "cupom": "NAMR14 + 1159 Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 81446,
+      "nome": "Processador AMD Ryzen 5 5500, 3.6GHz",
+      "preco": "508",
+      "preco_parcelado": null,
+      "link": "https://s.shopee.com.br/3g0t4nESNl",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81443,
+      "nome": "Mouse Gamer Logitech G203 LIGHTSYNC RGB, Efeito de Ondas de Cores, 6 Botões Programáveis e Até 8.000 DPI - Lilás ou Branco",
+      "preco": "89",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4dDRnHE",
+      "cupom": "https://amzn.to/4dDRnHE",
+      "imagem": null
+    },
+    {
+      "id": 81442,
+      "nome": "Air Cooler GamerStorm X Redragon AK400 RD Preto 4 Heatpipes Fan 120 mm",
+      "preco": "149",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/3Q51zzM",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81441,
+      "nome": "R 697 em 9x sem juros",
+      "preco": "697",
+      "preco_parcelado": null,
+      "link": "https://meli.la/13KzPh5",
+      "cupom": "APROVEITAESSA",
+      "imagem": null
+    },
+    {
+      "id": 81440,
+      "nome": "2TB HD Externo Toshiba",
+      "preco": "577",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4nR5sVm",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81439,
+      "nome": "4x unidades Fone de Ouvido KZ EDX Pro X, Hi-Fi Dynamic Drive Earphone HIFI",
+      "preco": "95,36",
+      "preco_parcelado": "23,84",
+      "link": "https://s.click.aliexpress.com/e/c4pp7Lqp",
+      "cupom": "NAMR1 +297 Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 81438,
+      "nome": "Precinho! Quase 2KG de Whey",
+      "preco": "83",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/43GEIgZ",
+      "cupom": "https://amzn.to/43GEIgZ",
+      "imagem": null
+    },
+    {
+      "id": 81437,
+      "nome": "Mouse Vertical SOLAKAKA E9 Pro MMO PAW3395",
+      "preco": "262,29",
+      "preco_parcelado": null,
+      "link": "https://s.click.aliexpress.com/e/c3jVzaaN",
+      "cupom": "Siga a página para resgatar o cupom + NAMR2 + TJE9P0615 + Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 81436,
+      "nome": "Monitor HOESD.a 240hz IPS 24,5 19201080P, 120% sRGB, HDR400, FHD, 400Nits, DP, HDMI, VESA, 1080P Full HD, DP DisplayPort",
+      "preco": "578,33",
+      "preco_parcelado": null,
+      "link": "https://s.click.aliexpress.com/e/c3l1n0ml",
+      "cupom": "NANR4 + cupom da loja +137 moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 81435,
+      "nome": "KOOTION SSD SATA3 Discos de 2,5 Polegadas para PC Laptop SELECIONE ENVIO DO BRASIL",
+      "preco": "295,79",
+      "preco_parcelado": "568,08",
+      "link": "https://s.click.aliexpress.com/e/c4dfr96h",
+      "cupom": "NAMR2 + 49 Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 81434,
+      "nome": "Até o DURO vai namorar agora! Par de Alianças de Namoro + Solitário",
+      "preco": "43",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1s2BiL2",
+      "cupom": "­­­https://meli.la/1s2BiL2",
+      "imagem": null
+    },
+    {
+      "id": 81433,
+      "nome": "",
+      "preco": "29",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1tX1Wuk",
+      "cupom": "­­­https://meli.la/1tX1Wuk",
+      "imagem": null
+    },
+    {
+      "id": 81432,
+      "nome": "Creatina Ultra de 300g da FTW por 20 conto! Loja Oficial da FTW! (+50 mil vendidos)",
+      "preco": "20",
+      "preco_parcelado": null,
+      "link": "https://meli.la/14o79Ny",
+      "cupom": "­­­https://meli.la/14o79Ny",
+      "imagem": null
+    },
+    {
+      "id": 81431,
+      "nome": "Pra deixar o Cleiton livre Kit 3 Samba Canção De Liganete!",
+      "preco": "49",
+      "preco_parcelado": "29",
+      "link": "https://meli.la/2UgYuvP",
+      "cupom": "­­­https://meli.la/2UgYuvP",
+      "imagem": null
+    },
+    {
+      "id": 81430,
+      "nome": "Gabinete Gamer Kalkan Asgard Preto Aquário sem fans KLK00040",
+      "preco": "299",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/3Rxu3Ti",
+      "cupom": "R$ 299",
+      "imagem": null
+    },
+    {
+      "id": 81429,
+      "nome": "Havit Headphone Fone de Ouvido H2002d Red",
+      "preco": "119,90",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/431ucAQ",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81428,
+      "nome": "Controle Sony Dualsense Midnight Black",
+      "preco": "314",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4vmoN3z",
+      "cupom": "FLOWGAMES10",
+      "imagem": null
+    },
+    {
+      "id": 81427,
+      "nome": "Mousepad Gamer Rainbow 6 Siege Stylish Design MP-100, Checkpoint, Pequeno (269x320) - R6-MP-1002",
+      "preco": "9",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/434CdFb",
+      "cupom": "LIVE28PAD",
+      "imagem": null
+    },
+    {
+      "id": 81426,
+      "nome": "Apenas para usuários Selecionados no APP da Amazon - Roleta Amazon",
+      "preco": "40",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4vhLtlj",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81425,
+      "nome": "Ryzen 7 8700F",
+      "preco": "999",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4vdEOsh",
+      "cupom": "https://amzn.to/4vdEOsh",
+      "imagem": null
+    },
+    {
+      "id": 81424,
+      "nome": "Ryzen 5 8400F",
+      "preco": "799",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4u7kLuT",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81423,
+      "nome": "Ryzen 5 9600x",
+      "preco": "1099",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4u59vPz",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81422,
+      "nome": "Mouse Gamer Redragon K1ng 1K Preto PAW3327 Cabo USB Tipo-C Removível 12400 DPI M724",
+      "preco": "75",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4vfuPme",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81421,
+      "nome": "JBL, Caixa de Som, Grip, Bluetooth, Portátil, À Prova D'água e Poeira, Bateria de até 46h, Auracast, Som JBL",
+      "preco": "334",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/42YURyj",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81420,
+      "nome": "Processador AMD Ryzen 5 5500, 3.6GHz (4.2GHz Max Turbo), Cache 19MB, AM4, Sem Vídeo - 100-100000457BOX",
+      "preco": "497",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/3Q4YmjI",
+      "cupom": "LIVE28CPU",
+      "imagem": null
+    },
+    {
+      "id": 81419,
+      "nome": "Kit Starlink MINI Internet via satélite, Dual Band 3 x 3 MU-MIMO, WiFi 5, WPA2, Ethernet LAN, Plugue Starlink, Branco",
+      "preco": "639",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/43Cu5fa",
+      "cupom": "LIVE28MINI",
+      "imagem": null
+    },
+    {
+      "id": 81418,
+      "nome": "R 577 em 12x sem juros",
+      "preco": "577",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4336ZhD",
+      "cupom": "https://amzn.to/4336ZhD",
+      "imagem": null
+    },
+    {
+      "id": 81417,
+      "nome": "R 1.179 em 10x sem juros",
+      "preco": "1.179",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1vWHU6E",
+      "cupom": "APROVEITAESSA",
+      "imagem": null
+    },
+    {
+      "id": 81416,
+      "nome": "R 1.249 em 12x sem juros",
+      "preco": "1.249",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/3PUCHum",
+      "cupom": "https://amzn.to/3PUCHum",
+      "imagem": null
+    },
+    {
+      "id": 81414,
+      "nome": "Controle Sony Dualsense Midnight Black",
+      "preco": "314",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/42Yq44C",
+      "cupom": "FLOWGAMES10",
+      "imagem": null
+    },
+    {
+      "id": 81413,
+      "nome": "Ghost Of Tsushima - PS4",
+      "preco": "59",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/49tZiot",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81411,
+      "nome": "Mouse Vertical SOLAKAKA E9 Pro MMO PAW3395",
+      "preco": "262,29",
+      "preco_parcelado": null,
+      "link": "https://s.click.aliexpress.com/e/c2zXY709",
+      "cupom": "Siga a página para resgatar o cupom + NAMR2 + TJE9P0615 + Moedas no APP",
+      "imagem": null
+    },
+    {
+      "id": 81410,
+      "nome": "Suporte de Mesa Articulado para Monitor de 17 a 32 Ergofirst, Ajuste com Pistão a Gás, Preto - G16-C012",
+      "preco": "69",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/4wR4r3L",
+      "cupom": "LIVE28SUP",
+      "imagem": null
+    },
+    {
+      "id": 81409,
+      "nome": "Monitor gamer Alienware 25",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://amzn.to/3RAoIdS",
+      "cupom": "FLOWGAMES10",
+      "imagem": null
+    },
+    {
+      "id": 81408,
+      "nome": "R 899 em 12x sem juros",
+      "preco": "899",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4dBuc0u",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81407,
+      "nome": "Parcelada! Hisense Smart TV FHD 43 Polegadas 43A4NV com HDR10, DTS Virtual X, Compatibilidade Alexa e Google Home",
+      "preco": "1.298",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/436vP06",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81406,
+      "nome": "Headset Gamer Drop + EPOS H3X, Preto MDX-36686-1",
+      "preco": "199",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/3RAoF1G",
+      "cupom": "LIVE28DROP",
+      "imagem": null
+    },
+    {
+      "id": 81405,
+      "nome": "2 Unidades 600g - Creatina Dark Lab",
+      "preco": "55",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4uEERNS",
+      "cupom": "comprar c/ recorrência",
+      "imagem": null
+    },
+    {
+      "id": 81404,
+      "nome": "JBL, Caixa de Som, Boombox 3, Bluetooth, À Prova D'água e Poeira - Camuflada",
+      "preco": "1.719",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4wXJG6s",
+      "cupom": "GOLEADA",
+      "imagem": null
+    },
+    {
+      "id": 81403,
+      "nome": "(Parcelado) Monitor Gamer AOC AGON G42 27 200Hz 0,3ms IPS",
+      "preco": "821",
+      "preco_parcelado": null,
+      "link": "https://meli.la/2974BXg",
+      "cupom": "APROVEITAESSA",
+      "imagem": null
+    },
+    {
+      "id": 81402,
+      "nome": "SMARTWATCH SAMSUNG GALAXY FIT3 40.0MM, DISPLAY 1.6, GRAFITE",
+      "preco": "169",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/4eaT7In",
+      "cupom": "LIVE28WATCH",
+      "imagem": null
+    },
+    {
+      "id": 81401,
+      "nome": "Monitor Gamer AOC AGON G42 24 200Hz 0,3ms IPS",
+      "preco": "698",
+      "preco_parcelado": null,
+      "link": "https://meli.la/13KzPh5",
+      "cupom": "APROVEITAESSA",
+      "imagem": null
+    },
+    {
+      "id": 81400,
+      "nome": "Monitor Gamer Philips 24 Evnia Ips 200hz 0,3ms Wide Fullhd",
+      "preco": "685",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1HFyYvZ",
+      "cupom": "APROVEITAESSA",
+      "imagem": null
+    },
+    {
+      "id": 81399,
+      "nome": "HyperX Cloud Stinger 2 - Headset gamer",
+      "preco": "161,10",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4dBGhmn",
+      "cupom": "GERU10GAMING",
+      "imagem": null
+    },
+    {
+      "id": 81398,
+      "nome": "Fifine Ampligame Mixer, XLR, USB, Efeito de Voz, Preto - SC3",
+      "preco": "199",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/3Q9bkwT",
+      "cupom": "LIVE28MIX",
+      "imagem": null
+    },
+    {
+      "id": 81397,
+      "nome": "HD Externo Toshiba 2TB Canvio Basics Preto HDTB520XK3AA",
+      "preco": "609",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/4dRyPSW",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81396,
+      "nome": "Kit com 3 Ventoinhas Husky Arctic Breeze, 120mm, ARGB, Branco - HKCF300BR",
+      "preco": "64,79",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/4u0C1le",
+      "cupom": "LIVE28HUSKY",
+      "imagem": null
+    },
+    {
+      "id": 81395,
+      "nome": "Havit Headphone Fone de Ouvido H2002d Red",
+      "preco": "119,90",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/3PHdy6x",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81394,
+      "nome": "Processador AMD Ryzen 7 5700 Box",
+      "preco": "849,00",
+      "preco_parcelado": "30,00",
+      "link": "https://amzn.to/4uDwkef",
+      "cupom": "R$ 30,00 OFF na finalização conforme anuncio",
+      "imagem": null
+    },
+    {
+      "id": 81393,
+      "nome": "Suporte de Mesa Articulado para Monitor de 17 a 32 Ergofirst",
+      "preco": "69",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/4v7Smp6",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81392,
+      "nome": "Monitor Gamer ASUS TUF 25, FHD, 200Hz, 0.3ms, IPS, FreeSync Premium",
+      "preco": null,
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/3NC91AH",
+      "cupom": "LIVE28TUF",
+      "imagem": null
+    },
+    {
+      "id": 81391,
+      "nome": "Gabinete Gamer Kalkan Asgard Evo, ATX, Mid Tower, Lateral em Vidro Temperado, Sem Fans, Preto - KLK00084",
+      "preco": "238",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/4x2cpr8",
+      "cupom": "R$ 238 - cupom LIVE28GABI",
+      "imagem": null
+    },
+    {
+      "id": 81390,
+      "nome": "Fonte MACH1 EMPOWER, 850W, Cybenetics Platinum, Modular, PFC Ativo, Preto - 850EMPOWER",
+      "preco": "509",
+      "preco_parcelado": null,
+      "link": "https://tidd.ly/3Q8NiSD",
+      "cupom": "R$ 509 - cupom LIVE28FONTE",
+      "imagem": null
+    },
+    {
+      "id": 81389,
+      "nome": "Volante e Pedais Logitech G29 Driving Force com Force Feedback para PS5, PS4, PS3 e PC",
+      "preco": "1556",
+      "preco_parcelado": null,
+      "link": "https://amzn.to/43A2J9v",
+      "cupom": "R$ 1556 - cupom ATACANTE",
+      "imagem": null
+    },
+    {
+      "id": 81388,
+      "nome": "Gabinete Gamer Kalkan Asgard Preto Aquário sem fans",
+      "preco": "340,90",
+      "preco_parcelado": "56,85",
+      "link": "https://amzn.to/432YUJP",
+      "cupom": null,
+      "imagem": null
+    },
+    {
+      "id": 81387,
+      "nome": "Monitor Gamer Curvo AOC AGON QUAD 32 180Hz 0,5ms",
+      "preco": "1.179",
+      "preco_parcelado": null,
+      "link": "https://meli.la/1p1gwtM",
+      "cupom": "APROVEITAESSA",
+      "imagem": null
+    }
+  ],
+  "cupons": [
+    {
+      "id": 98883,
+      "nome": "Cupom Amazon",
+      "codigo": "SABADAO",
+      "desconto": "150",
+      "limite_minimo": "1499",
+      "link": "https://amzn.to/45u11bi",
+      "imagem": null
+    },
+    {
+      "id": 98879,
+      "nome": "Ainda Ativos - Cupons Mercado Livre",
+      "codigo": "SOHOJE",
+      "desconto": "60",
+      "limite_minimo": "150",
+      "link": "https://mercadolivre.com/sec/2QHVXjk",
+      "imagem": null
+    },
+    {
+      "id": 98873,
+      "nome": "Cupom Amazon APP",
+      "codigo": "AMAZONCBF",
+      "desconto": "80",
+      "limite_minimo": null,
+      "link": "https://amzn.to/4taYA6M",
+      "imagem": null
+    },
+    {
+      "id": 98872,
+      "nome": "Cupom Amazon",
+      "codigo": "CANARINHO",
+      "desconto": "50",
+      "limite_minimo": "450",
+      "link": "https://amzn.to/45u11bi",
+      "imagem": null
+    },
+    {
+      "id": 98864,
+      "nome": "Cupons Mercado Livre Ativos",
+      "codigo": "SOHOJE",
+      "desconto": "60",
+      "limite_minimo": "150",
+      "link": "https://mercadolivre.com/sec/2QHVXjk",
+      "imagem": null
+    },
+    {
+      "id": 98858,
+      "nome": "Cupom Shopee Voltando",
+      "codigo": "T0RC1D4",
+      "desconto": "30",
+      "limite_minimo": "120",
+      "link": "https://s.shopee.com.br/7VDe1kpmq6",
+      "imagem": null
+    },
+    {
+      "id": 98835,
+      "nome": "ESGOTA RÁPIDO! Cupom Shopee Voltando",
+      "codigo": "HOT25A4AF",
+      "desconto": "25",
+      "limite_minimo": "69",
+      "link": "https://s.shopee.com.br/10stAzGFob",
+      "imagem": null
+    },
+    {
+      "id": 98833,
+      "nome": "ESGOTANDO! Cupom Shopee Automóveis e Motocicletas",
+      "codigo": "PEC4S0B9AF",
+      "desconto": "40",
+      "limite_minimo": "115",
+      "link": "https://s.shopee.com.br/10stAzGFob",
+      "imagem": null
+    },
+    {
+      "id": 98829,
+      "nome": "Novos Cupons Mercado Livre",
+      "codigo": "SOHOJE",
+      "desconto": "60",
+      "limite_minimo": "150",
+      "link": "https://mercadolivre.com/sec/2QHVXjk",
+      "imagem": null
+    },
+    {
+      "id": 98828,
+      "nome": "Cupom Amazon",
+      "codigo": "CAMPEONATO10",
+      "desconto": "200,",
+      "limite_minimo": "50",
+      "link": "https://amzn.to/45u11bi",
+      "imagem": null
+    },
+    {
+      "id": 98823,
+      "nome": "Cupom de mil reais na Shopee",
+      "codigo": "https://s.shopee.com.br/7VDa5DlEBL",
+      "desconto": "1000",
+      "limite_minimo": null,
+      "link": "https://s.shopee.com.br/7VDa5DlEBL",
+      "imagem": null
+    },
+    {
+      "id": 98807,
+      "nome": "Mais Cupons Shopee (Selecionados)",
+      "codigo": "https://s.shopee.com.br/3qJnMyJ8OI",
+      "desconto": "25",
+      "limite_minimo": "175",
+      "link": "https://s.shopee.com.br/3qJnMyJ8OI",
+      "imagem": null
+    },
+    {
+      "id": 98803,
+      "nome": "Cupom Shopee Automóveis e Motocicletas",
+      "codigo": "PEC4S0B9AF",
+      "desconto": "40",
+      "limite_minimo": "115",
+      "link": "https://s.shopee.com.br/10stAzGFob",
+      "imagem": null
+    },
+    {
+      "id": 98784,
+      "nome": "Cupom Mercado Livre",
+      "codigo": "4646637575",
+      "desconto": "79,",
+      "limite_minimo": "60",
+      "link": "https://mercadolivre.com/sec/2QHVXjk",
+      "imagem": null
+    },
+    {
+      "id": 98783,
+      "nome": "Cupons Amazon Esgotando",
+      "codigo": "PAISDOFUT",
+      "desconto": "200",
+      "limite_minimo": "1999",
+      "link": "https://amzn.to/4bSvOAU",
+      "imagem": null
+    },
+    {
+      "id": 98766,
+      "nome": "Cupom Amazon",
+      "codigo": "PAISDOFUT",
+      "desconto": "200",
+      "limite_minimo": "1999",
+      "link": "https://amzn.to/45u11bi",
+      "imagem": null
+    },
+    {
+      "id": 98753,
+      "nome": "Cupom Mercado Livre em Nivea",
+      "codigo": null,
+      "desconto": "59,",
+      "limite_minimo": "100",
+      "link": "https://meli.la/1eRmSYE",
+      "imagem": null
+    },
+    {
+      "id": 98737,
+      "nome": "Cupons Shopee Oscilando",
+      "codigo": "5L0K135AF",
+      "desconto": "5",
+      "limite_minimo": "35",
+      "link": "https://s.shopee.com.br/4ftPKrnPD6",
+      "imagem": null
+    },
+    {
+      "id": 98734,
+      "nome": "Cupom Shopee",
+      "codigo": "C4C4D34CH4D05X9KLMZ",
+      "desconto": "10",
+      "limite_minimo": "40",
+      "link": "https://s.shopee.com.br/9UygoMmB7R",
+      "imagem": null
+    },
+    {
+      "id": 98721,
+      "nome": "Cupons Ativos Amazon",
+      "codigo": "GOLEADA",
+      "desconto": "50",
+      "limite_minimo": "299",
+      "link": "https://amzn.to/45u11bi",
+      "imagem": null
+    },
+    {
+      "id": 98716,
+      "nome": "Cupom Shopee Voltando!",
+      "codigo": "T0RC1D4",
+      "desconto": "30",
+      "limite_minimo": "120",
+      "link": "https://s.shopee.com.br/9UygoMmB7R",
+      "imagem": null
+    },
+    {
+      "id": 98707,
+      "nome": "Cupom Amazon",
+      "codigo": "TORCIDA",
+      "desconto": "150,",
+      "limite_minimo": "100",
+      "link": "https://amzn.to/45u11bi",
+      "imagem": null
+    },
+    {
+      "id": 98703,
+      "nome": "VAI ESGOTAR! Cupom Shopee",
+      "codigo": "HOT25A4AF",
+      "desconto": "25",
+      "limite_minimo": "69",
+      "link": "https://s.shopee.com.br/9UygoMmB7R",
+      "imagem": null
+    },
+    {
+      "id": 98687,
+      "nome": "Cupom Shopee",
+      "codigo": "T0RC1D4",
+      "desconto": "30",
+      "limite_minimo": "120",
+      "link": "https://s.shopee.com.br/9UygoMmB7R",
+      "imagem": null
+    },
+    {
+      "id": 98683,
+      "nome": "Vai ESGOTAR! Cupom Shopee",
+      "codigo": "HOT25A4AF",
+      "desconto": "25",
+      "limite_minimo": "69",
+      "link": "https://s.shopee.com.br/10stAzGFob",
+      "imagem": null
+    },
+    {
+      "id": 22267,
+      "nome": "Cupom Mercado Livre 8% OFF em",
+      "codigo": "OFERTASHOJE",
+      "desconto": "79,",
+      "limite_minimo": "150",
+      "link": "https://benchpromos.com.br/promocao/cupom-mercado-livre-8-off-em-r79-limite-r-150/cmpodctcd3b929t0ibj2bj25s",
+      "imagem": null
+    },
+    {
+      "id": 22220,
+      "nome": "Cupom Magalu no APP",
+      "codigo": "100INFLU",
+      "desconto": "100",
+      "limite_minimo": "1000",
+      "link": "https://benchpromos.com.br/promocao/cupom-magalu-no-app/cmpn3hkqf37j59t0idnrh017w",
+      "imagem": null
+    },
+    {
+      "id": 81565,
+      "nome": "NOVO CUPOM DE DESCONTO NO MERCADO LIVRE",
+      "codigo": "SOHOJE",
+      "desconto": "79,",
+      "limite_minimo": "60",
+      "link": "https://meli.la/1ksaNey",
+      "imagem": null
+    },
+    {
+      "id": 81564,
+      "nome": "NOVO/ATIVO CUPOM NA AMAZON PRIME",
+      "codigo": "CAMPEONATO10",
+      "desconto": "200,",
+      "limite_minimo": "50",
+      "link": "https://amzn.to/4viVZca",
+      "imagem": null
+    },
+    {
+      "id": 81494,
+      "nome": "CUPOM DE DESCONTO NA SHOPEE",
+      "codigo": "https://s.shopee.com.br/qgiUXQmf7",
+      "desconto": "30",
+      "limite_minimo": "120",
+      "link": "https://s.shopee.com.br/9KfGc9OODE",
+      "imagem": null
+    },
+    {
+      "id": 81471,
+      "nome": "Novo cupom shopee",
+      "codigo": "HOT25A4AF ",
+      "desconto": "25",
+      "limite_minimo": "69",
+      "link": "https://s.shopee.com.br/3B4d8vL0hB",
+      "imagem": null
+    },
+    {
+      "id": 81444,
+      "nome": "CUPONS DE DESCONTO SHOPEE",
+      "codigo": "https://s.shopee.com.br/1gFogv9Jqq",
+      "desconto": "30",
+      "limite_minimo": "299",
+      "link": "https://s.shopee.com.br/1gFogv9Jqq",
+      "imagem": null
+    },
+    {
+      "id": 81412,
+      "nome": "Cupons Kabum em ítens selecionados",
+      "codigo": "LIVE28FONTE",
+      "desconto": "20%",
+      "limite_minimo": null,
+      "link": "https://tidd.ly/4u1yfYK",
+      "imagem": null
+    }
+  ]
+}
